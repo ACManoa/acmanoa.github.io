@@ -1,0 +1,304 @@
+/* ==========================================================================
+   NAVIGATION
+   ========================================================================== */
+
+/*
+   Breadcrumb navigation links
+   ========================================================================== */
+
+.breadcrumbs {
+  @include container;
+  @include clearfix;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 2em;
+  padding-right: 2em;
+  font-family: $sans-serif;
+
+  @include breakpoint($large) {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  ol {
+    padding: 0;
+    list-style: none;
+    font-size: 14px;
+
+    @include breakpoint($large) {
+      @include span(10 of 12 last);
+    }
+
+    @include breakpoint($x-large) {
+      @include prefix(0.5 of 12);
+    }
+  }
+
+  li {
+    display: inline;
+  }
+
+  .current {
+    font-weight: bold;
+  }
+}
+
+
+/*
+   Post pagination navigation links
+   ========================================================================== */
+
+.pagination {
+  padding-top: 0.5em;
+  border-top: 1px solid $border-color;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  li + li:before {
+    content: "";
+    padding-right: 10px;
+  }
+
+  .current {
+    font-weight: bold;
+  }
+}
+
+
+/*
+   Priority plus navigation
+   ========================================================================== */
+
+.greedy-nav {
+  position: relative;
+  min-width: 250px;
+  background: #fff;
+
+  a {
+    display: block;
+    margin: 0 20px;
+    padding: 10px 0;
+    color: $gray;
+    text-decoration: none;
+
+    &:hover {
+      color: #000;
+    }
+  }
+
+  button {
+    position: absolute;
+    height: 100%;
+    right: 0;
+    padding: 0 10px;
+    border: 0;
+    outline: none;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .visible-links {
+    display: inline-table;
+
+    li {
+      display: table-cell;
+
+      &:first-child {
+        font-weight: bold;
+
+        a {
+          margin-left: 0;
+        }
+      }
+
+      &:last-child {
+        a {
+          margin-right: 0;
+        }
+      }
+    }
+
+    a {
+      position: relative;
+
+      &:before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        height: 4px;
+        background: $light-gray;
+        width: 0;
+        transition: 0.3s;
+      }
+
+      &:hover {
+        color: #000;
+        border-bottom-color: $border-color;
+
+        &:before {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .hidden-links {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+
+    a {
+      margin: 0;
+      padding: 10px 20px;
+      font-size: 0.8em;
+
+      &:hover {
+        color: #000;
+        background: $border-color;
+      }
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: -11px;
+      right: 10px;
+      width: 0;
+      border-style: solid;
+      border-width: 0 10px 10px;
+      border-color: $border-color transparent;
+      display: block;
+      z-index: 0;
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: -10px;
+      right: 10px;
+      width: 0;
+      border-style: solid;
+      border-width: 0 10px 10px;
+      border-color: #fff transparent;
+      display: block;
+      z-index: 1;
+    }
+
+    li {
+      display: block;
+      border-bottom: 1px solid $border-color;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+
+/*
+   Navigation list
+   ========================================================================== */
+
+.nav__list {
+  a {
+    display: block;
+    padding: 2px 0;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .active {
+    color: $primary-color;
+    font-weight: bold;
+  }
+}
+
+.nav__title {
+  margin: 0;
+  padding: 10px 20px;
+  font-family: $sans-serif-narrow;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 1px solid $border-color;
+}
+
+.nav__sub-title {
+  display: block;
+  margin: 10px 0;
+  padding: 10px 0;
+  font-family: $sans-serif-narrow;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 1px solid $border-color;
+}
+
+
+/*
+   Table of contents navigation
+   ========================================================================== */
+
+.toc {
+  padding: 0 0 1em;
+  font-family: $sans-serif-narrow;
+  color: $gray;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: #fff;
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+
+  a {
+    display: block;
+    padding: 10px 20px;
+    color: $gray;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+
+    &:hover {
+      color: #000;
+      background: $lighter-gray;
+    }
+  }
+
+  li ul > li a {
+    font-weight: normal;
+  }
+
+  // hide sub sub links on small screens
+  li > ul li {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+    }
+  }
+}
