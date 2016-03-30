@@ -1,5 +1,5 @@
-# acmmanoa.github.io
-This website is built on top of a Jekyll theme modified and extended from the Minimal Mistakes theme.
+# Association for Computing Machinery at Manoa
+This website is built off of the Jekyll theme **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** by Michael Rose.
 
 # Minimal Mistakes
 
