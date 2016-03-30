@@ -11,8 +11,8 @@ title                    : "ACManoa"
 title_separator          : "-"
 name                     : &name "ACManoa"
 description              : &description "The student chapter of the Association for Computing Machinery at UH Manoa."
-url                      : # //acmanoa.github.io
-baseurl                  :  # the subpath of your site, e.g. /blog
+url                      : http://acmanoa.github.io
+baseurl                  : # the subpath of your site, e.g. /blog
 email                    : &email acmmanoa@hawaii.edu
 logo                     : "site-logo.png"
 teaser                   : "500x300.png"
