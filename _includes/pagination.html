@@ -6,9 +6,9 @@
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li><a href="{{ base_path }}/" class="btn">{{ site.data.ui-text[site.locale].pagination_previous }}</a></li>
+        <li><a href="/" class="btn">{{ site.data.ui-text[site.locale].pagination_previous }}</a></li>
       {% else %}
-        <li><a href="{{ base_path }}/page{{ paginator.previous_page }}/" class="btn">{{ site.data.ui-text[site.locale].pagination_previous }}</a></li>
+        <li><a href="/page{{ paginator.previous_page }}/" class="btn">{{ site.data.ui-text[site.locale].pagination_previous }}</a></li>
       {% endif %}
     {% endif %}
 
@@ -16,7 +16,7 @@
     {% if paginator.page == 1 %}
       <li><strong class="current">1</strong></li>
     {% else %}
-      <li><a href="{{ base_path }}/">1</a></li>
+      <li><a href="/">1</a></li>
     {% endif %}
 
     {% assign page_start = 2 %}
@@ -42,7 +42,7 @@
           {% comment %}Distance must be a positive value{% endcomment %}
           {% assign dist = 0 | minus: dist %}
         {% endif %}
-        <li><a href="{{ base_path }}/page{{ index }}/">{{ index }}</a></li>
+        <li><a href="/page{{ index }}/">{{ index }}</a></li>
       {% endif %}
     {% endfor %}
 
@@ -54,12 +54,12 @@
     {% if paginator.page == paginator.total_pages %}
       <li><strong class="current">{{ paginator.page }}</strong></li>
     {% else %}
-      <li><a href="{{ base_path }}/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
+      <li><a href="/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
     {% endif %}
 
     {% comment %}Link next page{% endcomment %}
     {% if paginator.next_page %}
-      <li><a href="{{ base_path }}/page{{ paginator.next_page }}/" class="btn">{{ site.data.ui-text[site.locale].pagination_next }}</a></li>
+      <li><a href="/page{{ paginator.next_page }}/" class="btn">{{ site.data.ui-text[site.locale].pagination_next }}</a></li>
     {% endif %}
   </ul>
 </nav>

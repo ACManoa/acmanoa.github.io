@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Theme Setup"
-    url: /theme-setup/
+  - title: "About"
+    url: /about/
 
-  - title: "Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
 
-  - title: "Categories"
-    url: /categories/
+  - title: "Members"
+    url: /members/
 
-  - title: "Tags"
-    url: /tags/
+  - title: "Activities"
+    url: /activities/
 
-  - title: "Pages"
-    url: /page-archive/
+  - title: "Calendar"
+    url: /calendar/
 
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Resources"
+    url: /resources/
 
 
 # documentation links

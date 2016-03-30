@@ -1,3 +1,6 @@
+# Association for Computing Machinery at Manoa
+This website is built off of the Jekyll theme **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** by Michael Rose.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog built. Compatible with Jekyll 3.0 and up.

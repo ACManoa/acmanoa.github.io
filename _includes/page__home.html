@@ -1,0 +1,26 @@
+{% if page.header.image contains "http" %}
+  {% capture img_path %}{{ page.header.image }}{% endcapture %}
+{% else %}
+  {% capture img_path %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+{% endif %}
+
+{% if page.header.overlay_image contains "http" %}
+  {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
+{% elsif page.header.overlay_image %}
+  {% capture overlay_img_path %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+{% endif %}
+
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %}"
+>
+  {% if page.header.overlay_image %}
+    <div class="wrapper">
+      <img src="{{ overlay_img_path }}" class="page__home-image">
+    </div>
+  {% else %}
+    <img src="{{ img_path }}" alt="{{ page.title }}" class="page__home-image">
+  {% endif %}
+  {% if page.header.caption %}
+    <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+  {% endif %}
+</div>

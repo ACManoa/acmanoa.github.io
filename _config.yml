@@ -7,44 +7,46 @@
 
 # Site Settings
 locale                   : en_US
-title                    : "Minimal Mistakes"
+title                    : "ACManoa"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : # the base hostname & protocol for your site e.g. "//github.io.mmistakes"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. /blog
-email                    : # e.g. "your-email@domain.com"
+name                     : &name "ACManoa"
+description              : &description "The student chapter of the Association for Computing Machinery at UH Manoa."
+url                      : # //acmanoa.github.io
+baseurl                  :  # the subpath of your site, e.g. /blog
+email                    : &email acmmanoa@hawaii.edu
 logo                     : "site-logo.png"
 teaser                   : "500x300.png"
 breadcrumbs              : # true, false (default)
 breadcrumb_home_label    : "Home"
 breadcrumb_separator     : "/"
+slack:
+  username               : &slack acmmanoa
 twitter:
-  username               : &twitter "mmistakes"
+  username               : # &twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook groups/acmmanoa
   app_id                 :
   publisher              :
 read_time                : true
 words_per_minute         : 200
-share                    : true
+share                    : # true
 comments:
-  provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : # "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "mmistakes-dev" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # "mmistakes-dev" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification : # "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-2011187-3"
+    tracking_id          : # "UA-2011187-3"
 google_ad_client         :
 google_ad_slot           :
 
@@ -54,8 +56,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    # - "https://twitter.com/mmistakes"
+    # - "https://facebook.com/michaelrose"
 
 # Reading Files
 safe: true
@@ -244,15 +246,16 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : *description
   email            : *email
-  uri              : "https://mademistakes.com"
+  uri              : "acmanoa.github.io"
   codepen          :
   dribbble         :
   flickr           :
+  slack            : *slack
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "acmanoa"
   google_plus      :
-  instagram        : "mmistakes"
+  instagram        : # "mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
