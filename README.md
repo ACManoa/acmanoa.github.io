@@ -1,3 +1,6 @@
+# acmmanoa.github.io
+This website is built on top of a Jekyll theme modified and extended from the Minimal Mistakes theme.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog built. Compatible with Jekyll 3.0 and up.
