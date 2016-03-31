@@ -38,4 +38,4 @@ We have made it our mission is to connect our members to professionals in the in
 
 #### Technical
 
-We are an organization largely comprised of aspiring professionals in the computing industry. Members in ACM can form and join 'Playgrounds', where they can collaborate on projects they're interested in.
+Being largely comprised of aspiring professionals in the computing industry, members in ACManoa can join Special Interest Groups (**SIG**) and **Playgrounds** where they can collaborate on interesting projects.
