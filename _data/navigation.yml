@@ -18,6 +18,9 @@ main:
   - title: "Resources"
     url: /resources/
 
+  - title: "POST 318B"
+    url: /icslounge
+
 
 # documentation links
 docs:
