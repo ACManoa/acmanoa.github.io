@@ -21,7 +21,7 @@ The Association for Computing Machinery (**ACM**) is the world's largest educati
 
 ### ACManoa
 
-The Association of Computing Machinery at Manoa is the student chapter of ACM at the University of Hawaii at Manoa. We are a Registered Independent Organization (**RIO**) with a focus on providing opportunities and resources to students interested in computing technology.
+The Association of Computing Machinery at Manoa is the student chapter of ACM at the University of Hawaii at Manoa. We are a Registered Independent Organization (**RIO**) focused on providing opportunities and resources for our members' personal and professional advancement.
 
 
 ### ACManoa's Three Tier Structure
