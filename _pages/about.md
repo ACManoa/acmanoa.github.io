@@ -33,7 +33,7 @@ We hold social activities for our members to have fun, and develop and strengthe
 
 #### Professional
 
-We have made it our mission is to connect our members to professionals in the industry, whether they be overseas or in the local community.
+We strive to connect our members to professionals in the industry, abroad and within the community.
 
 
 #### Technical
