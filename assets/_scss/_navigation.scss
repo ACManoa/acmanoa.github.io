@@ -131,25 +131,27 @@
       }
     }
 
-    a {
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        height: 4px;
-        background: $light-gray;
-        width: 0;
-        transition: 0.3s;
-      }
-
-      &:hover {
-        color: #000;
-        border-bottom-color: $border-color;
+    @media screen and (min-width: 481px){
+      a {
+        position: relative;
 
         &:before {
-          width: 100%;
+          content: "";
+          position: absolute;
+          bottom: 0;
+          height: 4px;
+          background: $light-gray;
+          width: 0;
+          transition: 0.3s;
+        }
+
+        &:hover {
+          color: #000;
+          border-bottom-color: $border-color;
+
+          &:before {
+            width: 100%;
+          }
         }
       }
     }
