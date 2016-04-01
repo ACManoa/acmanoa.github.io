@@ -3,14 +3,14 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Activities"
+    url: /activities/
+
   - title: "News"
     url: /news/
 
   - title: "Members"
     url: /members/
-
-  - title: "Activities"
-    url: /activities/
 
   - title: "Calendar"
     url: /calendar/
