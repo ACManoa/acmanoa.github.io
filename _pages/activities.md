@@ -26,9 +26,10 @@ ACM is dedicated to providing its members with a range of professional, social, 
   <img src="/images/frontwebdev.png" title="Web 2.0 stack" alt="Web 2.0 stack">
 </figure>
 
-#### Web Development Playground
+#### **Playground:** Web Development
 
-  * Playground leader: Evelyn Pirnia(<a href="mailto:epirnia@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>epirnia@hawaii.edu</a>)
+  * Playground Leader: Evelyn Pirnia(<a href="mailto:epirnia@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>epirnia@hawaii.edu</a>)
+  * Check out the calendar for **Web Dev**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
 
@@ -42,6 +43,7 @@ ACM is dedicated to providing its members with a range of professional, social, 
   * Special Interest Group for Embedded Systems
   * Faculty Advisor: Peter-Michael Seidel
   * Student Chair: Hendricks Hicks(<a href="mailto:hicksh@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>hicksh@hawaii.edu</a>)
+  * Check out the calendar for **SIGBED**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
 
@@ -55,3 +57,4 @@ ACM is dedicated to providing its members with a range of professional, social, 
   * Special Interest Group for Computer Graphics
   * Faculty Advisor: Jason Leigh
   * Student Chair: Anna Sikkink(<a href="mailto:asikkink@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>asikkink@hawaii.edu</a>)
+  * Check out the calendar for **SIGGRAPH**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
