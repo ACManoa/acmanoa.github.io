@@ -21,6 +21,12 @@
   }
 }
 
+.page__full-image-overlay{
+  height:300px;
+  background-image: url("/images/post318b.png");
+  background-size: cover;
+}
+
 .page {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;

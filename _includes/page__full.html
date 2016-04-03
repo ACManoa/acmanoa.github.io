@@ -10,9 +10,11 @@
   {% capture overlay_img_path %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% endif %}
 
-<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay-color{% endif %}"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: url('{{ overlay_img_path }}');{% endif %}"
->
+<div class="page__full-image-overlay">
+</div>
+<!-- <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay-color{% endif %}"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: url('{{ overlay_img_path }}');background-size:cover;{% endif %}"
+> -->
   {% if page.header.overlay_image or page.header.overlay_color %}
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
