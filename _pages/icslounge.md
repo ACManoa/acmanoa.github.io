@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: "POST 318B"
+layout: full
+title: ""
+excerpt: ""
 permalink: /icslounge/
+header:
+  overlay_image: "post318b.png"
 author_profile: true
 ---
 
