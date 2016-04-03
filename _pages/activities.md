@@ -1,13 +1,11 @@
 ---
 permalink: /activities/
-title: ""
+title: "Activities and Events"
 author_profile: true
 #excerpt: "We have socials, talks, demos, presentations, hackathons, playgrounds, and more! Check out some of the stuff we're up to!"
 ---
 
 {% include toc %}
-
-### Activities and Events
 
 ACM is dedicated to providing its members with a range of professional, social, and technical activities. Movie nights, game nights, beach outings, hikes, tech talks, industry guest speaker presentations, hackathons, playgrounds, and demos -- to name a few.
 
