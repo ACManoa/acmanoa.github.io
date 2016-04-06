@@ -7,31 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-<table>
-  <tr>
-    <th colspan="5"><h3>Spring 2016 Officer's Board</h3></th>
-  </tr>
-  <hr>
-  {% for officer in site.data.officers %}
-      <tr>
-        <td>
-          <div class="author__avatar">
-            <img src="{{ officer.avatar | prepend: "/images/" | prepend: base_path }}" class="" alt="{{ officer.name }}">
-          </div>
-        </td>
-        <td>
-          <strong>{{ officer.name }}</strong>
-        </td>
-        <td>
-          <strong>{{ officer.role }}</strong>
-        </td>
-        <td>
-          <strong>@{{ officer.slack_handle }}</strong>
-        </td>
-        <td>
-          <strong><a href="mailto:{{ officer.email }}">{{ officer.email }}</a></strong>
-        </td>
-      </tr>
+<div class="section-desktop">
+  <table>
+    <tr>
+      <th colspan="5"><h3>Spring 2016 Officer's Board</h3></th>
+    </tr>
+    <hr>
+    {% for officer in site.data.officers %}
+        <tr>
+          <td>
+            <div class="author__avatar">
+              <img src="{{ officer.avatar | prepend: "/images/" | prepend: base_path }}" class="" alt="{{ officer.name }}">
+            </div>
+          </td>
+          <td>
+            <strong>{{ officer.name }}</strong>
+          </td>
+          <td>
+            <strong>{{ officer.role }}</strong>
+          </td>
+          <td>
+            <strong>@{{ officer.slack_handle }}</strong>
+          </td>
+          <td>
+            <strong><a href="mailto:{{ officer.email }}"><i class="fa fa-fw fa-envelope-square"></i> {{ officer.email }}</a></strong>
+          </td>
+        </tr>
 
+    {% endfor %}
+  </table>
+</div>
+<div class="section-mobile">
+  <h4>Spring 2016 Officer's Board</h4>
+  <hr>
+  
+  {% for officer in site.data.officers %}
+    <div class="author__avatar">
+      <img src="{{ officer.avatar | prepend: "/images/" | prepend: base_path }}" class="" alt="{{ officer.name }}">
+    </div>
+    <strong>{{ officer.name }}</strong><br>
+    <strong>{{ officer.role }}</strong><br>
+    <strong><i class="fa fa-fw fa-slack"></i> @{{ officer.slack_handle }}</strong><br>
+    <strong><a href="mailto:{{ officer.email }}"><i class="fa fa-fw fa-envelope-square"></i> {{ officer.email }}</a></strong>
+    <br>
   {% endfor %}
-</table>
+</div>

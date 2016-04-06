@@ -21,6 +21,26 @@
   }
 }
 
+.section-desktop {
+  display: none;
+}
+
+@media screen and (min-width: 481px) {
+  .section-desktop {
+    display: block;
+  }
+}
+
+.section-mobile {
+  display: none;
+}
+
+@media screen and (max-width: 480px) {
+  .section-mobile {
+    display: block;
+  }
+}
+
 .page__full-image-overlay{
   height:300px;
   background-image: url("/images/post318b.png");
