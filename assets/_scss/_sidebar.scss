@@ -117,6 +117,17 @@
     font-size: 20px;
   }
 }
+.author__role {
+  margin: 0;
+  // font-size: 18px;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    // font-size: 20px;
+  }
+}
+
 .sidebar .author__name {
   font-family: $sans-serif;
 }
@@ -126,7 +137,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 

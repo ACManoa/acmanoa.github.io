@@ -15,11 +15,15 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.role %}<h5 class="author__role">{{ author.role }}</h5>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse btn--small">Follow</button>
     <ul class="author__urls social-icons">
+      {% if author.slack_handle %}
+        <li><a href="http://acmmanoa.slack.com" target="_blank"><i class="fa fa-fw fa-slack"></i>@{{ author.slack_handle }}</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank"><i class="fa fa-fw fa-globe"></i> {{ site.data.ui-text[site.locale].website_label }}</a></li>
       {% endif %}

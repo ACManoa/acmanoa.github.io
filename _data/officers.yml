@@ -1,7 +1,6 @@
 # Authors
 
-Evelyn Pirnia:
-  name        : "Evelyn Pirnia"
+- name        : "Evelyn Pirnia"
   role        : "President"
   uri         :
   slack_handle: evelynpirnia
@@ -11,8 +10,7 @@ Evelyn Pirnia:
   twitter     :
   google_plus :
 
-Hendricks Hicks:
-  name        : "Hendricks Hicks"
+- name        : "Hendricks Hicks"
   role        : "Vice President"
   uri         :
   slack_handle: hicksh
@@ -22,8 +20,7 @@ Hendricks Hicks:
   twitter     :
   google_plus :
 
-Anna Sikkink:
-  name        : "Anna Sikkink"
+- name        : "Anna Sikkink"
   role        : "Treasurer"
   uri         :
   slack_handle: asikkink
@@ -33,8 +30,7 @@ Anna Sikkink:
   twitter     :
   google_plus :
 
-Yubi Peterson:
-  name        : "Yubi Peterson"
+- name        : "Yubi Peterson"
   role        : "Marketing Chair"
   uri         :
   slack_handle: yubi
@@ -44,8 +40,7 @@ Yubi Peterson:
   twitter     :
   google_plus :
 
-Ed White:
-  name        : "Ed White"
+- name        : "Ed White"
   role        : "Professional Liason"
   uri         :
   slack_handle: ew2
@@ -55,8 +50,7 @@ Ed White:
   twitter     :
   google_plus :
 
-Tor Nielsen:
-  name        : "Tor Nielsen"
+- name        : "Tor Nielsen"
   role        : "Webmaster"
   uri         :
   slack_handle: tor

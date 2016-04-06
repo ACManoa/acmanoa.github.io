@@ -6,3 +6,32 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<table>
+  <tr>
+    <th colspan="5"><h3>Spring 2016 Officer's Board</h3></th>
+  </tr>
+  <hr>
+  {% for officer in site.data.officers %}
+      <tr>
+        <td>
+          <div class="author__avatar">
+            <img src="{{ officer.avatar | prepend: "/images/" | prepend: base_path }}" class="" alt="{{ officer.name }}">
+          </div>
+        </td>
+        <td>
+          <strong>{{ officer.name }}</strong>
+        </td>
+        <td>
+          <strong>{{ officer.role }}</strong>
+        </td>
+        <td>
+          <strong>@{{ officer.slack_handle }}</strong>
+        </td>
+        <td>
+          <strong><a href="mailto:{{ officer.email }}">{{ officer.email }}</a></strong>
+        </td>
+      </tr>
+
+  {% endfor %}
+</table>
