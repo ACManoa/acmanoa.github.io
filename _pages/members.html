@@ -27,20 +27,24 @@ author_profile: true
             <strong>{{ officer.role }}</strong>
           </td>
           <td>
-            <strong>@{{ officer.slack_handle }}</strong>
+            <strong><i class="fa fa-fw fa-slack"></i> @{{ officer.slack_handle }}</strong>
           </td>
           <td>
             <strong><a href="mailto:{{ officer.email }}"><i class="fa fa-fw fa-envelope-square"></i> {{ officer.email }}</a></strong>
           </td>
         </tr>
-
+        {% if officer.bio %}
+          <tr>
+            <td colspan="5"><em>{{ officer.bio }}</em></td>
+          </tr>
+        {% endif %}
     {% endfor %}
   </table>
 </div>
 <div class="section-mobile">
   <h4>Spring 2016 Officer's Board</h4>
   <hr>
-  
+
   {% for officer in site.data.officers %}
     <div class="author__avatar">
       <img src="{{ officer.avatar | prepend: "/images/" | prepend: base_path }}" class="" alt="{{ officer.name }}">
