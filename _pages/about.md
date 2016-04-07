@@ -41,11 +41,11 @@ ACManoa has 3 pillars - social, professional, and technical. We hold social acti
             <strong><a href="mailto:{{ officer.email }}"><i class="fa fa-fw fa-envelope-square"></i> {{ officer.email }}</a></strong>
           </td>
         </tr>
-        {% if officer.bio %}
+        <!-- {% if officer.bio %}
           <tr>
             <td colspan="5"><em>{{ officer.bio }}</em></td>
           </tr>
-        {% endif %}
+        {% endif %} -->
     {% endfor %}
   </table>
 </div>
