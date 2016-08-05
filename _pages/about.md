@@ -18,7 +18,7 @@ ACManoa has 3 pillars - social, professional, and technical. We hold social acti
 <div class="section-desktop">
   <table>
     <tr>
-      <th colspan="5"><h3>Spring 2016 Officer's Board</h3></th>
+      <th colspan="5"><h3>Fall 2016 Officer's Board</h3></th>
     </tr>
     <hr>
     {% for officer in site.data.officers %}

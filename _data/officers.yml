@@ -30,23 +30,23 @@
   twitter     :
   google_plus :
 
-- name        : "Yubi Peterson"
+- name        : "Blake Larson"
   role        : "Marketing Chair"
   uri         :
-  slack_handle: yubi
-  email       : "yubi@hawaii.edu"
+  slack_handle: blake
+  email       : "blake7@hawaii.edu"
   bio         : ""
-  avatar      : "yubi.png"
+  avatar      : "bio-photo.jpg"
   twitter     :
   google_plus :
 
-- name        : "Ed White"
+- name        : "Brian May"
   role        : "Professional Liason"
   uri         :
-  slack_handle: ew2
-  email       : "ew7@hawaii.edu"
+  slack_handle: brianmay
+  email       : "brianmay@hawaii.edu"
   bio         : ""
-  avatar      : "ed_white.png"
+  avatar      : "bio-photo.jpg"
   twitter     :
   google_plus :
 
