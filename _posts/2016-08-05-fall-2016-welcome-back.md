@@ -11,9 +11,6 @@ tags:
 ---
 
 
-# Welcome back ACM members!
-
-
 Hope you all had an enjoyable summer, we have a couple announcements and reminders going into the Fall semester.
 
 ___
