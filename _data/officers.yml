@@ -10,16 +10,6 @@
   twitter     :
   google_plus :
 
-- name        : "Hendricks Hicks"
-  role        : "Vice President"
-  uri         :
-  slack_handle: hicksh
-  email       : "hicksh@hawaii.edu"
-  bio         : ""
-  avatar      : "hendricks.png"
-  twitter     :
-  google_plus :
-
 - name        : "Anna Sikkink"
   role        : "Treasurer"
   uri         :
@@ -49,14 +39,4 @@
   avatar      : "brianmay.jpg"
   twitter     :
   google_plus :
-
-- name        : "Tor Nielsen"
-  role        : "Webmaster"
-  uri         :
-  slack_handle: tor
-  email       : "torleif@hawaii.edu"
-  bio         : "A dreamer, a student, and an aspiring web developer."
-  avatar      : "tor.png"
-  facebook    : "torleif.nielsen"
-  twitter     :
-  google_plus :
+  
