@@ -1,42 +1,42 @@
 # Authors
 
-- name        : "Evelyn Pirnia"
-  role        : "President"
-  uri         :
-  slack_handle: evelynpirnia
-  email       : "epirnia@hawaii.edu"
-  bio         : ""
-  avatar      : "evelyn.png"
-  twitter     :
-  google_plus :
-
-- name        : "Anna Sikkink"
-  role        : "Treasurer"
-  uri         :
-  slack_handle: asikkink
-  email       : "asikkink@hawaii.edu"
-  bio         : ""
-  avatar      : "anna.png"
-  twitter     :
-  google_plus :
-
-- name        : "Blake Larson"
-  role        : "Marketing Chair"
-  uri         :
-  slack_handle: blake
-  email       : "blake7@hawaii.edu"
-  bio         : ""
-  avatar      : "bio-photo.jpg"
-  twitter     :
-  google_plus :
-
 - name        : "Brian Mayeshiro"
-  role        : "Professional Liason"
+  role        : "President"
   uri         :
   slack_handle: brianmay
   email       : "brianmay@hawaii.edu"
   bio         : ""
   avatar      : "brianmay.jpg"
+  twitter     :
+  google_plus :
+
+- name        : "Christopher Jaro"
+  role        : "Vice President"
+  uri         :
+  slack_handle: somnoms
+  email       : "cpjaro@hawaii.edu"
+  bio         : ""
+  avatar      : "bio-photo.jpg"
+  twitter     :
+  google_plus :
+
+- name        : "Mark Arakaki"
+  role        : "Event Coordinator"
+  uri         :
+  slack_handle: marka2
+  email       : "marka2@hawaii.edu"
+  bio         : ""
+  avatar      : "bio-photo.jpg"
+  twitter     :
+  google_plus :
+
+- name        : "Sean Takafuji"
+  role        : "Treasurer"
+  uri         :
+  slack_handle: seanytak
+  email       : "seanytak@hawaii.edu"
+  bio         : ""
+  avatar      : "bio-photo.jpg"
   twitter     :
   google_plus :
   
