@@ -1,41 +1,31 @@
 # Authors
 
-- name        : "Brian Mayeshiro"
+- name        : "Tyler Chong"
   role        : "President"
   uri         :
-  slack_handle: brianmay
-  email       : "brianmay@hawaii.edu"
+  slack_handle: viltaria
+  email       : "tcchong@hawaii.edu"
   bio         : ""
-  avatar      : "brianmay.jpg"
+  avatar      : "tcchong.jpg"
   twitter     :
   google_plus :
 
-- name        : "Christopher Jaro"
+- name        : "Ty Uehara"
   role        : "Vice President"
   uri         :
-  slack_handle: somnoms
-  email       : "cpjaro@hawaii.edu"
+  slack_handle: tyu
+  email       : "tyu@hawaii.edu"
   bio         : ""
-  avatar      : "christopherjaro.png"
+  avatar      : "bio-photo.jpg"
   twitter     :
   google_plus :
 
-- name        : "Michael Mangrobang"
-  role        : "Event Coordinator"
-  uri         :
-  slack_handle: Mickey
-  email       : "mjm4@hawaii.edu"
-  bio         : ""
-  avatar      : "https://github.com/ACManoa/acmanoa.github.io/blob/master/images/mickey.jpg"
-  twitter     :
-  google_plus :
-
-- name        : "Sean Takafuji"
+- name        : "Isaac Demello"
   role        : "Treasurer"
   uri         :
-  slack_handle: seanytak
-  email       : "seanytak@hawaii.edu"
+  slack_handle: idemello
+  email       : "idemello@hawaii.edu"
   bio         : ""
-  avatar      : "sean_takafuji.png"
+  avatar      : "idemello.png"
   twitter     :
   google_plus :
