@@ -24,7 +24,7 @@ slack:
 twitter:
   username               : # &twitter "mmistakes"
 facebook:
-  username               : &facebook groups/acmmanoa
+  username               : # &facebook groups/acmmanoa
   app_id                 :
   publisher              :
 read_time                : true
