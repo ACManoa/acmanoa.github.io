@@ -21,7 +21,7 @@ ACM is dedicated to providing its members with a range of professional, social, 
 ### Special Interest Groups (SIGs)
 
 <figure class="third">
-  <img src="/images/grey-hats.png" title="Grey Hats at UHM" alt="Grey Hats at UHM">
+  <img src="/images/greyhats.png" title="Grey Hats at UHM" alt="Grey Hats at UHM">
 </figure>
 
 #### **SIG:** Grey Hats at UHM
