@@ -7,7 +7,7 @@ author_profile: true
 
 {% include toc %}
 
-ACM is dedicated to providing its members with a range of professional, social, and technical activities. Movie nights, game nights, beach outings, hikes, tech talks, industry guest speaker presentations, hackathons, playgrounds, and demos -- to name a few.
+ACM is dedicated to providing its members with a range of professional, social, and technical activities. Game Nights, resume workshops, tech talks, industry guest speaker presentations, hackathons -- to name a few.
 
 
 <!-- * Movie nights
@@ -18,21 +18,21 @@ ACM is dedicated to providing its members with a range of professional, social, 
 * Industry guest speakers -->
 
 
-### Playgrounds & Special Interest Groups (SIGs)
+### Special Interest Groups (SIGs)
 
 <figure class="third">
-  <img src="/images/frontwebdev.png" title="Web 2.0 stack" alt="Web 2.0 stack">
+  <img src="/images/grey-hats.png" title="Grey Hats at UHM" alt="Grey Hats at UHM">
 </figure>
 
-#### **Playground:** Web Development
+#### **SIG:** Grey Hats at UHM
 
-  * Playground Leader: Evelyn Pirnia(<a href="mailto:epirnia@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>epirnia@hawaii.edu</a>)
-  * Check out the calendar for **Web Dev**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
+  * Group Leader: Tyler Chong(<a href="mailto:tcchong@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>tcchong@hawaii.edu</a>)
+  * Check out the calendar for the **Grey Hats at UHM**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
 
 
-<figure class="third">
+<!-- <figure class="third">
   <img src="/images/arduino.png" title="Arduino logo" alt="Arduino logo">
 </figure>
 
@@ -55,4 +55,4 @@ ACM is dedicated to providing its members with a range of professional, social, 
   * Special Interest Group for Computer Graphics
   * Faculty Advisor: Jason Leigh
   * Student Chair: Anna Sikkink(<a href="mailto:asikkink@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>asikkink@hawaii.edu</a>)
-  * Check out the calendar for **SIGGRAPH**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
+  * Check out the calendar for **SIGGRAPH**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a> -->
