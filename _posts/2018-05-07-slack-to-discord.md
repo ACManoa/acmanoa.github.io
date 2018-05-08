@@ -24,3 +24,5 @@ We cannot wait to welcome everyone to our new Discord! Stay tuned, and don't fai
 
 Thanks,
 ACManoa
+
+<iframe src="https://discordapp.com/widget?id=438617987701014528&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
