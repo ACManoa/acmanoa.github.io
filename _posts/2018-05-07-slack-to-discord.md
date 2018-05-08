@@ -1,5 +1,5 @@
 ---
-title:  "ACM is moving to Discord"
+title:  "ACManoa is moving to Discord"
 header:
   teaser: ""
 author_profile: true
