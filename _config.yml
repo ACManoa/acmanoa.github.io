@@ -243,7 +243,7 @@ compress_html:
 # Site Author
 author:
   name             : *name
-  avatar           : "bio-photo.jpg"
+  avatar           : "new-logo.png"
   bio              : *description
   email            : *email
   uri              : "acmanoa.github.io"
