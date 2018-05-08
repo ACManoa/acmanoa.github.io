@@ -14,7 +14,7 @@ description              : &description "The student chapter of the Association 
 url                      : http://acmanoa.github.io
 baseurl                  : # the subpath of your site, e.g. /blog
 email                    : &email acmmanoa@hawaii.edu
-logo                     : "site-logo.png"
+logo                     : "new-logo.png"
 teaser                   : "500x300.png"
 breadcrumbs              : # true, false (default)
 breadcrumb_home_label    : "Home"
