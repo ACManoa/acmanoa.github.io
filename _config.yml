@@ -21,6 +21,8 @@ breadcrumb_home_label    : "Home"
 breadcrumb_separator     : "/"
 slack:
   username               : &slack acmmanoa
+discord:
+  username               : &discord https://discord.gg/BpCHQHf
 twitter:
   username               : # &twitter "mmistakes"
 facebook:
@@ -249,6 +251,7 @@ author:
   uri              : "acmanoa.github.io"
   codepen          :
   dribbble         :
+  discord          : "https://discord.gg/BpCHQHf"
   flickr           :
   slack            : *slack
   facebook         : *facebook
