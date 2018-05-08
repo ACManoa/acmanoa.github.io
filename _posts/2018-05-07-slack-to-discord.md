@@ -8,6 +8,10 @@ tags:
   - slack
 ---
 
+<figure class="full">
+    <img src="/images/discord.png">
+</figure>
+
 This Friday, we will be migrating from Slack to Discord. Our Slack community has grown to almost 200 users, and we are very excited to see the community grow even more on Discord!
 
 We love Slack, but it’s just not built for huge online communities. It is quite lacking in some areas: no message history, lack of space for uploads, and no grouping of people. 
