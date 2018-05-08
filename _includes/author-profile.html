@@ -33,7 +33,7 @@
       {% if author.slack %}
         <li><a href="https://{{ author.slack }}.slack.com" target="_blank"><i class="fa fa-fw fa-slack"></i> Slack</a></li>
       {% endif %}
-      { if author.discord %}
+      {% if author.discord %}
         <li><a href="{{ author.discord }}" target="_blank"><i class="fa fa-fw fa-discord"></i> Discord</a></li>
       {% endif %}
       {% if author.twitter %}
