@@ -248,7 +248,7 @@ author:
   avatar           : "new-logo.png"
   bio              : *description
   email            : *email
-  uri              : "acmanoa.github.io"
+  uri              : "http://acmanoa.github.io"
   codepen          :
   dribbble         :
   discord          : "https://discord.gg/BpCHQHf"
