@@ -3,6 +3,8 @@ title:  "ACManoa is moving to Discord"
 header:
   teaser: ""
 author_profile: true
+categories:
+  - events
 tags:
   - discord
   - slack
