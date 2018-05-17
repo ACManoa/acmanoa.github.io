@@ -22,4 +22,4 @@ We hope that this decision to centralize helps us give news to the entire ICS co
 
 Thanks, and hope to see you all next year!
 
-- Grey Hats at UHM & ACManoa
+_Grey Hats at UHM & ACManoa_
