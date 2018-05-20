@@ -9,6 +9,8 @@ author_profile: true
 
 {% include toc %}
 
+AACI is a group dedicated towards the studying of Algorithms for applied usage, whether it be in research or competitions, they devote themselves to the cause.
+
 
 ### What is the purpose of AACI?
 The purpose of AACI (pronounced like ASCII without the S) is for applying algorithms for competitions and coding interviews. We recognize that
