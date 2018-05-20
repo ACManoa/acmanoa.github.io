@@ -26,11 +26,17 @@ ACM is dedicated to providing its members with a range of professional, social, 
 
 #### **SIG:** Grey Hats at UHM
 
-  * Group Leader: Tyler Chong(<a href="mailto:tcchong@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>tcchong@hawaii.edu</a>)
+  * Group Leader: Olivia Murray(<a href="mailto:omurray4@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>omurray4@hawaii.edu</a>)
   * Check out the calendar for the **Grey Hats at UHM**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
 
+#### **SIG:** AACI
+
+  * Group Leader: Alice Chen(<a href="mailto:alicewy@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>alicewy@hawaii.edu</a>)
+  * Check out the calendar for the **AACI**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
+
+<hr>
 
 <!-- <figure class="third">
   <img src="/images/arduino.png" title="Arduino logo" alt="Arduino logo">
