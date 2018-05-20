@@ -34,6 +34,7 @@ ACM is dedicated to providing its members with a range of professional, social, 
 #### **SIG:** AACI
 
   * Group Leader: Alice Chen(<a href="mailto:alicewy@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>alicewy@hawaii.edu</a>)
+  * Learn more (<a href="/aaci">here</a>)
   * Check out the calendar for the **AACI**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
