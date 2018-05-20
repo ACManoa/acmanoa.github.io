@@ -9,7 +9,8 @@ author_profile: true
 
 {% include toc %}
 
-AACI is a group dedicated towards the studying of Algorithms for applied usage, whether it be in research or competitions, they devote themselves to the cause.
+AACI is a group dedicated towards the studying of Algorithms for applied usage.
+Whether it be in research or competitions, they devote themselves to the cause.
 
 
 ### What is the purpose of AACI?
