@@ -31,7 +31,11 @@ ACM is dedicated to providing its members with a range of professional, social, 
 
 <hr>
 
-#### **SIG:** AACI
+<figure class="third">
+  <img src="/images/AACI.png" title="Applying Algorithms for Competitions and Interviews" alt="AACI Logo">
+</figure>
+
+#### **SIG:** Applying Algorithms for Competitions and Interviews (AACI)
 
   * Group Leader: Alice Chen(<a href="mailto:alicewy@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>alicewy@hawaii.edu</a>)
   * Learn more (<a href="/aaci">here</a>)
