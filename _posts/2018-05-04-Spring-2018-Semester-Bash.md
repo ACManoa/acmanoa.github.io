@@ -28,7 +28,7 @@ tags:
     <img src="/images/Spring18-4.jpg">
 </figure>
 
-## Congratulations to all the Spring 2018 ICS graduates that came out!
+#### Congratulations to all the Spring 2018 ICS graduates that came out!
 
 * **Rory Andrews**
 * **Wyatt Bartlett** 
@@ -42,12 +42,12 @@ tags:
 * **Jonathan Na**
 * **Jonathan Nguyen**
 * **Kari Noe**
-* **Kurt Noe
+* **Kurt Noe**
 * **Alex Watanabe**
 
 Thanks!
 
-## Special thanks to the following:
+#### Special thanks to the following:
 
 * **to the ICS department for sponsoring the event**
 * **to the ICS faculty for eating all our food**
