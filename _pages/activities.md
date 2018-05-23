@@ -9,15 +9,6 @@ author_profile: true
 
 ACM is dedicated to providing its members with a range of professional, social, and technical activities. Game Nights, resume workshops, tech talks, industry guest speaker presentations, hackathons -- to name a few.
 
-
-<!-- * Movie nights
-* Game nights
-* Beach outings
-* Hikes
-* Tech talks
-* Industry guest speakers -->
-
-
 ### Special Interest Groups (SIGs)
 
 <figure class="third">
@@ -27,6 +18,7 @@ ACM is dedicated to providing its members with a range of professional, social, 
 #### **SIG:** Grey Hats at UHM
 
   * Group Leader: Olivia Murray(<a href="mailto:omurray4@hawaii.edu"><i class="fa fa-fw fa-envelope-square"></i>omurray4@hawaii.edu</a>)
+  * Group Website: (<a href="http://uhmgreyhats.github.io">http://uhmgreyhats.github.io/</a>)
   * Check out the calendar for the **Grey Hats at UHM**'s current meeting times! <a href="{{ domain }}/calendar"><i class="fa fa-fw fa-calendar"></i>ACManoa Calendar</a>
 
 <hr>
