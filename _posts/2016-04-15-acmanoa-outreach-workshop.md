@@ -2,7 +2,7 @@
 layout: post
 title: "ACManoa's Outreach Workshops"
 featured-img: sacred_hearts_club
-categories: [ACManoa, UH ICS, University of Hawaii, ICS, ACM, Association for Computing Machinery at Manoa, UHManoa, Sacred Hearts, Outreach, Workshop]
+categories: [Sacred Hearts, Outreach, Workshop]
 ---
 
 ACManoa hosted two outreach workshops in ICSpace (POST 318B) earlier this month. The workshops provided students from the UH Information and Computer Science (ICS) program with the opportunity to mentor high school students interested in programming. Members of ACManoa took the opportunity to give back to the community and foster interest in the ICS program at the University.
@@ -10,21 +10,21 @@ ACManoa hosted two outreach workshops in ICSpace (POST 318B) earlier this month.
 During the first Outreach Workshop on April 1st, participants from Sacred Hearts and Kalani High School were introduced to the command line with bash, Java, and the git version control tool. <br>
 
 <figure class="full">
-    <img src="/images/sacred_hearts_club.jpg">
+    <img src="/assets/img/posts/sacred_hearts_club.jpg">
     <figcaption><em>Deborah Kula (far left) with students from Sacred Hearts</em></figcaption>
 </figure>
 
 The second workshop on April 2nd was an open coding session for students from Punahou High School. The Punahou students had been developing projects in Java for several weeks and this was a chance for them to hack away, ask questions, and receive mentorship. ACManoa strives to provide opportunities and environments that encourage people to be creative and bold.
 
 <figure class="full">
-    <img src="/images/hs_student_presents_app.png">
+    <img src="/assets/img/posts/hs_student_presents_app.png">
     <figcaption><em>A student from Punahou presents his project to students from UH Manoa: an enigma machine simulator written in Java</em></figcaption>
 </figure>
 
 By the end of both days, high school students interested in computer science and in computer programming got to know students from the UH ICS program. It was a mutually benefiting experience that ACManoa hopes to reproduce in future outreach events with the community.
 
 <figure class="full">
-    <img src="/images/sacred_hearts_with_acm.png">
+    <img src="/assets/img/posts/sacred_hearts_with_acm.png">
     <figcaption><em>Students from Sacred Hearts with student mentors from UH Manoa</em></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ By the end of both days, high school students interested in computer science and
 -Deborah Kula, Sacred Hearts Academy
 
 <figure class="full">
-    <img src="/images/punahou_compsci_students.png">
+    <img src="/assets/img/posts/punahou_compsci_students.png">
     <figcaption><em>Douglas Kiang (far left) and students from his AP Computer Science course, with student mentors from UH Manoa</em></figcaption>
 </figure>
 
