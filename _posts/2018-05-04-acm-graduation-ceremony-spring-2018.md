@@ -9,15 +9,15 @@ categories: [ACManoa, Graduation]
 <figure class="full">
     <img src="/assets/img/posts/Spring18-1.jpg">
 </figure>
-
+<br>
 <figure class="full">
     <img src="/assets/img/posts/Spring18-2.jpg">
 </figure>
-
+<br>
 <figure class="full">
     <img src="/assets/img/posts/Spring18-3.jpg">
 </figure>
-
+<br>
 <figure class="full">
     <img src="/assets/img/posts/Spring18-4.jpg">
 </figure>
