@@ -9,32 +9,43 @@ ACManoa hosted two outreach workshops in ICSpace (POST 318B) earlier this month.
 
 During the first Outreach Workshop on April 1st, participants from Sacred Hearts and Kalani High School were introduced to the command line with bash, Java, and the git version control tool. <br>
 
-<figure class="full">
-    <img src="/assets/img/posts/sacred_hearts_club.jpg">
-    <figcaption><em>Deborah Kula (far left) with students from Sacred Hearts</em></figcaption>
-</figure>
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/sacred_hearts_club.jpg">
+	    <figcaption><em>Deborah Kula (far left) with students from Sacred Hearts</em></figcaption>
+	</figure>
+</center>
 
-The second workshop on April 2nd was an open coding session for students from Punahou High School. The Punahou students had been developing projects in Java for several weeks and this was a chance for them to hack away, ask questions, and receive mentorship. ACManoa strives to provide opportunities and environments that encourage people to be creative and bold.
+<br>
+The second workshop on April 2nd was an open coding session for students from Punahou High School. The Punahou students had been developing projects in Java for several weeks and this was a chance for them to hack away, ask questions, and receive mentorship. ACManoa strives to provide opportunities and environments that encourage people to be creative and bold. <br>
 
-<figure class="full">
-    <img src="/assets/img/posts/hs_student_presents_app.png">
-    <figcaption><em>A student from Punahou presents his project to students from UH Manoa: an enigma machine simulator written in Java</em></figcaption>
-</figure>
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/hs_student_presents_app.png">
+	    <figcaption><em>A student from Punahou presents his project to students from UH Manoa: an enigma machine simulator written in Java</em></figcaption>
+	</figure>
+</center>
 
+<br>
 By the end of both days, high school students interested in computer science and in computer programming got to know students from the UH ICS program. It was a mutually benefiting experience that ACManoa hopes to reproduce in future outreach events with the community.
+<br>
 
-<figure class="full">
-    <img src="/assets/img/posts/sacred_hearts_with_acm.png">
-    <figcaption><em>Students from Sacred Hearts with student mentors from UH Manoa</em></figcaption>
-</figure>
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/sacred_hearts_with_acm.png">
+	    <figcaption><em>Students from Sacred Hearts with student mentors from UH Manoa</em></figcaption>
+	</figure>
+</center>
 
 > Thank you for a truly exciting and educational evening in ICSpace. We really appreciate all of the work that went into creating the event for us<br>
--Deborah Kula, Sacred Hearts Academy
+-Deborah Kula, Sacred Hearts Academy 
 
-<figure class="full">
-    <img src="/assets/img/posts/punahou_compsci_students.png">
-    <figcaption><em>Douglas Kiang (far left) and students from his AP Computer Science course, with student mentors from UH Manoa</em></figcaption>
-</figure>
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/punahou_compsci_students.png">
+	    <figcaption><em>Douglas Kiang (far left) and students from his AP Computer Science course, with student mentors from UH Manoa</em></figcaption>
+	</figure>
+</center>
 
 > Thank you so much for hosting the Hackathon this past weekend. The students who attended really got a lot out of it and it was inspiring for them to see the members of your group at work on their own projects.<br>
 -Douglas Kiang, Punahou School
