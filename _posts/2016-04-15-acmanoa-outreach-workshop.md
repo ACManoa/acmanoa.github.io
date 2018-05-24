@@ -1,20 +1,16 @@
 ---
-title:  "ACManoa's Outreach Workshops"
-header:
-  teaser: ""
-author_profile: true
-categories:
-  - events
-tags:
-  - outreach
-  - workshop
+layout: post
+title: "ACManoa's Outreach Workshops"
+featured-img: sacred_hearts_club
+categories: [ACManoa, UH ICS, University of Hawaii, ICS, ACM, Association for Computing Machinery at Manoa, UHManoa, Sacred Hearts, Outreach, Workshop]
 ---
 
 ACManoa hosted two outreach workshops in ICSpace (POST 318B) earlier this month. The workshops provided students from the UH Information and Computer Science (ICS) program with the opportunity to mentor high school students interested in programming. Members of ACManoa took the opportunity to give back to the community and foster interest in the ICS program at the University.
 
 During the first Outreach Workshop on April 1st, participants from Sacred Hearts and Kalani High School were introduced to the command line with bash, Java, and the git version control tool. <br>
+
 <figure class="full">
-    <img src="/images/sacred_hearts_club.png">
+    <img src="/images/sacred_hearts_club.jpg">
     <figcaption><em>Deborah Kula (far left) with students from Sacred Hearts</em></figcaption>
 </figure>
 
