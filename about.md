@@ -4,6 +4,91 @@ title: About
 permalink: /about/
 ---
 
-The Association for Computing Machinery at Manoa is UHManoa’s student chapter of the Association for Computing Machinery. We are an officialy recognized student chartered registered independent organization (RIO) focused on providing opportunities and resources for our members’ personal and professional advancement.
+## What is ACM?
 
-ACManoa has 3 pillars - social, professional, and technical. We hold social activities for our members to have fun as well as develop and strengthen their interpersonal relationships. We strive to connect our members to professionals in the industry, abroad and within the Honolulu community. We are largely comprised of aspiring professionals in the computing industry; accordingly, members in ACManoa are encouraged to join and create Special Interest Groups (SIG) and participate and collaborate on different events and projects.
+ACManoa is the largest computer science student organization at the University of Hawaii at Manoa. We are a registered student chapter of the Association for Computing Machinery as well as a recognized student chartered registered independent organization (RIO) at the University of Hawaii at Manoa. We welcome students of all different backgrounds, interests, and skill levels to join our community and share in our passion for CS. ACM is split into different special interest groups (SIG's) — each with a different goal. Although some events may "belong" to a certain group, being a member of a special interest group is the same as being a member of ACManoa. Our events are always and will always be open to everyone.
+
+ACManoa has 3 pillars - social, professional, and technical. We hold social activities for our members to have fun as well as develop and strengthen their interpersonal relationships. We strive to connect our members to professionals in the industry, abroad and within the tech community. We are largely comprised of aspiring professionals in the computing industry; accordingly, members in ACManoa are encouraged to join and create Special Interest Groups (SIGs) and participate and collaborate on different events and projects.
+
+<center>
+	<h2>Officers</h2>
+</center>
+
+<style>
+	#officers-container {
+		width: 100%;
+		max-width: 900px;
+		padding: 0 20px;
+		box-sizing: border-box;
+		margin: auto;
+		text-align: center;
+	}
+	#officers-container .officer {
+		width: 280px;
+		height: 100px;
+		display: inline-block;
+		color: #333;
+		text-align: left;
+		transition: transform .1s;
+	}
+	#officers-container .officer img {
+		margin: 25px 10px;
+		height: 70px;
+		width: 70px;
+		border: 2px solid #eaeaea;
+		display: inline-block;
+		border-radius: 50%;
+	}
+	#officers-container .officer .info {
+		display: inline-block;
+		vertical-align: top;
+		width: 180px;
+	}
+	#officers-container .officer .info h2 {
+		margin: 0;
+		padding: 0;
+		margin-top: 35px;
+		font-weight: 600;
+		display: inline-block;
+		font-size: 1.3em;
+		line-height: 1.8em;
+		/* Font-Family Missing */
+	}
+	#officers-container .officer .info p {
+		display: inline-block;
+	 	/* Font-Family Missing */
+	 	margin: 0;
+	 	margin-top: -5px;
+	 	font-size: .7em;
+	 	vertical-align: top;
+	}
+</style>
+
+<div id="officers-container">
+	<div class="officer">
+		<img src="/assets/img/officers/tcchong.jpg" alt="Tyler Chong">
+		<div class="info">
+			<h2>Tyler Chong</h2>
+			<br />
+			<p>President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/tyu.png" alt="Ty Uehara">
+		<div class="info">
+			<h2>Ty Uehara</h2>
+			<br>
+			<p>Vice President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/idemello.png" alt="Isaac DeMello">
+		<div class="info">
+			<h2>Isaac DeMello</h2>
+			<br>
+			<p>Treasurer/Secretary</p>
+		</div>
+	</div>
+</div>
+
+
