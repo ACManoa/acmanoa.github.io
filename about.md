@@ -32,13 +32,13 @@ You can be more involved with ACManoa simply by attending any of our events.
 
 <style>
 	#officers-container {
-		width: 100%;
+		width: 130%;
 		max-width: 900px;
 		padding: 0 20px;
 		box-sizing: border-box;
 		margin: auto;
 		text-align: center;
-	}
+	}	
 	#officers-container .officer {
 		width: 280px;
 		height: 100px;
@@ -102,7 +102,7 @@ You can be more involved with ACManoa simply by attending any of our events.
 		<div class="info">
 			<h2>Isaac DeMello</h2>
 			<br>
-			<p>Treasurer/Secretary</p>
+			<p>Treasurer</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -119,6 +119,14 @@ You can be more involved with ACManoa simply by attending any of our events.
 			<h2>Olivia Murray</h2>
 			<br>
 			<p>Grey Hats President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
+		<div class="info">
+			<h2>Ryan Nakata</h2>
+			<br>
+			<p>Grey Hats Secretary</p>
 		</div>
 	</div>
 </div>
