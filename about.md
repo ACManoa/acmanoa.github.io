@@ -89,6 +89,22 @@ ACManoa has 3 pillars - social, professional, and technical. We hold social acti
 			<p>Treasurer/Secretary</p>
 		</div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/alicewy.jpg" alt="Alice Chen">
+		<div class="info">
+			<h2>Alice Chen</h2>
+			<br>
+			<p>ACI President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/omurray4.png" alt="Olivia Murray">
+		<div class="info">
+			<h2>Olivia Murray</h2>
+			<br>
+			<p>Grey Hats President</p>
+		</div>
+	</div>
 </div>
 
 

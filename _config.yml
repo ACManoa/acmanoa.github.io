@@ -22,6 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Sponsors', link: '/sponsors'}
 
 tagline: >
   The Association for Computing Machinery at the University of Hawaii at Manoa
