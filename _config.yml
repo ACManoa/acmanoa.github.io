@@ -21,6 +21,8 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'ACI', link: '/aci'}
+  - {name: 'Grey Hats', link: '/greyhats'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Sponsors', link: '/sponsors'}
 
