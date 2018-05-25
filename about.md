@@ -6,9 +6,25 @@ permalink: /about/
 
 ## What is ACM?
 
-ACManoa is the largest computer science student organization at the University of Hawaii at Manoa. We are a registered student chapter of the Association for Computing Machinery as well as a recognized student chartered registered independent organization (RIO) at the University of Hawaii at Manoa. We welcome students of all different backgrounds, interests, and skill levels to join our community and share in our passion for CS. ACM is split into different special interest groups (SIG's) — each with a different goal. Although some events may "belong" to a certain group, being a member of a special interest group is the same as being a member of ACManoa. Our events are always and will always be open to everyone.
+ACManoa is the largest computer science student organization at the University of Hawaii at Manoa. We are a registered student chapter of the Association for Computing Machinery as well as a recognized student chartered registered independent organization (RIO) at the University of Hawaii at Manoa. We welcome students of all different backgrounds, interests, and skill levels to join our community and share in our passion for Comuter Science. ACM is split into different special interest groups (SIG's) — each with a different goal. Although some events may be organized by a certain group, being a member of a special interest group is the same as being a member of ACManoa. Our events are always and will always be open to everyone.
 
 ACManoa has 3 pillars - social, professional, and technical. We hold social activities for our members to have fun as well as develop and strengthen their interpersonal relationships. We strive to connect our members to professionals in the industry, abroad and within the tech community. We are largely comprised of aspiring professionals in the computing industry; accordingly, members in ACManoa are encouraged to join and create Special Interest Groups (SIGs) and participate and collaborate on different events and projects.
+
+## Where is our clubroom?
+
+Our clubroom is located on the third floor of the Pacific Ocean Science & Technology building in room 318b (POST 318b/ICSpace). We have monitors, whiteboards, a microwave, and refridgerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how please contact us <acmmanoa@hawaii.edu>.
+
+## How can I become a member?
+Membership for our chapter is $40 a year ($20 National Chapter Registration Fee + $10 per semester for our local Student Chapter). Get in touch with any officer during any of our events to become a member. We accept both cash and Venmo.
+
+## What are the benefits of becoming an ACManoa member?
+
+- Clubroom access
+- Fridge usage
+- Run for ACM officer positions
+
+## How can I get more involved with ACManoa?
+You can be more involved with ACManoa simply by attending any of our events.
 
 <center>
 	<h2>Officers</h2>
