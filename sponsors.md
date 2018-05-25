@@ -32,6 +32,10 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 			display: table;
 			clear: both;
 		}
+		.column img {
+			max-height: 300px;
+			max-width: 300px;
+		}
 	</style>
 	<div class="row">
 		<div class="column">
@@ -41,7 +45,16 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 			<img src="/assets/img/sponsors/oath.png" alt="Oath Logo">
 		</div>
 		<div class="column">
+			<img src="/assets/img/sponsors/cyberhui.jpg" alt="CyberHui Logo">
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
 			<img src="/assets/img/sponsors/revacomm.jpg" alt="RevaComm Logo">
 		</div>
+		<div class="column">
+			<img src="/assets/img/sponsors/bah.jpeg" alt="Booz Allen Hamilton Logo">
+		</div>
+		<div class="column"></div>
 	</div>
 </center>
