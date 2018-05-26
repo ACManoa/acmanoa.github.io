@@ -23,4 +23,27 @@ Everyone is welcome to join, regardless of skill level.
 
 ### What do we do?
 
-Competitions
+We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitions. Two of the main competitions we participate in are National Cyber League and the National Collegiate Cyber Defense Competition. 
+
+<br>
+<center>
+	<style>
+		.column {
+			float: left;
+			width: 50%;
+		}
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+	</style>
+	<div class="row">
+		<div class="column">
+			<img height="300px" width="300px" src="/assets/img/logos/ncl.jpeg" title="National Cyber League Logo" alt="National Cyber League Logo">
+		</div>
+		<div class="column">
+			<img height="300px" width="300px" src="/assets/img/logos/ccdc.png" title="CCDC Logo" alt="CCDC Logo">
+		</div>
+	</div>
+</center>
