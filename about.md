@@ -129,6 +129,14 @@ You can be more involved with ACManoa simply by attending any of our events.
 			<p>Grey Hats Secretary</p>
 		</div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/leighj.jpeg" alt="Jason Leigh">
+		<div class="info">
+			<h2>Jason Leigh</h2>
+			<br>
+			<p>ACM/Faculty Sponsor</p>
+		</div>
+	</div>
 </div>
 
 
