@@ -55,6 +55,8 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 		<div class="column">
 			<img src="/assets/img/sponsors/bah.jpeg" alt="Booz Allen Hamilton Logo">
 		</div>
-		<div class="column"></div>
+		<div class="column">
+			<img src="/assets/img/sponsors/crowdstrike.jpg" alt="Crowdstrike Logo">
+		</div>
 	</div>
 </center>

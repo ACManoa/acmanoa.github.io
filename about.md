@@ -86,7 +86,7 @@ You can be more involved with ACManoa simply by attending any of our events.
 		<div class="info">
 			<h2>Tyler Chong</h2>
 			<br />
-			<p>President</p>
+			<p>ACM President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -94,7 +94,7 @@ You can be more involved with ACManoa simply by attending any of our events.
 		<div class="info">
 			<h2>Ty Uehara</h2>
 			<br>
-			<p>Vice President</p>
+			<p>ACM Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -102,7 +102,7 @@ You can be more involved with ACManoa simply by attending any of our events.
 		<div class="info">
 			<h2>Isaac DeMello</h2>
 			<br>
-			<p>Treasurer</p>
+			<p>ACM Treasurer</p>
 		</div>
 	</div>
 	<div class="officer">

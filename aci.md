@@ -6,7 +6,7 @@ permalink: /aci/
 
 <center>
 	<figure class="full">
-	  <img src="/assets/img/logos/aci-blue.png" title="ACI Logo" alt="ACI Logo">
+	  <img height="300px" src="/assets/img/logos/aci-blue.png" title="ACI Logo" alt="ACI Logo">
 	</figure>
 </center>
 <br>
