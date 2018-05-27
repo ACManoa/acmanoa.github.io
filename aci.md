@@ -95,7 +95,7 @@ For those who have yet to take Algorithms, ACI will be structured to follow the 
 		<div class="info">
 			<h2>David Badke</h2>
 			<br>
-			<p> Vice President</p>
+			<p>ACI Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -127,7 +127,7 @@ For those who have yet to take Algorithms, ACI will be structured to follow the 
 		<div class="info">
 			<h2>Nodari Sitchinava</h2>
 			<br>
-			<p>Faculty Sponsor</p>
+			<p>ACI Faculty Sponsor</p>
 		</div>
 	</div>
 </div>

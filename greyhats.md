@@ -111,7 +111,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		<div class="info">
 			<h2>Gerald Lau</h2>
 			<br>
-			<p>Faculty Sponsor</p>
+			<p>Grey Hats Faculty Sponsor</p>
 		</div>
 	</div>
 </div>

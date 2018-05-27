@@ -114,11 +114,51 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="David Badke">
+		<div class="info">
+			<h2>David Badke</h2>
+			<br>
+			<p>ACI Vice President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
+		<div class="info">
+			<h2>Kirsten Takanishi</h2>
+			<br>
+			<p>ACI Secretary</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/awyz.jpg" alt="Angela Zheng">
+		<div class="info">
+			<h2>Angela Zheng</h2>
+			<br>
+			<p>ACI Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Saehyun Song">
+		<div class="info">
+			<h2>Saehyun Song</h2>
+			<br>
+			<p>ACI Officer</p>
+		</div>
+	</div>
+	<div class="officer">
 		<img src="/assets/img/officers/omurray4.png" alt="Olivia Murray">
 		<div class="info">
 			<h2>Olivia Murray</h2>
 			<br>
 			<p>Grey Hats President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/tcchong.jpg" alt="Tyler Chong">
+		<div class="info">
+			<h2>Tyler Chong</h2>
+			<br />
+			<p>Grey Hats Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -134,7 +174,23 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 		<div class="info">
 			<h2>Jason Leigh</h2>
 			<br>
-			<p>ACM/Faculty Sponsor</p>
+			<p>ACM Faculty Sponsor</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
+		<div class="info">
+			<h2>Nodari Sitchinava</h2>
+			<br>
+			<p>ACI Faculty Sponsor</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
+		<div class="info">
+			<h2>Gerald Lau</h2>
+			<br>
+			<p>Grey Hats Faculty Sponsor</p>
 		</div>
 	</div>
 </div>
