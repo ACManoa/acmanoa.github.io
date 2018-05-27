@@ -122,14 +122,14 @@ For those who have yet to take Algorithms, ACI will be structured to follow the 
 			<p>ACI Officer</p>
 		</div>
 	</div>
-	<div class="officer">
+	<!-- <div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
 		<div class="info">
 			<h2>Nodari Sitchinava</h2>
 			<br>
 			<p>ACI Faculty Sponsor</p>
 		</div>
-	</div>
+	</div> -->
 </div>
 
 <br>
