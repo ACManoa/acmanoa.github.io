@@ -23,9 +23,9 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'ACI', link: '/aci'}
   - {name: 'Grey Hats', link: '/greyhats'}
-  - {name: 'Contact', link: '/contact'}
   - {name: 'ICSpace', link: '/icspace'}
   - {name: 'Sponsors', link: '/sponsors'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   The Association for Computing Machinery at the University of Hawaii at Manoa
