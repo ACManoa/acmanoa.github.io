@@ -5,9 +5,6 @@ permalink: /icspace/
 ---
 
 <center>
-	<!-- <figure class="full">
-	  <img height="300px" src="/assets/img/icons/post318b.jpg" title="ICSpace" alt="ICSpace">
-	</figure> -->
 	<div id="cover">
 	  <img src="/assets/img/icons/icspace1.jpg">
 	  <img src="/assets/img/icons/icspace2.jpg">
@@ -17,7 +14,6 @@ permalink: /icspace/
 	<style>
 		#cover {
 		  width: 800px;
-		  height: 800px;
 		  margin: 0 auto;
 		}
 		#cover > img {
