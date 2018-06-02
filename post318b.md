@@ -24,8 +24,8 @@ permalink: /icspace/
 
 		/* Create four equal columns that sits next to each other */
 		.column {
-		  flex: 25%;
-		  max-width: 25%;
+		  flex: 100%;
+		  max-width: 50%;
 		  padding: 0 4px;
 		}
 
