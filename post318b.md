@@ -5,9 +5,28 @@ permalink: /icspace/
 ---
 
 <center>
-	<figure class="full">
+	<!-- <figure class="full">
 	  <img height="300px" src="/assets/img/icons/post318b.jpg" title="ICSpace" alt="ICSpace">
-	</figure>
+	</figure> -->
+	<div id="cover">
+	  <img src="/assets/img/icons/icspace1.jpg">
+	  <img src="/assets/img/icons/icspace2.jpg">
+	  <img src="/assets/img/icons/icspace3.jpg">
+	  <img src="/assets/img/icons/icspace4.jpg">
+	</div>
+	<style>
+		#cover {
+		  width: 800px;
+		  height: 800px;
+		  margin: 0 auto;
+		}
+		#cover > img {
+		  float: left;
+		  border: 2px solid black;
+		  width: 45%;
+		  margin: 1.66%;
+		}
+	</style>
 </center>
 <br>
 
