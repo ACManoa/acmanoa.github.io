@@ -91,7 +91,7 @@ For those who have yet to take Algorithms, ACI will be structured to follow the 
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="David Badke">
+		<img src="/assets/img/officers/davidrb.jpeg" alt="David Badke">
 		<div class="info">
 			<h2>David Badke</h2>
 			<br>
@@ -115,7 +115,7 @@ For those who have yet to take Algorithms, ACI will be structured to follow the 
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Saehyun Song">
+		<img src="/assets/img/officers/saehyun.jpg" alt="Saehyun Song">
 		<div class="info">
 			<h2>Saehyun Song</h2>
 			<br>
