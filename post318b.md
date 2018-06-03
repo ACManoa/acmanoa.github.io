@@ -35,6 +35,7 @@ permalink: /icspace/
 		.column img {
 		  margin-top: 8px;
 		  vertical-align: middle;
+		  cursor: pointer;
 		}
 
 		/* Responsive layout - makes a two column-layout instead of four columns */
