@@ -7,14 +7,15 @@ permalink: /icspace/
 <center>
 	<div class="row"> 
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace1.jpg">
-	  	<img src="/assets/img/icons/icspace2.jpg">
+	    <img src="/assets/img/icons/icspace1.jpg" data-tilt>
+	  	<img src="/assets/img/icons/icspace2.jpg" data-tilt>
 	  </div>
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace3.jpg">
-	  	<img src="/assets/img/icons/icspace4.jpg">
+	    <img src="/assets/img/icons/icspace3.jpg" data-tilt>
+	  	<img src="/assets/img/icons/icspace4.jpg" data-tilt>
 	  </div> 
 	</div>
+	<script type="text/javascript" src="/assets/js/vanilla-tilt.min.js"></script>
 	<style>
 		.row {
 		  display: flex;
