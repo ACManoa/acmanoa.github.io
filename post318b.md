@@ -7,15 +7,17 @@ permalink: /icspace/
 <center>
 	<div class="row"> 
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace1.jpg" data-tilt>
-	  	<img src="/assets/img/icons/icspace2.jpg" data-tilt>
+	    <img src="/assets/img/icons/icspace1.jpg" data-featherlight>
+	  	<img src="/assets/img/icons/icspace2.jpg" data-featherlight>
 	  </div>
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace3.jpg" data-tilt>
-	  	<img src="/assets/img/icons/icspace4.jpg" data-tilt>
+	    <img src="/assets/img/icons/icspace3.jpg" data-featherlight>
+	  	<img src="/assets/img/icons/icspace4.jpg" data-featherlight>
 	  </div> 
 	</div>
-	<script type="text/javascript" src="/assets/js/vanilla-tilt.min.js"></script>
+	<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+	<script src="//code.jquery.com/jquery-latest.js"></script>
+	<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 	<style>
 		.row {
 		  display: flex;
