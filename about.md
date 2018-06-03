@@ -21,6 +21,8 @@ Membership for our chapter is $40 a year ($20 National Chapter Registration Fee 
 
 - Clubroom access
 - Fridge usage
+- Publicized membership
+- Food at events
 - Run for ACM officer positions
 
 ## How can I get more involved with ACManoa?
