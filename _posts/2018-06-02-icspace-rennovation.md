@@ -10,7 +10,7 @@ From the dates of May 29th to June 2nd, ICSpace was closed for rennovations.
 Now, it is back to it's normal operations as study room for ICS students.
 
 ## Why?
-We decided to rennovate the room because we wanted to give it a new feel. We wanted to change the way the room operates, and giving it a new look would help prepare it for that.
+We decided to rennovate the room because we wanted to give it a new feel. We wanted to change the way the room operates, and giving it a new look would help prepare it for that. Plus it really needed to be cleaned.
 
 Here are some before and after pictures of the room for you to see.
 
@@ -28,12 +28,10 @@ Here are some before and after pictures of the room for you to see.
 	    <img src="/assets/img/posts/icspace-rennovation/before3.jpg" data-featherlight data-featherlight-target-attr="src">
 	  	<img src="/assets/img/posts/icspace-rennovation/before4.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
-	   <div class="column">
-	    <img src="/assets/img/posts/icspace-rennovation/before5.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/assets/img/posts/icspace-rennovation/before6.jpg" data-featherlight data-featherlight-target-attr="src">
-	  </div> 
 	</div>
 </center>
+
+<br>
 
 ### Rennovation in progress
 <center>
@@ -49,7 +47,7 @@ Here are some before and after pictures of the room for you to see.
 	</div>
 </center>
 
-
+<br>
 ### ICSpace Now
 
 <center>
@@ -65,6 +63,7 @@ Here are some before and after pictures of the room for you to see.
 	</div>
 </center>
 
+<br>
 #### Thanks to everyone that came out and helped with the rennovations!
 
 * **Alice Chen**
@@ -79,12 +78,6 @@ Here are some before and after pictures of the room for you to see.
 
 Thanks for helping out!
 
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/icspace-rennovation/footer.jpg" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-
 #### Special thanks to the following:
 
 * **to the custodians for letting us borrow supplies and redoing the floor**
@@ -92,6 +85,7 @@ Thanks for helping out!
 * **and to all the helpers that helped out**
 
 Thanks!
+
 _ACManoa_
 
 <style>
