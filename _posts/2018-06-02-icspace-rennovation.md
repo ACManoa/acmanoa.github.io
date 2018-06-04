@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICSpace's Rennovation"
-featured-img: icspace-door
+featured-img: icspace-ty
 categories: [ACManoa, ICSpace]
 ---
 
@@ -65,6 +65,35 @@ Here are some before and after pictures of the room for you to see.
 	</div>
 </center>
 
+#### Thanks to everyone that came out and helped with the rennovations!
+
+* **Alice Chen**
+* **Tyler Chong**
+* **Ethan Chow**
+* **Mark Cummins**
+* **Vincent DiRienzo**
+* **Jason Len**
+* **Joshua Nishiguchi**
+* **Bryant Sanchez**
+* **Ty Uehara**
+
+Thanks for helping out!
+
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/icspace-rennovation/footer.jpg" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
+
+#### Special thanks to the following:
+
+* **to the custodians for letting us borrow supplies and redoing the floor**
+* **to the ICS faculty for laughing at us outside the room**
+* **and to all the helpers that helped out**
+
+Thanks!
+_ACManoa_
+
 <style>
 	.row {
 	  display: flex;
@@ -106,32 +135,3 @@ Here are some before and after pictures of the room for you to see.
 <script src="//code.jquery.com/jquery-latest.js"></script>
 <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 <style>
-
-#### Thanks to everyone that came out and helped with the rennovations!
-
-* **Alice Chen**
-* **Tyler Chong**
-* **Ethan Chow**
-* **Mark Cummins**
-* **Vincent DiRienzo**
-* **Jason Len**
-* **Joshua Nishiguchi**
-* **Bryant Sanchez**
-* **Ty Uehara**
-
-Thanks for helping out!
-
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/icspace-rennovation/footer.jpg" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-
-#### Special thanks to the following:
-
-* **to the custodians for letting us borrow supplies and redoing the floor**
-* **to the ICS faculty for laughing at us outside the room**
-* **and to all the helpers that helped out**
-
-Thanks!
-_ACManoa_
