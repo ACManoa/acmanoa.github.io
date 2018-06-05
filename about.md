@@ -28,7 +28,7 @@ Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Sc
 Membership is $40/year (composed of a $20 National Chapter Registration Fee + $10/semester for our local Student Chapter). Get in touch with any ACManoa officer during any of our events to become a member. We accept payment in cash and through Venmo.
 
 ## What are the benefits of becoming an ACManoa member?
-- Privilages of fridge usage
+- Privileges of fridge usage
 - Publicized membership on our website
 - Food at events
 - Eligibility to run for ACManoa officer positions
