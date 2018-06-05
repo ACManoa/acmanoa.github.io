@@ -14,17 +14,14 @@ permalink: /aci/
 ACI (Algorithms for Competitions and Interviews) is a group dedicated towards 
 the studying of algorithms for applied usage.
 
-##What is the purpose of ACI?
+## What is the purpose of ACI?
 The purpose of ACI is for applying algorithms towards competitions and coding interviews. We recognize that algorithms are an important foundation for many fields in computer science, and is an important skill for being successful in computer science-related fields.
 
-##Who is welcome?
+## Who is welcome?
 The group is open to all students. Students who have not taken ICS 311 (Algorithms) are encouraged to have at least have taken ICS 111 (or a similar class).
 
 ## What do we do?
 For those who have yet to take ICS 311, ACI will be structured to follow the course curriculum of ICS 311. For those who have taken ICS 311, we encourage you to join to sharpening your algorithmic skills for technical interviews or competitive programming competitions such as ICPC during the fall and Google Code Jam during the spring.
-
-
-ACI is a group dedicated towards the studying of Algorithms for applied usage.
 
 <br>
 
