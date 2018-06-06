@@ -81,11 +81,12 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 		/* Font-Family Missing */
 	}
 	#officers-container .officer .info p {
-		display: inline-block;
 	 	/* Font-Family Missing */
 	 	margin: 0;
 	 	margin-top: -5px;
-	 	font-size: .7em;
+		padding-bottom: 3px;
+	 	font-size: .8em;
+		color: #777;
 	 	vertical-align: top;
 	}
 </style>
@@ -97,6 +98,7 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 			<h2>Tyler Chong</h2>
 			<br />
 			<p>ACM President</p>
+			<p>Grey Hats Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -161,14 +163,6 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 			<h2>Olivia Murray</h2>
 			<br>
 			<p>Grey Hats President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/tcchong.jpg" alt="Tyler Chong">
-		<div class="info">
-			<h2>Tyler Chong</h2>
-			<br />
-			<p>Grey Hats Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
