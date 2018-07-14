@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'ACI', link: '/aci'}
   - {name: 'Grey Hats', link: '/greyhats'}
   - {name: 'ICSpace', link: '/icspace'}
-  - {name: 'Sponsors', link: '/sponsors'}
+  # - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
