@@ -57,7 +57,7 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 		  }
 		}
 	</style>
-	<div class="row">
+	<<!-- div class="row">
 		<div class="column">
 			<img src="/assets/img/sponsors/FAST.png" alt="FAST Enterprises Logo">
 		</div>
@@ -78,5 +78,5 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 		<div class="column">
 			<img src="/assets/img/sponsors/crowdstrike.jpg" alt="Crowdstrike Logo">
 		</div>
-	</div>
+	</div> -->
 </center>
