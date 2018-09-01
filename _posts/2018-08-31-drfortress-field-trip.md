@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DRFortress Field Trip"
-featured-img: icspace-ty
+featured-img: drfortress
 categories: [ACManoa]
 ---
 
