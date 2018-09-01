@@ -16,21 +16,6 @@ DRFortress is the largest and only carrier-neutral data center operating in Hawa
 <center>
 	<div class="row"> 
 	  <div class="column">
-	    <img src="/assets/img/posts/icspace-rennovation/before1.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/assets/img/posts/icspace-rennovation/before2.jpg" data-featherlight data-featherlight-target-attr="src">
-	  </div>
-	  <div class="column">
-	    <img src="/assets/img/posts/icspace-rennovation/before3.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/assets/img/posts/icspace-rennovation/before4.jpg" data-featherlight data-featherlight-target-attr="src">
-	  </div> 
-	</div>
-</center>
-
-<br>
-
-<center>
-	<div class="row"> 
-	  <div class="column">
 	    <img src="/assets/img/posts/drfortress-field-trip/logo.jpg" data-featherlight data-featherlight-target-attr="src">
 	  	<img src="/assets/img/posts/drfortress-field-trip/logo2.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
