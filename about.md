@@ -25,7 +25,7 @@ ACManoa has three goals -- to provide *social*, *professional*, and *technical* 
 Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Science & Technology (POST) building in room POST 318b. We have monitors, whiteboards, a microwave, and refridgerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how, please contact us <acmmanoa@hawaii.edu>.
 
 ## How can I become a member?
-Membership is $40/year (composed of a $20 National Chapter Registration Fee + $10/semester for our local Student Chapter). Get in touch with any ACManoa officer during any of our events to become a member. We accept payment in cash and through Venmo.
+Membership is and always will be free.
 
 ## What are the benefits of becoming an ACManoa member?
 - Privileges of fridge usage
