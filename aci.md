@@ -121,6 +121,14 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/officers/bwong7.jpg" alt="Brandon Wong">
+		<div class="info">
+			<h2>Brandon Wong</h2>
+			<br>
+			<p>Interview Leader</p>
+		</div>
+	</div>
+	<div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
 		<div class="info">
 			<h2>Nodari Sitchinava</h2>
