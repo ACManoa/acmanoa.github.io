@@ -2,7 +2,7 @@
 layout: post
 title: "Fall 2018 First General Meeting"
 featured-img: first-general-meeting-fall-2018
-categories: [ACManoa]
+categories: [ACManoa, POST 126]
 ---
 
 On September 5th, 2018 ACManoa held it's first General Meeting for the Fall 2018 semester in POST 126. We had a total number of 129 people sign in to this event!
@@ -12,11 +12,14 @@ On September 5th, 2018 ACManoa held it's first General Meeting for the Fall 2018
 This General Meeting featured all the leaders of the Special Interest Groups talking about their respective groups.
 
 ACI (Algorithms for Competitions and Interviews) - Alice Chen (alicewy@hawaii.edu)
+
 Game Dev - Ed White (ew7@hawaii.edu)
+
 Grey Hats - Olivia Murray (omurray4@hawaii.edu)
+
 Manoa Data Science - Sean Takafuji (seanytak@hawaii.edu)
 
-Link to the presentation: [https://goo.gl/YBN15Z](https://goo.gl/YBN15Z)
+Here is a link to the presentation if you missed it: [https://goo.gl/YBN15Z](https://goo.gl/YBN15Z)
 
 ## Pictures
 
@@ -26,6 +29,9 @@ Link to the presentation: [https://goo.gl/YBN15Z](https://goo.gl/YBN15Z)
 	    <img src="/assets/img/posts/acmanoa-first-general-meeting-fall-2018/crowd1.jpg" data-featherlight data-featherlight-target-attr="src">
 	    <img src="/assets/img/posts/acmanoa-first-general-meeting-fall-2018/crowd2.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
+	  <div class="column">
+	    <img src="/assets/img/posts/acmanoa-first-general-meeting-fall-2018/crowd3.jpg" data-featherlight data-featherlight-target-attr="src">
+	  </div> 
 	</div>
 </center>
 
@@ -47,6 +53,12 @@ Link to the presentation: [https://goo.gl/YBN15Z](https://goo.gl/YBN15Z)
 <br>
 
 Thanks for coming everyone!
+
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/acmanoa-first-general-meeting-fall-2018/featured-img.jpg">
+	</figure>
+</center>
 
 Thanks!
 
