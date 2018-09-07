@@ -5,7 +5,7 @@ featured-img: first-general-meeting-fall-2018
 categories: [ACManoa]
 ---
 
-On September 5th, 2018 ACManoa held it's first General Meeting for the Fall 2018 semester in POST 126.
+On September 5th, 2018 ACManoa held it's first General Meeting for the Fall 2018 semester in POST 126. We had a total number of 129 people sign in to this event!
 
 ## Agenda
 
