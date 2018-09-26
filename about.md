@@ -174,6 +174,46 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Sean Takafuji">
+		<div class="info">
+			<h2>Sean Takafuji</h2>
+			<br />
+			<p>Manoa Data Science President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Herman Li">
+		<div class="info">
+			<h2>Herman Li</h2>
+			<br>
+			<p>Manoa Data Science Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Jason Len">
+		<div class="info">
+			<h2>Jason Len</h2>
+			<br>
+			<p>Manoa Data Science Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Ed White">
+		<div class="info">
+			<h2>Ed White</h2>
+			<br>
+			<p>Game Dev Leader</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
+		<div class="info">
+			<h2>Justin Bishay</h2>
+			<br>
+			<p>Game Dev Helper</p>
+		</div>
+	</div>
+	<div class="officer">
 		<img src="/assets/img/officers/leighj.jpeg" alt="Jason Leigh">
 		<div class="info">
 			<h2>Jason Leigh</h2>
@@ -181,20 +221,28 @@ You can be more involved with ACManoa simply by attending any of our events. Our
 			<p>ACM Faculty Sponsor</p>
 		</div>
 	</div>
-	<!-- <div class="officer">
+	<div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
 		<div class="info">
 			<h2>Nodari Sitchinava</h2>
 			<br>
 			<p>ACI Faculty Sponsor</p>
 		</div>
-	</div> -->
+	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
 		<div class="info">
 			<h2>Gerald Lau</h2>
 			<br>
 			<p>Grey Hats Faculty Sponsor</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Madhi Belcaid">
+		<div class="info">
+			<h2>Madhi Belcaid</h2>
+			<br>
+			<p>Manoa Data Science Faculty Sponsor</p>
 		</div>
 	</div>
 </div>
