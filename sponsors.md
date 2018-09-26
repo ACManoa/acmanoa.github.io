@@ -20,7 +20,7 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 - Suggest something! We're always open to new ideas
 
 <center> 
-	<h2>Past Sponsors</h2>
+	<!-- <h2>Past Sponsors</h2> -->
 	<br>
 	<style>
 		.row {
@@ -57,7 +57,7 @@ We'd love to work with you on our next event! Here's a few ideas on how you can 
 		  }
 		}
 	</style>
-	<<!-- div class="row">
+	<!-- <div class="row">
 		<div class="column">
 			<img src="/assets/img/sponsors/FAST.png" alt="FAST Enterprises Logo">
 		</div>
