@@ -34,7 +34,7 @@ Membership is and always will be free.
 - Eligibility to run for ACManoa officer positions
 
 ## How can I get more involved with ACManoa?
-You can be more involved with ACManoa simply by attending any of our events. Our events are and will always be open to everyone.
+You can be more involved with ACManoa simply by attending any of our events and joining our [Discord server https://discord.gg/pnrYV5T](https://discord.gg/pnrYV5T). Our events are and will always be open to everyone.
 
 You can subscribe to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
 
