@@ -36,6 +36,8 @@ Membership is and always will be free.
 ## How can I get more involved with ACManoa?
 You can be more involved with ACManoa simply by attending any of our events. Our events are and will always be open to everyone.
 
+You can subscribe to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
+
 <center>
 	<h2>Officers</h2>
 </center>
