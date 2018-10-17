@@ -4,510 +4,294 @@ title: History
 permalink: /history/
 ---
 
+
+<center>
+  <h2>Past Officers</h2>
+</center>
+
 <style>
-/* -------------------------------- 
-
-Primary style
-
--------------------------------- */
-*, *::after, *::before {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-/*
-html {
-  font-size: 62.5%;
-}*/
-
-/*body {
-  font-size: 1.6rem;
-  font-family: "Droid Serif", serif;
-  color: #7f8c97;
-  background-color: #e9f0f5;
-}*/
-
-/*a {
-  color: #acb7c0;
-  text-decoration: none;
-}
-*/
-/*img {
-  max-width: 100%;
-}
-
-h1, h2 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: bold;
-}*/
-
-/* -------------------------------- 
-
-Patterns - reusable parts of our design
-
--------------------------------- */
-@media only screen and (min-width: 1170px) {
-  .cd-is-hidden {
-    visibility: hidden;
+  #officers-container {
+    width: 130%;
+    max-width: 900px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+  } 
+  #officers-container .officer {
+    width: 280px;
+    height: 100px;
+    display: inline-block;
+    color: #333;
+    text-align: left;
+    transition: transform .1s;
   }
-}
-
-/* -------------------------------- 
-
-Vertical Timeline - by CodyHouse.co
-
--------------------------------- */
-/*header {
-  height: 200px;
-  line-height: 200px;
-  text-align: center;
-  background: #303e49;
-}
-
-header h1 {
-  color: white;
-  font-size: 1.8rem;
-}
-
-@media only screen and (min-width: 1170px) {
-  header {
-    height: 300px;
-    line-height: 300px;
+  #officers-container .officer img {
+    margin: 25px 10px;
+    height: 70px;
+    width: 70px;
+    border: 2px solid #eaeaea;
+    display: inline-block;
+    border-radius: 50%;
   }
-  header h1 {
-    font-size: 2.4rem;
+  #officers-container .officer .info {
+    display: inline-block;
+    vertical-align: top;
+    width: 180px;
   }
-}*/
-
-.cd-timeline {
-  overflow: hidden;
-  margin: 2em auto;
-}
-
-.cd-timeline__container {
-  position: relative;
-  width: 90%;
-  max-width: 1170px;
-  margin: 0 auto;
-  padding: 2em 0;
-}
-
-.cd-timeline__container::before {
-  /* this is the vertical line */
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 18px;
-  height: 100%;
-  width: 4px;
-  background: #d7e4ed;
-}
-
-@media only screen and (min-width: 1170px) {
-  .cd-timeline {
-    margin-top: 3em;
-    margin-bottom: 3em;
+  #officers-container .officer .info h2 {
+    margin: 0;
+    padding: 0;
+    margin-top: 35px;
+    font-weight: 600;
+    display: inline-block;
+    font-size: 1.3em;
+    line-height: 1.8em;
+    /* Font-Family Missing */
   }
-  .cd-timeline__container::before {
-    left: 50%;
-    margin-left: -2px;
+  #officers-container .officer .info p {
+    /* Font-Family Missing */
+    margin: 0;
+    margin-top: -5px;
+    padding-bottom: 3px;
+    font-size: .8em;
+    color: #777;
+    vertical-align: top;
   }
-}
-
-.cd-timeline__block {
-  position: relative;
-  margin: 2em 0;
-}
-
-.cd-timeline__block:after {
-  /* clearfix */
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.cd-timeline__block:first-child {
-  margin-top: 0;
-}
-
-.cd-timeline__block:last-child {
-  margin-bottom: 0;
-}
-
-@media only screen and (min-width: 1170px) {
-  .cd-timeline__block {
-    margin: 4em 0;
-  }
-}
-
-.cd-timeline__img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  -webkit-box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-}
-
-.cd-timeline__img img {
-  display: block;
-  width: 24px;
-  height: 24px;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  margin-left: -12px;
-  margin-top: -12px;
-}
-
-.cd-timeline__img.cd-timeline__img--picture {
-  background: #75ce66;
-}
-
-.cd-timeline__img.cd-timeline__img--movie {
-  background: #c03b44;
-}
-
-.cd-timeline__img.cd-timeline__img--location {
-  background: #f0ca45;
-}
-
-@media only screen and (min-width: 1170px) {
-  .cd-timeline__img {
-    width: 60px;
-    height: 60px;
-    left: 50%;
-    margin-left: -30px;
-    /* Force Hardware Acceleration */
-    -webkit-transform: translateZ(0);
-            transform: translateZ(0);
-  }
-  .cd-timeline__img.cd-timeline__img--bounce-in {
-    visibility: visible;
-    -webkit-animation: cd-bounce-1 0.6s;
-            animation: cd-bounce-1 0.6s;
-  }
-}
-
-@-webkit-keyframes cd-bounce-1 {
-  0% {
-    opacity: 0;
-    -webkit-transform: scale(0.5);
-            transform: scale(0.5);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-            transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
-}
-
-@keyframes cd-bounce-1 {
-  0% {
-    opacity: 0;
-    -webkit-transform: scale(0.5);
-            transform: scale(0.5);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-            transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
-}
-
-.cd-timeline__content {
-  position: relative;
-  margin-left: 60px;
-  background: white;
-  border-radius: 0.25em;
-  padding: 1em;
-  -webkit-box-shadow: 0 3px 0 #d7e4ed;
-          box-shadow: 0 3px 0 #d7e4ed;
-}
-
-.cd-timeline__content:after {
-  /* clearfix */
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.cd-timeline__content::before {
-  /* triangle next to content block */
-  content: '';
-  position: absolute;
-  top: 16px;
-  right: 100%;
-  height: 0;
-  width: 0;
-  border: 7px solid transparent;
-  border-right: 7px solid white;
-}
-
-.cd-timeline__content h2 {
-  color: #303e49;
-}
-
-.cd-timeline__content p,
-.cd-timeline__read-more,
-.cd-timeline__date {
-  font-size: 1.3rem;
-}
-
-.cd-timeline__content p {
-  margin: 1em 0;
-  line-height: 1.6;
-}
-
-.cd-timeline__read-more,
-.cd-timeline__date {
-  display: inline-block;
-}
-
-.cd-timeline__read-more {
-  float: right;
-  padding: .8em 1em;
-  background: #acb7c0;
-  color: white;
-  border-radius: 0.25em;
-}
-
-.cd-timeline__read-more:hover {
-  background-color: #bac4cb;
-}
-
-.cd-timeline__date {
-  float: left;
-  padding: .8em 0;
-  opacity: .7;
-}
-
-@media only screen and (min-width: 768px) {
-  .cd-timeline__content h2 {
-    font-size: 2rem;
-  }
-  .cd-timeline__content p {
-    font-size: 1.6rem;
-  }
-  .cd-timeline__read-more,
-  .cd-timeline__date {
-    font-size: 1.4rem;
-  }
-}
-
-@media only screen and (min-width: 1170px) {
-  .cd-timeline__content {
-    margin-left: 0;
-    padding: 1.6em;
-    width: 45%;
-    /* Force Hardware Acceleration */
-    -webkit-transform: translateZ(0);
-            transform: translateZ(0);
-  }
-  .cd-timeline__content::before {
-    top: 24px;
-    left: 100%;
-    border-color: transparent;
-    border-left-color: white;
-  }
-  .cd-timeline__read-more {
-    float: left;
-  }
-  .cd-timeline__date {
-    position: absolute;
-    width: 100%;
-    left: 122%;
-    top: 6px;
-    font-size: 1.6rem;
-  }
-  .cd-timeline__block:nth-child(even) .cd-timeline__content {
-    float: right;
-  }
-  .cd-timeline__block:nth-child(even) .cd-timeline__content::before {
-    top: 24px;
-    left: auto;
-    right: 100%;
-    border-color: transparent;
-    border-right-color: white;
-  }
-  .cd-timeline__block:nth-child(even) .cd-timeline__read-more {
-    float: right;
-  }
-  .cd-timeline__block:nth-child(even) .cd-timeline__date {
-    left: auto;
-    right: 122%;
-    text-align: right;
-  }
-  .cd-timeline__content.cd-timeline__content--bounce-in {
-    visibility: visible;
-    -webkit-animation: cd-bounce-2 0.6s;
-            animation: cd-bounce-2 0.6s;
-  }
-}
-
-@media only screen and (min-width: 1170px) {
-  /* inverse bounce effect on even content blocks */
-  .cd-timeline__block:nth-child(even) .cd-timeline__content.cd-timeline__content--bounce-in {
-    -webkit-animation: cd-bounce-2-inverse 0.6s;
-            animation: cd-bounce-2-inverse 0.6s;
-  }
-}
-
-@-webkit-keyframes cd-bounce-2 {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateX(-100px);
-            transform: translateX(-100px);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: translateX(20px);
-            transform: translateX(20px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
-
-@keyframes cd-bounce-2 {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateX(-100px);
-            transform: translateX(-100px);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: translateX(20px);
-            transform: translateX(20px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
-
-@-webkit-keyframes cd-bounce-2-inverse {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateX(100px);
-            transform: translateX(100px);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: translateX(-20px);
-            transform: translateX(-20px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
-
-@keyframes cd-bounce-2-inverse {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateX(100px);
-            transform: translateX(100px);
-  }
-  60% {
-    opacity: 1;
-    -webkit-transform: translateX(-20px);
-            transform: translateX(-20px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
 </style>
 
-<section class="cd-timeline js-cd-timeline">
-	<div class="cd-timeline__container">
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Picture">
-			</div> <!-- cd-timeline__img -->
+<center>
+  <h3>Fall 2017 - Spring 2018</h3>
+</center>
 
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 1</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-				<a href="#0" class="cd-timeline__read-more">Read more</a>
-				<span class="cd-timeline__date">Jan 14</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Brian Mayeshiro">
+    <div class="info">
+      <h2>Brian Mayeshiro</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Christopher Jaro">
+    <div class="info">
+      <h2>Christopher Jaro</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Sean Takafuji">
+    <div class="info">
+      <h2>Sean Takafuji</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Mark Arakaki">
+    <div class="info">
+      <h2>Mark Arakaki</h2>
+      <br>
+      <p>ACM Events Coordinator Fall 2017</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Micheal Mangrobang">
+    <div class="info">
+      <h2>Micheal Mangrobang</h2>
+      <br>
+      <p>ACM Events Coordinator Spring 2018</p>
+    </div>
+  </div>
+</div>
 
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Movie">
-			</div> <!-- cd-timeline__img -->
+<center>
+  <h3>Fall 2016 - Spring 2017</h3>
+</center>
 
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 2</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
-				<a href="#0" class="cd-timeline__read-more">Read more</a>
-				<span class="cd-timeline__date">Jan 18</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Brian Mayeshiro">
+    <div class="info">
+      <h2>Brian Mayeshiro</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Christopher Jaro">
+    <div class="info">
+      <h2>Christopher Jaro</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Sean Takafuji">
+    <div class="info">
+      <h2>Sean Takafuji</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Mark Arakaki">
+    <div class="info">
+      <h2>Mark Arakaki</h2>
+      <br>
+      <p>ACM Events Coordinator Fall 2017</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Micheal Mangrobang">
+    <div class="info">
+      <h2>Michael Mangrobang</h2>
+      <br>
+      <p>ACM Events Coordinator Spring 2018</p>
+    </div>
+  </div>
+</div>
 
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Picture">
-			</div> <!-- cd-timeline__img -->
+<center>
+  <h3>Fall 2016 - Spring 2017</h3>
+</center>
 
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 3</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
-				<a href="#0" class="cd-timeline__read-more">Read more</a>
-				<span class="cd-timeline__date">Jan 24</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Evelyn Pirnia">
+    <div class="info">
+      <h2>Evelyn Pirnia</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Hendricks Hicks">
+    <div class="info">
+      <h2>Hendricks Hicks</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Anna Sikkink">
+    <div class="info">
+      <h2>Anna Sikkink</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Blake Larson">
+    <div class="info">
+      <h2>Blake Larson</h2>
+      <br>
+      <p>ACM Marketing Chair</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Torleif Nielsen">
+    <div class="info">
+      <h2>Torleif Nielsen</h2>
+      <br>
+      <p>ACM Webmaster</p>
+    </div>
+  </div>
+</div>
 
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--location js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Location">
-			</div> <!-- cd-timeline__img -->
 
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 4</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-				<a href="#0" class="cd-timeline__read-more">Read more</a>
-				<span class="cd-timeline__date">Feb 14</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
+<center>
+  <h3>Fall 2015 - Spring 2016</h3>
+</center>
 
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--location js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Location">
-			</div> <!-- cd-timeline__img -->
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Joshua J Weldon">
+    <div class="info">
+      <h2>Joshua J Weldon</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Evelyn Pirnia">
+    <div class="info">
+      <h2>Evelyn Pirnia</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Tyler Clay Nakamura">
+    <div class="info">
+      <h2>Tyler Clay Nakamura</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Yubi Peterson">
+    <div class="info">
+      <h2>Yubi Peterson</h2>
+      <br>
+      <p>ACM Professional Dev</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Jonathan Robello">
+    <div class="info">
+      <h2>Jonathan Robello</h2>
+      <br>
+      <p>ACM Marketing Coordinator</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Torleif Nielsen">
+    <div class="info">
+      <h2>Torleif Nielsen</h2>
+      <br>
+      <p>ACM Webmaster</p>
+    </div>
+  </div>
+</div>
 
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 5</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
-				<a href="#0" class="cd-timeline__read-more">Read more</a>
-				<span class="cd-timeline__date">Feb 18</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
+<center>
+  <h3>Fall 2014 - Spring 2015</h3>
+</center>
 
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
-				<img src="/assets/img/logos/acm.png" alt="Movie">
-			</div> <!-- cd-timeline__img -->
-
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Final Section</h2>
-				<p>This is the content of the last section</p>
-				<span class="cd-timeline__date">Feb 26</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
-	</div>
-</section> <!-- cd-timeline -->
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Blake Vilas">
+    <div class="info">
+      <h2>Blake Vilas</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Joshua J Weldon">
+    <div class="info">
+      <h2>Joshua J Weldon</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Anson Yu">
+    <div class="info">
+      <h2>Anson Yu</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Nicole ?">
+    <div class="info">
+      <h2>Nicole ?</h2>
+      <br>
+      <p>ACM Professional Dev</p>
+    </div>
+  </div>
+</div>
