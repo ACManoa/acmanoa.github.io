@@ -9,19 +9,19 @@ On November 28th 2018 ACManoa hosted November's WetWare Wednesday in the UH iLab
 
 ## Agenda
 
-Speakers for the event included ACM Board Members: Vice-President *Ty Uehara* and Treasurer *Isaac DeMello*, as well as ICS faculty members: *Dr. Peter Sadowski* and *Dr. Phillip Johnson*.
+Speakers for the event included ACM Board Members: Vice-President **Ty Uehara** and Treasurer **Isaac DeMello**, as well as ICS faculty members: **Dr. Peter Sadowski** and **Dr. Phillip Johnson**.
 
 This WetWare featured an expo of both student and faculty projects being worked on at the University of Hawaii at Manoa. We are happy so many people came out to support their fellow classmates as they presented their latest and greatest tech creations.
 
 Here is the list of projects that were showcased at the event:
 
-1. [Team Pika - HACC2018](https://devpost.com/software/uh-manoa-energy-analytics
+1. [Team Pika - HACC2018](https://devpost.com/software/uh-manoa-energy-analytics)
 2. [Team Gucci Gang - HACC2018](https://devpost.com/software/guccigang)
 3. [Team Mea Kanu - HACC2018](https://devpost.com/software/mea-kanu-15os64)
 4. [Team O.W.O - HACC2018](https://devpost.com/software/hacc18-vhi)
-5. *HoloRacer* by Justin Bishay
+5. **HoloRacer** by Justin Bishay
 6. [Wrench Pedagogic Modules](http://wrench-project.org/)
-7. *Oahu Transit Tracker* by Ethan Chow
+7. **Oahu Transit Tracker** by Ethan Chow
 8. [Open Power Quality](https://openpowerquality.org/)
 9. [TechFolio Designer](https://techfolios.github.io/designer.html)
 10. [Radgrad](https://radgrad.ics.hawaii.edu)
@@ -69,6 +69,8 @@ Thanks for coming everyone!
 	    <img src="/assets/img/posts/wetware-wednesday-november-2018/end.JPG">
 	</figure>
 </center>
+
+<br> 
 
 Thanks!
 
