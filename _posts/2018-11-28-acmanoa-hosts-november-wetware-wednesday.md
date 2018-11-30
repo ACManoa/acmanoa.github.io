@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "ACManoa hosts November's WetWare Wednesday"
-featured-img: first-general-meeting-fall-2018
-categories: [ACManoa, POST 126]
+featured-img: wetware-wednesday-november-2018
+categories: [ACManoa, iLab]
 ---
 
 On November 28th 2018 ACManoa hosted November's WetWare Wednesday in the UH iLab (Building 37), right alongside the ICS department. WetWare Wednesday is a monthly networking event that brings together the local software development community in Hawaii. 
