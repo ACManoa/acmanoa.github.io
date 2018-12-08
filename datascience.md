@@ -108,6 +108,14 @@ The second half of the semester will build on this by having students work in gr
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Kirsten Takanishi">
+		<div class="info">
+			<h2>Kirsten Takanishi</h2>
+			<br>
+			<p>Manoa Data Science Officer</p>
+		</div>
+	</div>
+	<div class="officer">
 		<img src="/assets/img/officers/placehold.png" alt="Madhi Belcaid">
 		<div class="info">
 			<h2>Madhi Belcaid</h2>
