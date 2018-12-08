@@ -8,9 +8,9 @@ categories: [ACManoa, ICSpace]
 On December 7th 2018 ACManoa hosted the Fall 2018 ICS Graduation Ceremony in the ICSpace (POST 318b). Here are some pictures of the event:
 
 <center>
-	<div class="row">
-		<img src="/assets/img/posts/acm-graduation-ceremony-fall-2018/20181207_124515.jpg" data-featherlight data-featherlight-target-attr="src">
-	</div>
+	<figure class="full">
+	    <img src="/assets/img/posts/acm-graduation-ceremony-fall-2018/20181207_124515.jpg" data-featherlight data-featherlight-target-attr="src">
+	</figure>
 </center>
 
 <br>
@@ -57,6 +57,8 @@ On December 7th 2018 ACManoa hosted the Fall 2018 ICS Graduation Ceremony in the
 * **Ed White**
 
 Thanks for coming everyone!
+
+<br>
 
 <center>
 	<figure class="full">
