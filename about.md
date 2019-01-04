@@ -146,14 +146,6 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
-		<div class="info">
-			<h2>Kirsten Takanishi</h2>
-			<br>
-			<p>ACI Secretary</p>
-		</div>
-	</div>
-	<div class="officer">
 		<img src="/assets/img/officers/awyz.jpg" alt="Angela Zheng">
 		<div class="info">
 			<h2>Angela Zheng</h2>
@@ -169,12 +161,13 @@ You can be more involved with ACManoa in the following ways.
 			<p>ACI Interview Leader</p>
 		</div>
 	</div>
-	<div class="officer">
+  <div class="officer">
 		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
 			<h2>Kirsten Takanishi</h2>
 			<br>
-			<p>Grey Hats President</p>
+      <p>Grey Hats President</p>
+			<p>ACI Secretary</p>
 		</div>
 	</div>
   <div class="officer">
