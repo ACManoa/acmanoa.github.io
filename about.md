@@ -161,6 +161,14 @@ You can be more involved with ACManoa in the following ways.
 			<p>ACI Officer</p>
 		</div>
 	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/bwong7.jpg" alt="Brandon Wong">
+		<div class="info">
+			<h2>Brandon Wong</h2>
+			<br>
+			<p>ACI Interview Leader</p>
+		</div>
+	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
