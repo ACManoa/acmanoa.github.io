@@ -116,7 +116,7 @@ You can be more involved with ACManoa in the following ways.
 	<div class="officer">
 		<img src="/assets/img/officers/placehold.png" alt="Leighton Villanueva">
 		<div class="info">
-			<h2>Leighton Villanueva</h2>
+			<h2 style="white-space: nowrap;">Leighton Villanueva</h2>
 			<br>
 			<p>ACM Treasurer</p>
 		</div>
