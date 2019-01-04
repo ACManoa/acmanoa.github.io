@@ -113,14 +113,6 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/saehyun.jpg" alt="Saehyun Song">
-		<div class="info">
-			<h2>Saehyun Song</h2>
-			<br>
-			<p>ACI Officer</p>
-		</div>
-	</div>
-	<div class="officer">
 		<img src="/assets/img/officers/bwong7.jpg" alt="Brandon Wong">
 		<div class="info">
 			<h2>Brandon Wong</h2>
