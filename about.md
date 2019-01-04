@@ -103,7 +103,6 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Tyler Chong</h2>
 			<br />
 			<p>ACM President</p>
-			<p>Grey Hats Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -115,11 +114,19 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/idemello.png" alt="Isaac DeMello">
+		<img src="/assets/img/officers/placehold.png" alt="Leighton Villanueva">
 		<div class="info">
-			<h2>Isaac DeMello</h2>
+			<h2>Leighton Villanueva</h2>
 			<br>
 			<p>ACM Treasurer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Marty Apilado">
+		<div class="info">
+			<h2>Marty Apilado</h2>
+			<br>
+			<p>ACM Secretary</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -155,19 +162,19 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/saehyun.jpg" alt="Saehyun Song">
+		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
-			<h2>Saehyun Song</h2>
-			<br>
-			<p>ACI Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/omurray4.png" alt="Olivia Murray">
-		<div class="info">
-			<h2>Olivia Murray</h2>
+			<h2>Kirsten Takanishi</h2>
 			<br>
 			<p>Grey Hats President</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
+		<div class="info">
+			<h2>Chad Morita</h2>
+			<br>
+			<p>Grey Hats Vice President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -176,6 +183,14 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Ryan Nakata</h2>
 			<br>
 			<p>Grey Hats Secretary</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Trevin Tejero">
+		<div class="info">
+			<h2>Trevin Tejero</h2>
+			<br>
+			<p>Grey Hats Treasurer</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -203,17 +218,17 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Ed White">
+		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
 		<div class="info">
-			<h2>Ed White</h2>
+			<h2>Justin Bishay</h2>
 			<br>
 			<p>Game Dev Leader</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
+		<img src="/assets/img/officers/placehold.png" alt="Creighton Gorai">
 		<div class="info">
-			<h2>Justin Bishay</h2>
+			<h2>Creighton Gorai</h2>
 			<br>
 			<p>Game Dev Helper</p>
 		</div>
