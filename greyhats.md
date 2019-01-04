@@ -83,17 +83,17 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/omurray4.png" alt="Olivia Murray">
+		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
-			<h2>Olivia Murray</h2>
-			<br />
+			<h2>Kirsten Takanishi</h2>
+			<br>
 			<p>Grey Hats President</p>
 		</div>
 	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/tcchong.jpg" alt="Tyler Chong">
+  <div class="officer">
+		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
 		<div class="info">
-			<h2>Tyler Chong</h2>
+			<h2>Chad Morita</h2>
 			<br>
 			<p>Grey Hats Vice President</p>
 		</div>
@@ -104,6 +104,14 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 			<h2>Ryan Nakata</h2>
 			<br>
 			<p>Grey Hats Secretary</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Trevin Tejero">
+		<div class="info">
+			<h2>Trevin Tejero</h2>
+			<br>
+			<p>Grey Hats Treasurer</p>
 		</div>
 	</div>
 	<div class="officer">
