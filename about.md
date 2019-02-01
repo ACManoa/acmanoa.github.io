@@ -122,7 +122,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Marty Apilado">
+		<img src="/assets/img/officers/mjka.jpeg" alt="Marty Apilado">
 		<div class="info">
 			<h2>Marty Apilado</h2>
 			<br>
