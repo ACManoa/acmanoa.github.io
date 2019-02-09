@@ -114,7 +114,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Leighton Villanueva">
+		<img src="/assets/img/officers/lavillan.jpg" alt="Leighton Villanueva">
 		<div class="info">
 			<h2 style="white-space: nowrap;">Leighton Villanueva</h2>
 			<br>
