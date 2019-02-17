@@ -231,7 +231,15 @@ You can be more involved with ACManoa in the following ways.
 		<div class="info">
 			<h2>Creighton Gorai</h2>
 			<br>
-			<p>Game Dev Helper</p>
+			<p>Game Dev Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Jordan Ooka">
+		<div class="info">
+			<h2>Jordan Ooka</h2>
+			<br>
+			<p>Game Dev Officer</p>
 		</div>
 	</div>
 	<div class="officer">
