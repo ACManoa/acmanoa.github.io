@@ -43,7 +43,7 @@ On March 15th 2019 ACManoa hosted a Game/Trivia Night in the ICSpace (POST 318b)
 
 Thanks to ASUH for sponsoring this event, and thanks for coming everyone!
 
-<br>
+[Link to the trivia questions](https://docs.google.com/document/d/1EI4kZxc8m92x8Zl5wN_ye8Ll7-Krr3wDQNnnHmOLbL4/edit?usp=sharing)
 
 Thanks!
 
