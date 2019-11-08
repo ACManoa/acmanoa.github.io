@@ -81,44 +81,21 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/alicewy.jpg" alt="Alice Chen">
+		<img src="/assets/img/officers/placeholder.png" alt="Ryuto Kitagawa">
 		<div class="info">
-			<h2>Alice Chen</h2>
+			<h2>Ryuto Kitagawa</h2>
 			<br />
 			<p>ACI President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/davidrb.jpeg" alt="David Badke">
+		<img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
 		<div class="info">
-			<h2>David Badke</h2>
+			<h2>Japhet Ye</h2>
 			<br>
 			<p>ACI Vice President</p>
 		</div>
 	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
-		<div class="info">
-			<h2>Kirsten Takanishi</h2>
-			<br>
-			<p>ACI Secretary</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/awyz.jpg" alt="Angela Zheng">
-		<div class="info">
-			<h2>Angela Zheng</h2>
-			<br>
-			<p>ACI Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/bwong7.jpg" alt="Brandon Wong">
-		<div class="info">
-			<h2>Brandon Wong</h2>
-			<br>
-			<p>Interview Leader</p>
-		</div>
 	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">

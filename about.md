@@ -39,7 +39,7 @@ You can be more involved with ACManoa in the following ways.
 1. Simply by attending any of our events. Our events are and will always be open to everyone.
 2. Subscribing to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
 3. Joining our [Mailing List: http://eepurl.com/bOCcTP](http://eepurl.com/bOCcTP)
-4. And joining our [Discord server https://discord.gg/pnrYV5T](https://discord.gg/pnrYV5T).
+4. And joining our [Discord server https://discord.gg/hUANusC](https://discord.gg/hUANusC).
 
 <center>
 	<h2>Officers</h2>
@@ -97,20 +97,12 @@ You can be more involved with ACManoa in the following ways.
 </style>
 
 <div id="officers-container">
-	<div class="officer">
-		<img src="/assets/img/officers/tcchong.jpg" alt="Tyler Chong">
+  <div class="officer">
+		<img src="/assets/img/officers/mjka.jpeg" alt="Marty Apilado">
 		<div class="info">
-			<h2>Tyler Chong</h2>
-			<br />
-			<p>ACM President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/tyu.png" alt="Ty Uehara">
-		<div class="info">
-			<h2>Ty Uehara</h2>
+			<h2>Marty Apilado</h2>
 			<br>
-			<p>ACM Vice President</p>
+			<p>ACM President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -118,47 +110,31 @@ You can be more involved with ACManoa in the following ways.
 		<div class="info">
 			<h2 style="white-space: nowrap;">Leighton Villanueva</h2>
 			<br>
-			<p>ACM Treasurer</p>
+			<p>ACM Vice President</p>
 		</div>
 	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/mjka.jpeg" alt="Marty Apilado">
-		<div class="info">
-			<h2>Marty Apilado</h2>
-			<br>
-			<p>ACM Secretary</p>
-		</div>
-	</div>
+		<div class="officer">
+  		<img src="/assets/img/officers/jordanoo.jpg" alt="Jordan Ooka">
+  		<div class="info">
+  			<h2>Jordan Ooka</h2>
+  			<br>
+  			<p>ACM Treasurer</p>
+  		</div>
+  	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/alicewy.jpg" alt="Alice Chen">
+		<img src="/assets/img/officers/placeholder.jpg" alt="Ryuto Kitagawa">
 		<div class="info">
-			<h2>Alice Chen</h2>
+			<h2>Ryuto Kitagawa</h2>
 			<br>
 			<p>ACI President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/davidrb.jpeg" alt="David Badke">
+		<img src="/assets/img/officers/japhetye.jpeg" alt="Japhet Ye">
 		<div class="info">
-			<h2>David Badke</h2>
+			<h2>Japhet Ye</h2>
 			<br>
 			<p>ACI Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/awyz.jpg" alt="Angela Zheng">
-		<div class="info">
-			<h2>Angela Zheng</h2>
-			<br>
-			<p>ACI Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/bwong7.jpg" alt="Brandon Wong">
-		<div class="info">
-			<h2>Brandon Wong</h2>
-			<br>
-			<p>ACI Interview Leader</p>
 		</div>
 	</div>
   <div class="officer">
@@ -167,7 +143,6 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Kirsten Takanishi</h2>
 			<br>
       <p>Grey Hats President</p>
-			<p>ACI Secretary</p>
 		</div>
 	</div>
   <div class="officer">
@@ -195,30 +170,6 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Sean Takafuji">
-		<div class="info">
-			<h2>Sean Takafuji</h2>
-			<br />
-			<p>Manoa Data Science President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Herman Li">
-		<div class="info">
-			<h2>Herman Li</h2>
-			<br>
-			<p>Manoa Data Science Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Jason Len">
-		<div class="info">
-			<h2>Jason Len</h2>
-			<br>
-			<p>Manoa Data Science Officer</p>
-		</div>
-	</div>
-	<div class="officer">
 		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
 		<div class="info">
 			<h2>Justin Bishay</h2>
@@ -243,9 +194,9 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/leighj.jpeg" alt="Jason Leigh">
+		<img src="/assets/img/officers/petersadiwski.jpeg" alt="Peter Sadowski">
 		<div class="info">
-			<h2>Jason Leigh</h2>
+			<h2>Peter Sadowski</h2>
 			<br>
 			<p>ACM Faculty Sponsor</p>
 		</div>

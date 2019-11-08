@@ -83,25 +83,34 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
+			<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
+  		<div class="info">
+  			<h2>Chad Morita</h2>
+  			<br>
+  			<p>Grey Hats President</p>
+		</div>
+	</div>
+		</div>
+  		<div class="officer">
+    		<img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    		<div class="info">
+    			<h2>Patima Poochai</h2>
+    			<br>
+    			<p>Grey Hats Vice President</p>
+    		</div>
+    	</div>
+    	<div class="officer">
+      	<img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
+      	<div class="info">
+      		<h2>Ryan Nakata</h2>
+      		<br>
+      		<p>Grey Hats Vice President</p>
+      	</div>
+      </div>
+  <div class="officer">
 		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
 			<h2>Kirsten Takanishi</h2>
-			<br>
-			<p>Grey Hats President</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
-		<div class="info">
-			<h2>Chad Morita</h2>
-			<br>
-			<p>Grey Hats Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
-		<div class="info">
-			<h2>Ryan Nakata</h2>
 			<br>
 			<p>Grey Hats Secretary</p>
 		</div>
@@ -113,7 +122,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 			<br>
 			<p>Grey Hats Treasurer</p>
 		</div>
-	</div>
+    </div>
 	<div class="officer">
 		<img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
 		<div class="info">
