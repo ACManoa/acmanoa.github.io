@@ -81,7 +81,7 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.png" alt="Ryuto Kitagawa">
+		<img src="/assets/img/officers/placehold.png" alt="Ryuto Kitagawa">
 		<div class="info">
 			<h2>Ryuto Kitagawa</h2>
 			<br />
@@ -95,7 +95,6 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 			<br>
 			<p>ACI Vice President</p>
 		</div>
-	</div>
 	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">

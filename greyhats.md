@@ -90,23 +90,22 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
   			<p>Grey Hats President</p>
 		</div>
 	</div>
-		</div>
-  		<div class="officer">
-    		<img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
-    		<div class="info">
-    			<h2>Patima Poochai</h2>
-    			<br>
-    			<p>Grey Hats Vice President</p>
-    		</div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    	<div class="info">
+    		<h2>Patima Poochai</h2>
+    		<br>
+    		<p>Grey Hats Vice President</p>
     	</div>
-    	<div class="officer">
-      	<img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
-      	<div class="info">
-      		<h2>Ryan Nakata</h2>
-      		<br>
-      		<p>Grey Hats Vice President</p>
-      	</div>
-      </div>
+    </div>
+  <div class="officer">
+    <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
+    <div class="info">
+     	<h2>Ryan Nakata</h2>
+     	<br>
+     	<p>Grey Hats Vice President</p>
+   </div>
+  </div>
   <div class="officer">
 		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">

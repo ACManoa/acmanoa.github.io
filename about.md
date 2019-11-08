@@ -122,7 +122,7 @@ You can be more involved with ACManoa in the following ways.
   		</div>
   	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.jpg" alt="Ryuto Kitagawa">
+		<img src="/assets/img/officers/placeholder.png" alt="Ryuto Kitagawa">
 		<div class="info">
 			<h2>Ryuto Kitagawa</h2>
 			<br>
@@ -130,7 +130,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/japhetye.jpeg" alt="Japhet Ye">
+		<img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
 		<div class="info">
 			<h2>Japhet Ye</h2>
 			<br>
@@ -186,7 +186,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Jordan Ooka">
+		<img src="/assets/img/officers/jordanoo.jpg" alt="Jordan Ooka">
 		<div class="info">
 			<h2>Jordan Ooka</h2>
 			<br>
