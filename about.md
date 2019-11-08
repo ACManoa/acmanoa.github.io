@@ -210,7 +210,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/petersadiwski.jpg" alt="Peter Sadowski">
+		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
 			<h2>Peter Sadowski</h2>
 			<br>
