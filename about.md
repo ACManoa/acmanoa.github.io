@@ -122,7 +122,7 @@ You can be more involved with ACManoa in the following ways.
   		</div>
   	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.png" alt="Ryuto Kitagawa">
+		<img src="/assets/img/officers/placehold.png" alt="Ryuto Kitagawa">
 		<div class="info">
 			<h2>Ryuto Kitagawa</h2>
 			<br>
@@ -137,26 +137,34 @@ You can be more involved with ACManoa in the following ways.
 			<p>ACI Vice President</p>
 		</div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
+  	<div class="info">
+  		<h2>Chad Morita</h2>
+  		<br>
+  		<p>Grey Hats President</p>
+		</div>
+	</div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    <div class="info">
+    	<h2>Patima Poochai</h2>
+    	<br>
+    	<p>Grey Hats Vice President</p>
+    </div>
+   </div>
+  <div class="officer">
+    <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
+    <div class="info">
+     	<h2>Ryan Nakata</h2>
+     	<br>
+     	<p>Grey Hats Vice President</p>
+   </div>
+  </div>
   <div class="officer">
 		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
 		<div class="info">
 			<h2>Kirsten Takanishi</h2>
-			<br>
-      <p>Grey Hats President</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
-		<div class="info">
-			<h2>Chad Morita</h2>
-			<br>
-			<p>Grey Hats Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
-		<div class="info">
-			<h2>Ryan Nakata</h2>
 			<br>
 			<p>Grey Hats Secretary</p>
 		</div>
@@ -167,6 +175,14 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Trevin Tejero</h2>
 			<br>
 			<p>Grey Hats Treasurer</p>
+		</div>
+    </div>
+	<div class="officer">
+	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
+		<div class="info">
+			<h2>Gerald Lau</h2>
+			<br>
+			<p>Grey Hats Faculty Sponsor</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -194,7 +210,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/petersadiwski.jpeg" alt="Peter Sadowski">
+		<img src="/assets/img/officers/petersadiwski.jpg" alt="Peter Sadowski">
 		<div class="info">
 			<h2>Peter Sadowski</h2>
 			<br>

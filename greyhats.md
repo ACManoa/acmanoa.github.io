@@ -83,21 +83,21 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
-			<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
-  		<div class="info">
-  			<h2>Chad Morita</h2>
-  			<br>
-  			<p>Grey Hats President</p>
+		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
+  	<div class="info">
+  		<h2>Chad Morita</h2>
+  		<br>
+  		<p>Grey Hats President</p>
 		</div>
 	</div>
   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
-    	<div class="info">
-    		<h2>Patima Poochai</h2>
-    		<br>
-    		<p>Grey Hats Vice President</p>
-    	</div>
+    <div class="info">
+    	<h2>Patima Poochai</h2>
+    	<br>
+    	<p>Grey Hats Vice President</p>
     </div>
+   </div>
   <div class="officer">
     <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
     <div class="info">
@@ -123,7 +123,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		</div>
     </div>
 	<div class="officer">
-		<img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
+	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
 		<div class="info">
 			<h2>Gerald Lau</h2>
 			<br>
