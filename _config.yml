@@ -23,7 +23,6 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'ACI', link: '/aci'}
   - {name: 'Grey Hats', link: '/greyhats'}
-  - {name: 'Data Science', link: '/datascience'}
   - {name: 'Game Dev', link: '/gamedev'}
   - {name: 'ICSpace', link: '/icspace'}
   - {name: 'Sponsors', link: '/sponsors'}
