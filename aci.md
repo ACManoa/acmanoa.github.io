@@ -96,6 +96,14 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 			<p>ACI Vice President</p>
 		</div>
 	</div>
+		<div class="officer">
+  		<img src="/assets/img/officers/cade.png" alt="Cade Yamamoto">
+  		<div class="info">
+  			<h2>Cade Yamamoto</h2>
+  			<br>
+  			<p>ACI Officer</p>
+  		</div>
+  	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
 		<div class="info">
