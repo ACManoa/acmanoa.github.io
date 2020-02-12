@@ -21,7 +21,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'ACI', link: '/aci'}
+  - {name: 'PANDA', link: '/panda'}
   - {name: 'Grey Hats', link: '/greyhats'}
   - {name: 'Game Dev', link: '/gamedev'}
   - {name: 'ICSpace', link: '/icspace'}

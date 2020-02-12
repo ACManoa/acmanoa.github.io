@@ -1,27 +1,27 @@
 ---
 layout: page
-title: ACI
-permalink: /aci/
+title: PANDA
+permalink: /PANDA/
 ---
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/aci-blue.png" title="ACI Logo" alt="ACI Logo">
+	  <img height="300px" src="/assets/img/logos/Panda.png" title="Panda Logo" alt="Panda Logo">
 	</figure>
 </center>
 <br>
 
-ACI (Algorithms for Competitions and Interviews) is a group dedicated towards 
+PANDA (Algorithms for Competitions and Interviews) is a group dedicated towards 
 the studying of algorithms for applied usage.
 
-## What is the purpose of ACI?
-The purpose of ACI is for applying algorithms towards competitions and coding interviews. We recognize that algorithms are an important foundation for many fields in computer science, and is an important skill for being successful in computer science-related fields.
+## What is the purpose of PANDA?
+The purpose of PANDA is for applying algorithms towards competitions and coding interviews. We recognize that algorithms are an important foundation for many fields in computer science, and is an important skill for being successful in computer science-related fields.
 
 ## Who is welcome?
 The group is open to all students. Students who have not taken ICS 311 (Algorithms) are encouraged to have at least have taken ICS 111 (or a similar class).
 
 ## What do we do?
-For those who have yet to take ICS 311, ACI will be structured to follow the course curriculum of ICS 311. For those who have taken ICS 311, we encourage you to join to sharpening your algorithmic skills for technical interviews or competitive programming competitions such as ICPC during the fall and Google Code Jam during the spring.
+For those who have yet to take ICS 311, PANDA will be structured to follow the course curriculum of ICS 311. For those who have taken ICS 311, we encourage you to join to sharpening your algorithmic skills for technical interviews or competitive programming competitions such as ICPC during the fall and Google Code Jam during the spring.
 
 <br>
 
@@ -85,7 +85,7 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 		<div class="info">
 			<h2>Ryuto Kitagawa</h2>
 			<br />
-			<p>ACI President</p>
+			<p>PANDA President</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -93,7 +93,7 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 		<div class="info">
 			<h2>Japhet Ye</h2>
 			<br>
-			<p>ACI Vice President</p>
+			<p>PANDA Vice President</p>
 		</div>
 	</div>
 		<div class="officer">
@@ -101,7 +101,15 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
   		<div class="info">
   			<h2>Cade Yamamoto</h2>
   			<br>
-  			<p>ACI Officer</p>
+  			<p>PANDA Officer</p>
+  		</div>
+  	</div>
+	  	<div class="officer">
+  		<img src="/assets/img/officers/MattKim.jpg" alt="Matt Kim">
+  		<div class="info">
+  			<h2>Matt Kim</h2>
+  			<br>
+  			<p>PANDA Officer</p>
   		</div>
   	</div>
 	<div class="officer">
@@ -109,7 +117,7 @@ For those who have yet to take ICS 311, ACI will be structured to follow the cou
 		<div class="info">
 			<h2>Nodari Sitchinava</h2>
 			<br>
-			<p>ACI Faculty Sponsor</p>
+			<p>PANDA Faculty Sponsor</p>
 		</div>
 	</div>
 </div>
