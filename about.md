@@ -112,6 +112,7 @@ You can be more involved with ACManoa in the following ways.
 			<br>
 			<p>ACM Vice President</p>
 		</div>
+		</div>
   <div class="officer">
     <img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
     <div class="info">
@@ -160,30 +161,6 @@ You can be more involved with ACManoa in the following ways.
     	<p>Grey Hats Vice President</p>
     </div>
    </div>
-  <div class="officer">
-    <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
-    <div class="info">
-     	<h2>Ryan Nakata</h2>
-     	<br>
-     	<p>Grey Hats Vice President</p>
-   </div>
-  </div>
-  <div class="officer">
-		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
-		<div class="info">
-			<h2>Kirsten Takanishi</h2>
-			<br>
-			<p>Grey Hats Secretary</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Trevin Tejero">
-		<div class="info">
-			<h2>Trevin Tejero</h2>
-			<br>
-			<p>Grey Hats Treasurer</p>
-		</div>
-    </div>
 	<div class="officer">
 	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
 		<div class="info">
