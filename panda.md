@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PANDA
-permalink: /PANDA/
+permalink: /panda/
 ---
 
 <center>
