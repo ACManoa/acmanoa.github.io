@@ -60,6 +60,54 @@ permalink: /history/
   }
 </style>
 
+
+<center>
+  <h3>Fall 2019 - Spring 2020</h3>
+</center>
+
+<div id="officers-container">
+  <div class="officer">
+    <img src="/assets/img/officers/mjka.jpg" alt="Marty Joshua Apilado">
+    <div class="info">
+      <h2>Marty Joshua Apilado</h2>
+      <br />
+      <p>ACM President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/lavillan.png" alt="Leighton Villanueva">
+    <div class="info">
+      <h2>Leighton Villanueva</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/jordanoo.png" alt="Jordan Ooka">
+    <div class="info">
+      <h2>Jordan Ooka</h2>
+      <br>
+      <p>ACM Treasurer (Fall 2019)</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
+    <div class="info">
+      <h2>Japhet Ye</h2>
+      <br>
+      <p>ACM Secretary (Spring 2020)</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/timoteosum.jpg" alt="Timoteo Sumalinog III">
+    <div class="info">
+      <h2>Timoteo Sumalinog III</h2>
+      <br>
+      <p>ACM Treasurer (Spring 2020)</p>
+    </div>
+  </div>
+</div>
+
 <center>
   <h3>Fall 2018 - Spring 2019</h3>
 </center>

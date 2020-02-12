@@ -112,15 +112,22 @@ You can be more involved with ACManoa in the following ways.
 			<br>
 			<p>ACM Vice President</p>
 		</div>
-	</div>
-		<div class="officer">
-  		<img src="/assets/img/officers/jordanoo.jpg" alt="Jordan Ooka">
-  		<div class="info">
-  			<h2>Jordan Ooka</h2>
-  			<br>
-  			<p>ACM Treasurer</p>
-  		</div>
-  	</div>
+  <div class="officer">
+    <img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
+    <div class="info">
+      <h2>Japhet Ye</h2>
+      <br>
+      <p>ACM Secretary</p>
+    </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/timoteosum.jpg" alt="Timoteo Sumalinog III">
+    <div class="info">
+      <h2>Timoteo Sumalinog III</h2>
+      <br>
+      <p>ACM Treasurer</p>
+    </div>
+  </div>
 	<div class="officer">
 		<img src="/assets/img/officers/placehold.png" alt="Ryuto Kitagawa">
 		<div class="info">
