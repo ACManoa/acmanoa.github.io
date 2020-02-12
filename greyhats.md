@@ -19,11 +19,11 @@ The Grey Hats is a student-led, extracurricular organization focused on real-wor
 
 ### Who is welcome?
 
-Everyone is welcome to join, regardless of skill level. 
+Everyone is welcome to join, regardless of skill level.
 
 ### What do we do?
 
-We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitions. Two of the main competitions we participate in are National Cyber League and the National Collegiate Cyber Defense Competition. 
+We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitions. Two of the main competitions we participate in are National Cyber League and the National Collegiate Cyber Defense Competition.
 
 <br>
 
@@ -98,7 +98,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
     	<p>Grey Hats Vice President</p>
     </div>
    </div>
-  <div class="officer">
+<!--  <div class="officer">
     <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
     <div class="info">
      	<h2>Ryan Nakata</h2>
@@ -121,7 +121,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 			<br>
 			<p>Grey Hats Treasurer</p>
 		</div>
-    </div>
+    </div> -->
 	<div class="officer">
 	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
 		<div class="info">
