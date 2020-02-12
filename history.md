@@ -67,15 +67,15 @@ permalink: /history/
 
 <div id="officers-container">
   <div class="officer">
-    <img src="/assets/img/officers/mjka.jpg" alt="Marty Joshua Apilado">
+    <img src="/assets/img/officers/mjka.jpeg" alt="Marty Joshua Apilado">
     <div class="info">
       <h2>Marty Joshua Apilado</h2>
-      <br />
+      <br/>
       <p>ACM President</p>
     </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/lavillan.png" alt="Leighton Villanueva">
+    <img src="/assets/img/officers/lavillan.jpg" alt="Leighton Villanueva">
     <div class="info">
       <h2>Leighton Villanueva</h2>
       <br>
@@ -83,7 +83,7 @@ permalink: /history/
     </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/jordanoo.png" alt="Jordan Ooka">
+    <img src="/assets/img/officers/jordanoo.jpg" alt="Jordan Ooka">
     <div class="info">
       <h2>Jordan Ooka</h2>
       <br>
