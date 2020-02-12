@@ -218,9 +218,9 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Madhi Belcaid">
+		<img src="/assets/img/officers/placehold.png" alt="Mahdi Belcaid">
 		<div class="info">
-			<h2>Madhi Belcaid</h2>
+			<h2>Mahdi Belcaid</h2>
 			<br>
 			<p>Manoa Data Science Faculty Sponsor</p>
 		</div>
