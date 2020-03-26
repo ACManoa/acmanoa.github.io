@@ -210,14 +210,6 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
-		<div class="info">
-			<h2>Gerald Lau</h2>
-			<br>
-			<p>Grey Hats Faculty Sponsor</p>
-		</div>
-	</div>
-	<div class="officer">
 		<img src="/assets/img/officers/placehold.png" alt="Mahdi Belcaid">
 		<div class="info">
 			<h2>Mahdi Belcaid</h2>
