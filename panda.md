@@ -11,17 +11,19 @@ permalink: /panda/
 </center>
 <br>
 
-PANDA (Algorithms for Competitions and Interviews) is a group dedicated towards 
-the studying of algorithms for applied usage.
-
-## What is the purpose of PANDA?
-The purpose of PANDA is for applying algorithms towards competitions and coding interviews. We recognize that algorithms are an important foundation for many fields in computer science, and is an important skill for being successful in computer science-related fields.
-
-## Who is welcome?
-The group is open to all students. Students who have not taken ICS 311 (Algorithms) are encouraged to have at least have taken ICS 111 (or a similar class).
+## What is PANDA?
+PANDA (Programming AND Algorithms) is a special interest group of ACM Manoa dedicated to studying and applying algorithms. We aim to help students develop the algorithmic problem solving skills needed to succeed in the field of computer science.
 
 ## What do we do?
-For those who have yet to take ICS 311, PANDA will be structured to follow the course curriculum of ICS 311. For those who have taken ICS 311, we encourage you to join to sharpening your algorithmic skills for technical interviews or competitive programming competitions such as ICPC during the fall and Google Code Jam during the spring.
+We hold weekly meetings dedicated to solving algorithm problems similar to those that are used in technical job interviews. We also host events aimed to educate students about computer science resumes, internships, and careers. 
+
+## Who is welcome?
+The group is open to everyone!
+
+## How to join?
+Our meetings are currently hosted on Zoom. Join the PANDA discord via [this link](https://discord.gg/8CV6bhq) to get the Zoom link. 
+
+If you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
 
 <br>
 
@@ -81,45 +83,37 @@ For those who have yet to take ICS 311, PANDA will be structured to follow the c
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Ryuto Kitagawa">
+		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kanai Gooding">
 		<div class="info">
-			<h2>Ryuto Kitagawa</h2>
+			<h2>Kana'i Gooding</h2>
 			<br />
 			<p>PANDA President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
+		<img src="/assets/img/officers/RobertLemon.png" alt="Robert Lemon">
 		<div class="info">
-			<h2>Japhet Ye</h2>
+			<h2>Robert Lemon</h2>
 			<br>
 			<p>PANDA Vice President</p>
 		</div>
 	</div>
 		<div class="officer">
-  		<img src="/assets/img/officers/cade.png" alt="Cade Yamamoto">
+  		<img src="/assets/img/officers/TimSumalinog.jpg" alt="Tim Sumalinog">
   		<div class="info">
-  			<h2>Cade Yamamoto</h2>
+  			<h2>Tim Sumalinog</h2>
   			<br>
   			<p>PANDA Officer</p>
   		</div>
   	</div>
 	  	<div class="officer">
-  		<img src="/assets/img/officers/MattKim.jpg" alt="Matt Kim">
+  		<img src="/assets/img/officers/EricLam.jpg" alt="Eric Lam">
   		<div class="info">
-  			<h2>Matt Kim</h2>
+  			<h2>Eric Lam</h2>
   			<br>
   			<p>PANDA Officer</p>
   		</div>
   	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
-		<div class="info">
-			<h2>Nodari Sitchinava</h2>
-			<br>
-			<p>PANDA Faculty Sponsor</p>
-		</div>
-	</div>
 </div>
 
 <br>

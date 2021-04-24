@@ -130,19 +130,35 @@ You can be more involved with ACManoa in the following ways.
     </div>
   </div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Ryuto Kitagawa">
+		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kanai Gooding">
 		<div class="info">
-			<h2>Ryuto Kitagawa</h2>
+			<h2>Kana'i Gooding</h2>
 			<br>
-			<p>ACI President</p>
+			<p>PANDA President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
+		<img src="/assets/img/officers/RobertLemon.png" alt="Robert Lemon">
 		<div class="info">
-			<h2>Japhet Ye</h2>
+			<h2>Robert Lemon</h2>
 			<br>
-			<p>ACI Vice President</p>
+			<p>PANDA Vice President</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/TimSumalinog.jpg" alt="Tim Sumalinog">
+		<div class="info">
+			<h2>Tim Sumalinog</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/EricLam.jpg" alt="Eric Lam">
+		<div class="info">
+			<h2>Eric Lam</h2>
+			<br>
+			<p>PANDA Officer</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -199,14 +215,6 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Peter Sadowski</h2>
 			<br>
 			<p>ACM Faculty Sponsor</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/nodari.jpg" alt="Nodari Sitchinava">
-		<div class="info">
-			<h2>Nodari Sitchinava</h2>
-			<br>
-			<p>ACI Faculty Sponsor</p>
 		</div>
 	</div>
 	<div class="officer">
