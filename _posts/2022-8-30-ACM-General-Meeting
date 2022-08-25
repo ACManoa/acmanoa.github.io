@@ -1,0 +1,74 @@
+---
+layout: post
+title: "ACM General Meeting 2022"
+featured-img: drfortress
+categories: [ACManoa]
+---
+
+## Welcome to Fall Semester Students! 
+
+The Association of Computer Machinery (ACM) would like to extend an invitation to all ICS Students and individuals to our ACM General Meeting held at POST 127 on August 30th at 4:30PM - 6:00PM.
+
+Here at the University of Hawaiʻi at Manoa, ACM connects students with professional networking opportunities, internships, researches, and collaborative resources. Some of our professional connections include Apple, Microsoft, Github, NSA, and many, many more.
+We represent a greater, national ACM, which may be known for awarding the ACM A.M Turing awards,  often regarded as the “Nobel Prize of Computing.”
+
+Learn more about these clubs and everything we offer on August 30th, in addition to free food provided.
+Attached is the link to our discord:
+
+https://discord.gg/u6VKn9yscD
+
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/First Meeting.png" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
+
+<br>
+
+We thank you for your support and are looking forward to seeing you!
+
+Thanks!
+
+_ACManoa_
+
+<style>
+	.row {
+	  display: flex;
+	  flex-wrap: wrap;
+	  padding: 0 4px;
+	}
+
+	/* Create four equal columns that sits next to each other */
+	.column {
+	  flex: 100%;
+	  max-width: 50%;
+	  padding: 0 4px;
+	}
+
+	.column img {
+	  margin-top: 8px;
+	  vertical-align: middle;
+	  cursor: pointer;
+	}
+
+	/* Responsive layout - makes a two column-layout instead of four columns */
+	@media screen and (max-width: 800px) {
+	  .column {
+	    flex: 50%;
+	    max-width: 50%;
+	  }
+	}
+
+	/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+	@media screen and (max-width: 600px) {
+	  .column {
+	    flex: 100%;
+	    max-width: 100%;
+	  }
+	}
+</style>
+
+<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+<script src="//code.jquery.com/jquery-latest.js"></script>
+<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<style>
