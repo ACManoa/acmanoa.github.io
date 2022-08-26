@@ -91,7 +91,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Amanda Nitta">
+    <img src="/assets/img/officers/amanda.png" alt="Amanda Nitta">
     <div class="info">
     	<h2>Amanda Nitta</h2>
     	<br>
@@ -115,7 +115,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Hubert Liang">
+		<img src="/assets/img/officers/hubert.png" alt="Hubert Liang">
 		<div class="info">
 			<h2>Hubert Liang</h2>
 			<br>
