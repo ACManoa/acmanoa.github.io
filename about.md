@@ -98,116 +98,53 @@ You can be more involved with ACManoa in the following ways.
 
 <div id="officers-container">
   <div class="officer">
-		<img src="/assets/img/officers/mjka.jpeg" alt="Marty Apilado">
+	<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kanai Gooding">
 		<div class="info">
-			<h2>Marty Apilado</h2>
+			<h2>Kana'i Gooding</h2>
 			<br>
 			<p>ACM President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/lavillan.jpg" alt="Leighton Villanueva">
+		<img src="/assets/img/officers/placehold.png" alt="Amanda Nitta">
 		<div class="info">
-			<h2 style="white-space: nowrap;">Leighton Villanueva</h2>
+			<h2>Amanda Nitta</h2>
 			<br>
 			<p>ACM Vice President</p>
 		</div>
-		</div>
+	</div>
   <div class="officer">
-    <img src="/assets/img/officers/japhetye.jpg" alt="Japhet Ye">
+    <img src="/assets/img/officers/placehold.png" alt="Chris Dang">
     <div class="info">
-      <h2>Japhet Ye</h2>
+      <h2>Chris Dang</h2>
       <br>
       <p>ACM Secretary</p>
-    </div>
+   </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/timoteosum.jpg" alt="Timoteo Sumalinog III">
+    <img src="/assets/img/officers/placehold.png" alt="Hubert Liang">
     <div class="info">
-      <h2>Timoteo Sumalinog III</h2>
+      <h2>Hubert Liang</h2>
       <br>
       <p>ACM Treasurer</p>
     </div>
   </div>
-	<div class="officer">
-		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kanai Gooding">
-		<div class="info">
-			<h2>Kana'i Gooding</h2>
-			<br>
-			<p>PANDA President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/RobertLemon.png" alt="Robert Lemon">
-		<div class="info">
-			<h2>Robert Lemon</h2>
-			<br>
-			<p>PANDA Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/TimSumalinog.jpg" alt="Tim Sumalinog">
-		<div class="info">
-			<h2>Tim Sumalinog</h2>
-			<br>
-			<p>PANDA Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/EricLam.jpg" alt="Eric Lam">
-		<div class="info">
-			<h2>Eric Lam</h2>
-			<br>
-			<p>PANDA Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
-  	<div class="info">
-  		<h2>Chad Morita</h2>
-  		<br>
-  		<p>Grey Hats President</p>
-		</div>
-	</div>
+ </div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    <img src="/assets/img/officers/placehold.png" alt="Pauline Wu">
     <div class="info">
-    	<h2>Patima Poochai</h2>
-    	<br>
-    	<p>Grey Hats Vice President</p>
+      <h2>Pauline Wu</h2>
+      <br>
+      <p>ACM Web Master</p>
     </div>
-   </div>
-	<div class="officer">
-	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
-		<div class="info">
-			<h2>Gerald Lau</h2>
-			<br>
-			<p>Grey Hats Faculty Sponsor</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
-		<div class="info">
-			<h2>Justin Bishay</h2>
-			<br>
-			<p>Game Dev Leader</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Creighton Gorai">
-		<div class="info">
-			<h2>Creighton Gorai</h2>
-			<br>
-			<p>Game Dev Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/jordanoo.jpg" alt="Jordan Ooka">
-		<div class="info">
-			<h2>Jordan Ooka</h2>
-			<br>
-			<p>Game Dev Officer</p>
-		</div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="	Jake Imanaka">
+    <div class="info">
+      <h2>Jake Imanaka/h2>
+      <br>
+      <p>ACM Membership Chair</p>
+    </div>
 	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
@@ -215,14 +152,6 @@ You can be more involved with ACManoa in the following ways.
 			<h2>Peter Sadowski</h2>
 			<br>
 			<p>ACM Faculty Sponsor</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Mahdi Belcaid">
-		<div class="info">
-			<h2>Mahdi Belcaid</h2>
-			<br>
-			<p>Manoa Data Science Faculty Sponsor</p>
 		</div>
 	</div>
 </div>
