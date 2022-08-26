@@ -84,27 +84,43 @@ The second half of the semester will build on this by having students work in gr
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Justin Bishay">
+		<img src="/assets/img/officers/placehold.png" alt="Hubert Liang">
 		<div class="info">
-			<h2>Justin Bishay</h2>
+			<h2>Hubert Liang</h2>
 			<br>
-			<p>Game Dev Leader</p>
+			<p>General Officer</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Creighton Gorai">
+		<img src="/assets/img/officers/placehold.png" alt="Benny Trieu">
 		<div class="info">
-			<h2>Creighton Gorai</h2>
+			<h2>Benny Trieu</h2>
 			<br>
-			<p>Game Dev Officer</p>
+			<p>General Officer</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Jordan Ooka">
+		<img src="/assets/img/officers/placehold.png" alt="Justin Yip">
 		<div class="info">
-			<h2>Jordan Ooka</h2>
+			<h2>Justin Yip</h2>
 			<br>
-			<p>Game Dev Officer</p>
+			<p>Coding Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Brandi Wakashige">
+		<div class="info">
+			<h2>Brandi Wakashige</h2>
+			<br>
+			<p>Art Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Kelsy Padilla">
+		<div class="info">
+			<h2>Kelsy Padillau</h2>
+			<br>
+			<p>Art Officer</p>
 		</div>
 	</div>
 </div>
