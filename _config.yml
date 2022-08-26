@@ -24,6 +24,7 @@ navigation: # Navigation links
   - {name: 'PANDA', link: '/panda'}
   - {name: 'Grey Hats', link: '/greyhats'}
   - {name: 'Game Dev', link: '/gamedev'}
+  - {name: 'SWITCH', link: '/switch'}
   - {name: 'ICSpace', link: '/icspace'}
   - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'Contact', link: '/contact'}
