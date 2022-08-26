@@ -83,33 +83,25 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kanai Gooding">
+		<img src="/assets/img/officers/placeholder.png" alt="Abdullah Quadri">
 		<div class="info">
-			<h2>Kana'i Gooding</h2>
+			<h2>Abdullah Quadri</h2>
 			<br />
 			<p>PANDA President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/RobertLemon.png" alt="Robert Lemon">
+		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kana'i Gooding">
 		<div class="info">
-			<h2>Robert Lemon</h2>
+			<h2>Kana'i Gooding</h2>
 			<br>
-			<p>PANDA Vice President</p>
+			<p>PANDA Officer</p>
 		</div>
 	</div>
 		<div class="officer">
-  		<img src="/assets/img/officers/TimSumalinog.jpg" alt="Tim Sumalinog">
+  		<img src="/assets/img/officers/placeholder.png" alt="Alyssia Chen">
   		<div class="info">
-  			<h2>Tim Sumalinog</h2>
-  			<br>
-  			<p>PANDA Officer</p>
-  		</div>
-  	</div>
-	  	<div class="officer">
-  		<img src="/assets/img/officers/EricLam.jpg" alt="Eric Lam">
-  		<div class="info">
-  			<h2>Eric Lam</h2>
+  			<h2>Alyssia Chen</h2>
   			<br>
   			<p>PANDA Officer</p>
   		</div>
