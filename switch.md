@@ -107,7 +107,7 @@ The group is open to everyone!
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Pauline Wu">
+		<img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
 		<div class="info">
 			<h2>Pauline Wu</h2>
 			<br>
