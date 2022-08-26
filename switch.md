@@ -90,7 +90,7 @@ The group is open to everyone!
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/RobertLemon.png" alt="">
+		<img src="/assets/img/officers/placeholder.png" alt="">
 		<div class="info">
 			<h2></h2>
 			<br>
