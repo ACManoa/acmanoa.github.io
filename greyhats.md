@@ -83,52 +83,44 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/chadmmm.jpg" alt="Chad Morita">
+		<img src="/assets/img/officers/placehold.png" alt="Jake Imanaka">
   	<div class="info">
-  		<h2>Chad Morita</h2>
+  		<h2>Jake Imanaka</h2>
   		<br>
-  		<p>Grey Hats President</p>
+  		<p>Grey Hats Chairperson</p>
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    <img src="/assets/img/officers/placehold.png" alt="Amanda Nitta">
     <div class="info">
-    	<h2>Patima Poochai</h2>
+    	<h2>Amanda Nitta</h2>
     	<br>
-    	<p>Grey Hats Vice President</p>
+    	<p>Grey Hats Vice Chairperson</p>
     </div>
    </div>
-<!--  <div class="officer">
-    <img src="/assets/img/officers/rknakata.jpg" alt="Ryan Nakata">
+<div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
     <div class="info">
-     	<h2>Ryan Nakata</h2>
+     	<h2>Patima Poochai</h2>
      	<br>
-     	<p>Grey Hats Vice President</p>
+     	<p>Grey Hats Board Member</p>
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/khtakani.jpg" alt="Kirsten Takanishi">
+		<img src="/assets/img/officers/placehold.png" alt="Kana'i Gooding">
 		<div class="info">
-			<h2>Kirsten Takanishi</h2>
+			<h2>Kana'i Gooding</h2>
 			<br>
-			<p>Grey Hats Secretary</p>
+			<p>Grey Hats Board Member</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Trevin Tejero">
+		<img src="/assets/img/officers/placehold.png" alt="Hubert Liang">
 		<div class="info">
-			<h2>Trevin Tejero</h2>
+			<h2>Hubert Liang</h2>
 			<br>
-			<p>Grey Hats Treasurer</p>
-		</div>
-    </div> -->
-	<div class="officer">
-	  <img src="/assets/img/officers/glau.jpeg" alt="Gerald Lau">
-		<div class="info">
-			<h2>Gerald Lau</h2>
-			<br>
-			<p>Grey Hats Faculty Sponsor</p>
-		</div>
+			<p>Grey Hats Board Member</p>
+    </div>
 	</div>
 </div>
 <br>
