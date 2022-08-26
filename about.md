@@ -106,7 +106,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/amanda.jpg" alt="Amanda Nitta">
+		<img src="/assets/img/officers/amanda.png" alt="Amanda Nitta">
 		<div class="info">
 			<h2>Amanda Nitta</h2>
 			<br>
@@ -114,7 +114,7 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/Chris.jpg" alt="Chris Dang">
+    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
     <div class="info">
       <h2>Chris Dang</h2>
       <br>
@@ -122,7 +122,7 @@ You can be more involved with ACManoa in the following ways.
    </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/hurbert.jpg" alt="Hubert Liang">
+    <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
     <div class="info">
       <h2>Hubert Liang</h2>
       <br>
@@ -130,7 +130,7 @@ You can be more involved with ACManoa in the following ways.
     </div>
  </div>
   <div class="officer">
-    <img src="/assets/img/officers/pauline.jpg" alt="Pauline Wu">
+    <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
       <h2>Pauline Wu</h2>
       <br>
