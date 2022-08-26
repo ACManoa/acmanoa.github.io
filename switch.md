@@ -13,16 +13,17 @@ permalink: /switch/
 ##Supporting Women in Technology Computing Hawaii
 
 ## What is SWITCH?
+SWITCH is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department.
 
+Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development.
+
+For more infomation check out their webpage https://switch-uhm.github.io/
 
 ## What do we do?
-
+We are a group dedicated to support  promote gender and racial minorities by developing professional, technical skills.
 
 ## Who is welcome?
 The group is open to everyone!
-
-## How to join?
-
 
 <br>
 
@@ -82,59 +83,44 @@ The group is open to everyone!
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.png" alt="Chelsea Nguyen">
+		<img src="/assets/img/officers/placehold.png" alt="Chelsea Nguyen">
+  	<div class="info">
+  		<h2>Chelsea Nguyen</h2>
+  		<br>
+  		<p>SWITCH President</p>
+		</div>
+	</div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Jeraldine Milla">
+    <div class="info">
+    	<h2>Jeraldine Milla</h2>
+    	<br>
+    	<p>SWITCH Vice-President of External Affairs</p>
+    </div>
+   </div>
+<div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Tracy Bui">
+    <div class="info">
+     	<h2>Tracy Bui</h2>
+     	<br>
+     	<p>SWITCH Vice President of Marketing</p>
+   </div>
+  </div>
+  <div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Pauline Wu">
 		<div class="info">
-			<h2>Chelsea Nguyen</h2>
-			<br />
-			<p>SWITCH President</p>
+			<h2>Pauline Wu</h2>
+			<br>
+			<p>SWITCH Secretary</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.png" alt="">
+		<img src="/assets/img/officers/placehold.png" alt="Ana Araujo">
 		<div class="info">
-			<h2></h2>
+			<h2>Ana Araujo</h2>
 			<br>
-			<p></p>
-		</div>
-	</div>
-		<div class="officer">
-  		<img src="/assets/img/officers/placeholder.png" alt="">
-  		<div class="info">
-  			<h2></h2>
-  			<br>
-  			<p></p>
-  		</div>
-  	</div>
-	  	<div class="officer">
-  		<img src="/assets/img/officers/placeholder.png" alt="">
-  		<div class="info">
-  			<h2></h2>
-  			<br>
-  			<p></p>
-  		</div>
+			<p>SWITCH Board Member</p>
   	</div>
 </div>
+</div>
 
-<br>
-
-<center>
-	<style>
-		.column {
-			float: left;
-			width: 50%;
-		}
-		.row:after {
-			content: "";
-			display: table;
-			clear: both;
-		}
-	</style>
-	<div class="row">
-		<div class="column">
-			<img height="300px" width="300px" src="/assets/img/logos/icpc.png" title="ICPC Logo" alt="ICPC Logo">
-		</div>
-		<div class="column">
-			<img height="300px" width="300px" src="/assets/img/logos/google-codejam.jpg" title="Google Codejam Logo" alt="Google Codejam Logo">
-		</div>
-	</div>
-</center>
