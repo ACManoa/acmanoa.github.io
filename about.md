@@ -128,7 +128,6 @@ You can be more involved with ACManoa in the following ways.
       <br>
       <p>ACM Treasurer</p>
     </div>
-  </div>
  </div>
   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Pauline Wu">
@@ -141,7 +140,7 @@ You can be more involved with ACManoa in the following ways.
   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="	Jake Imanaka">
     <div class="info">
-      <h2>Jake Imanaka/h2>
+      <h2>Jake Imanaka</h2>
       <br>
       <p>ACM Membership Chair</p>
     </div>
