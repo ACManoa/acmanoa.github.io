@@ -81,7 +81,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Preston Garcia">
+		<img src="/assets/img/officers/preston.png" alt="Preston Garcia">
 		<div class="info">
 			<h2>Preston Garcia</h2>
 			<br/>
@@ -89,7 +89,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Timothy Huo">
+		<img src="/assets/img/officers/tim.png" alt="Timothy Huo">
 		<div class="info">
 			<h2>Timothy Huo</h2>
 			<br>
@@ -97,7 +97,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
 		</div>
     </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Marissa Halim">
+  		 <img src="/assets/img/officers/marissa.png" alt="Marissa Halim">
   		<div class="info">
   			<h2>Marissa Halim</h2>
   			<br>
@@ -105,7 +105,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
   		</div>  
   </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Sydnee You">
+  		 <img src="/assets/img/officers/sydnee.png" alt="Sydnee You">
   		<div class="info">
   			<h2>Sydnee You</h2>
   			<br>
@@ -121,7 +121,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
   		</div> 
    </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Joshua Galeria">
+  		 <img src="/assets/img/officers/joshua.png" alt="Joshua Galeria">
   		<div class="info">
   			<h2>Joshua Galeria</h2>
   			<br>
@@ -129,7 +129,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
   		</div>
         </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Jake Hardy">
+  		 <img src="/assets/img/officers/hardy.png" alt="Jake Hardy">
   		<div class="info">
   			<h2>Jake Hardy</h2>
   			<br>
@@ -137,7 +137,7 @@ For more infomation regarding ICSpark come view our website https://icspark.gith
   		</div>
         </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Michelle Leano">
+  		 <img src="/assets/img/officers/michelle.png" alt="Michelle Leano">
   		<div class="info">
   			<h2>Michelle Leano</h2>
   			<br>
