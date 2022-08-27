@@ -6,11 +6,11 @@ permalink: /switch/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/placeholder.png" title="SWITCH Logo" alt="SWITCH Logo">
+	  <img height="300px" src="/assets/img/logos/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
 	</figure>
 </center>
 <br>
-##Supporting Women in Technology Computing Hawaii
+## Supporting Women in Technology Computing Hawaii
 
 ## What is SWITCH?
 SWITCH is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department.
