@@ -10,6 +10,7 @@ permalink: /switch/
 	</figure>
 </center>
 <br>
+
 ## Supporting Women in Technology Computing Hawaii
 
 ## What is SWITCH?
