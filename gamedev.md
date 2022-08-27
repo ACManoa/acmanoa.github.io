@@ -11,26 +11,9 @@ permalink: /gamedev/
 </center>
 <br>
 
-<!-- ## What is Manoa Data Science?
+## What is GameDev ?
 
-Manoa Data Science is a SIG dedicated to cultivating student interest in Data Science and gain a better understanding of how various individuals contribute to the delivery of an effective project. This includes the contribution of individuals working in the following roles: Data Engineers, Data Scientists, Software Engineers, and DevOps Engineers. 
-
-## What we do
-
-Through the first half of the semester, we will be walk through one project cycle encompassing the work of these four individuals through four main steps:
-1. Learning how to obtain and prepare a data set to work with (Calling APIs, Web scraping, Databases, Creating a data pipeline) [Work of a Data Engineer]
-2. Discerning valuable features in the data set and applying a mathematical model to create predictions and /or meaningful results. (NumPy, Pandas, SciPy) [Work of a Data Scientist]
-3. Developing an application that showcases and / or integrates the results of the model in a digestible manner (Data Visualization, Web Apps, Integration into existing algorithms) [Work of a Software Engineer]
-4. Continuous delivery of the application and applying it into a production setting (CI/CD, Docker, Kubernetes) [Work of a DevOps Engineer]
-The aim of this is for students to gain a deeper understanding of each skill set and to identify which parts of the process they enjoy and don't enjoy.
-
-The second half of the semester will build on this by having students work in groups to deliver a Data Science project that effectively answers a question or problem they will construct or identify. The aim of this is for students to gain practical experience with the delivery of an effective project and to allow students to take ownership of their work.
- -->
-<br>
-
-<center>
-	<h2>Officers</h2>
-</center>
+We are a group dedicated to designing, building, and demoing video games using Unity and other various tools. 
 
 <style>
 	#officers-container {
