@@ -6,7 +6,7 @@ permalink: /icspark/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/icspark.png" title="Panda Logo" alt="Panda Logo">
+	  <img height="300px" src="/assets/img/logos/icspark.PNG" title="ICSpark Logo" alt="ICSpark Logo">
 	</figure>
 </center>
 <br>
