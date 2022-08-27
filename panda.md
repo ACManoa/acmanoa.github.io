@@ -83,10 +83,10 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placeholder.png" alt="Abdullah Quadri">
+		<img src="/assets/img/officers/placehold.png" alt="Abdullah Quadri">
 		<div class="info">
 			<h2>Abdullah Quadri</h2>
-			<br />
+			<br/>
 			<p>PANDA President</p>
 		</div>
 	</div>
@@ -99,7 +99,7 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 		</div>
 	</div>
 		<div class="officer">
-  		<img src="/assets/img/officers/placeholder.png" alt="Alyssia Chen">
+  		 <img src="/assets/img/officers/placehold.png" alt="Alyssia Chen">
   		<div class="info">
   			<h2>Alyssia Chen</h2>
   			<br>
