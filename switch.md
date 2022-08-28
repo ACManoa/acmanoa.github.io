@@ -90,6 +90,14 @@ The group is open to everyone!
 		</div>
 	</div>
   <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Jing Zheng">
+    <div class="info">
+    	<h2>Jing Zheng</h2>
+    	<br>
+    	<p>SWITCH Vice-President of Communications</p>
+    </div>
+   </div>
+  <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Jeraldine Milla">
     <div class="info">
     	<h2>Jeraldine Milla</h2>
