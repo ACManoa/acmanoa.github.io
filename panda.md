@@ -106,6 +106,22 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
   			<p>PANDA Officer</p>
   		</div>
   	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.jpg" alt="Jake Hardy">
+		<div class="info">
+			<h2>Jake Hardy</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/placehold.jpg" alt="Kobey Arai">
+		<div class="info">
+			<h2>Kobey Arai</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
 </div>
 
 <br>
