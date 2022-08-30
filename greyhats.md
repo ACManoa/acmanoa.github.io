@@ -122,6 +122,14 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 			<p>Grey Hats Board Member</p>
     </div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
+		<div class="info">
+			<h2>Pauline Wu</h2>
+			<br>
+			<p>Grey Hats Board Member</p>
+    </div>
+	</div>
 </div>
 <br>
 
