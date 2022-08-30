@@ -107,7 +107,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Kana'i Gooding">
+		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kana'i Gooding">
 		<div class="info">
 			<h2>Kana'i Gooding</h2>
 			<br>
@@ -115,7 +115,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/hubert.png" alt="Hubert Liang">
+		<img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
 		<div class="info">
 			<h2>Hubert Liang</h2>
 			<br>
