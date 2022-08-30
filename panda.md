@@ -83,7 +83,7 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Abdullah Quadri">
+		<img src="/assets/img/officers/abdullah.png" alt="Abdullah Quadri">
 		<div class="info">
 			<h2>Abdullah Quadri</h2>
 			<br/>
@@ -91,19 +91,19 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kana'i Gooding">
+		<img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
 		<div class="info">
-			<h2>Kana'i Gooding</h2>
+			<h2>Alyssia Chen</h2>
 			<br>
-			<p>PANDA Officer</p>
+			<p>PANDA Vice President</p>
 		</div>
 	</div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Alyssia Chen">
+  		 <img src="/assets/img/officers/kelly.png" alt="Kelly Hwang">
   		<div class="info">
-  			<h2>Alyssia Chen</h2>
+  			<h2>Kelly Hwang</h2>
   			<br>
-  			<p>PANDA Officer</p>
+  			<p>PANDA Head Officer</p>
   		</div>
   	</div>
 	<div class="officer">
@@ -115,7 +115,7 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Kobey Arai">
+		<img src="/assets/img/officers/kobey.png" alt="Kobey Arai">
 		<div class="info">
 			<h2>Kobey Arai</h2>
 			<br>
