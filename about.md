@@ -110,7 +110,7 @@ You can be more involved with ACManoa in the following ways.
 		<div class="info">
 			<h2>Amanda Nitta</h2>
 			<br>
-			<p>ACM Vice President</p>
+			<p>ACM Vice President / Operations Officer</p>
 		</div>
 	</div>
   <div class="officer">
@@ -118,7 +118,7 @@ You can be more involved with ACManoa in the following ways.
     <div class="info">
       <h2>Chris Dang</h2>
       <br>
-      <p>ACM Secretary</p>
+      <p>ACM Communications Officer</p>
    </div>
   </div>
   <div class="officer">
@@ -126,7 +126,7 @@ You can be more involved with ACManoa in the following ways.
     <div class="info">
       <h2>Hubert Liang</h2>
       <br>
-      <p>ACM Treasurer</p>
+      <p>ACM Personel / Finance Officer</p>
     </div>
  </div>
   <div class="officer">
@@ -134,7 +134,7 @@ You can be more involved with ACManoa in the following ways.
     <div class="info">
       <h2>Pauline Wu</h2>
       <br>
-      <p>ACM Web Master</p>
+      <p>ACM ICSpace / Supply Officer</p>
     </div>
   </div>
   <div class="officer">
@@ -142,7 +142,7 @@ You can be more involved with ACManoa in the following ways.
     <div class="info">
       <h2>Jake Imanaka</h2>
       <br>
-      <p>ACM Membership Chair</p>
+      <p>ACM Assistant Operations Officer</p>
     </div>
 	</div>
 	<div class="officer">
