@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM General Meeting 2022"
-featured-img: acm_cover
+featured-img: acm_cover.png
 categories: [ACManoa]
 ---
 
