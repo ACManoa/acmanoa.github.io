@@ -98,7 +98,7 @@ The group is open to everyone!
     </div>
    </div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Jeraldine Milla">
+    <img src="/assets/img/officers/jeraldine.png" alt="Jeraldine Milla">
     <div class="info">
     	<h2>Jeraldine Milla</h2>
     	<br>
@@ -106,7 +106,7 @@ The group is open to everyone!
     </div>
    </div>
 <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Tracy Bui">
+    <img src="/assets/img/officers/tracy.png" alt="Tracy Bui">
     <div class="info">
      	<h2>Tracy Bui</h2>
      	<br>
