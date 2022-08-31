@@ -83,7 +83,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Jake Imanaka">
+		<img src="/assets/img/officers/jake.png" alt="Jake Imanaka">
   	<div class="info">
   		<h2>Jake Imanaka</h2>
   		<br>
@@ -99,9 +99,9 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
     </div>
    </div>
 <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Patima Poochai">
+    <img src="/assets/img/officers/tony.png" alt="Tony Puchai">
     <div class="info">
-     	<h2>Patima Poochai</h2>
+     	<h2>Tony Puchai</h2>
      	<br>
      	<p>Grey Hats Board Member</p>
    </div>
