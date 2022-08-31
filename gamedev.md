@@ -15,6 +15,13 @@ permalink: /gamedev/
 
 We are a group dedicated to designing, building, and demoing video games using Unity and other various tools. 
 
+## What can you learn?
+
+Designing : Stories, Characters, Levels and Game Mechanics
+Programing & Game Engines: Coding with Unity/Unreal and create/control mechanics and interfaces
+Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart 
+
+
 <style>
 	#officers-container {
 		width: 130%;
@@ -67,7 +74,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Hubert Liang">
+		<img src="/assets/img/officers/hubert.png" alt="Hubert Liang">
 		<div class="info">
 			<h2>Hubert Liang</h2>
 			<br>
@@ -75,7 +82,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Benny Trieu">
+		<img src="/assets/img/officers/benny.png" alt="Benny Trieu">
 		<div class="info">
 			<h2>Benny Trieu</h2>
 			<br>
@@ -83,7 +90,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Justin Yip">
+		<img src="/assets/img/officers/justin.png" alt="Justin Yip">
 		<div class="info">
 			<h2>Justin Yip</h2>
 			<br>
@@ -91,7 +98,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Brandi Wakashige">
+		<img src="/assets/img/officers/brandi.png" alt="Brandi Wakashige">
 		<div class="info">
 			<h2>Brandi Wakashige</h2>
 			<br>
@@ -99,7 +106,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Kelsy Padilla">
+		<img src="/assets/img/officers/kelsy.png" alt="Kelsy Padilla">
 		<div class="info">
 			<h2>Kelsy Padillau</h2>
 			<br>
