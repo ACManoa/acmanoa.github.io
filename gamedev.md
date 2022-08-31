@@ -17,9 +17,9 @@ We are a group dedicated to designing, building, and demoing video games using U
 
 ## What can you learn?
 
-Designing : Stories, Characters, Levels and Game Mechanics
-Programing & Game Engines: Coding with Unity/Unreal and create/control mechanics and interfaces
-Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart 
+- Designing : Stories, Characters, Levels and Game Mechanics
+- Programing & Game Engines: Coding with Unity/Unreal and create/control mechanics and interfaces
+- Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart 
 
 
 <style>
