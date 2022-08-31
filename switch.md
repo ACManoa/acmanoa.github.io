@@ -16,13 +16,19 @@ SWITCH (Supporting Women in Technology Computing Hawaii) is the culmination of e
 
 Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development.
 
-For more infomation check out their webpage https://switch-uhm.github.io/
+For more infomation check out our webpage https://switch-uhm.github.io/
 
 ## What do we do?
-We are a group dedicated to support  promote gender and racial minorities by developing professional, technical skills.
+We are a group a community where you can:
+
+Foster Professional & Personal Growth
+Hear from Industry Professionals
+Explore different CS Industries
+Learnn about Opporties in Tech for women
 
 ## Who is welcome?
-The group is open to everyone!
+The group is open to all majors and genders!
+Come join us in our discord: https://discord.gg/ksxdKeZBxP
 
 <br>
 
@@ -82,7 +88,7 @@ The group is open to everyone!
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Chelsea Nguyen">
+		<img src="/assets/img/officers/chelsea.png" alt="Chelsea Nguyen">
   	<div class="info">
   		<h2>Chelsea Nguyen</h2>
   		<br>
@@ -90,7 +96,7 @@ The group is open to everyone!
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Jing Zheng">
+    <img src="/assets/img/officers/jing.png" alt="Jing Zheng">
     <div class="info">
     	<h2>Jing Zheng</h2>
     	<br>
@@ -122,7 +128,7 @@ The group is open to everyone!
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Ana Araujo">
+		<img src="/assets/img/officers/ana.png" alt="Ana Araujo">
 		<div class="info">
 			<h2>Ana Araujo</h2>
 			<br>
