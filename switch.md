@@ -21,10 +21,10 @@ For more infomation check out our webpage https://switch-uhm.github.io/
 ## What do we do?
 We are a group a community where you can:
 
-Foster Professional & Personal Growth
-Hear from Industry Professionals
-Explore different CS Industries
-Learnn about Opporties in Tech for women
+*Foster Professional & Personal Growth
+*Hear from Industry Professionals
+*Explore different CS Industries
+*Learn about Opporties in Tech for women
 
 ## Who is welcome?
 The group is open to all majors and genders!
