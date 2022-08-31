@@ -74,7 +74,7 @@ Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/hubert.png" alt="Hubert Liang">
+		<img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
 		<div class="info">
 			<h2>Hubert Liang</h2>
 			<br>
