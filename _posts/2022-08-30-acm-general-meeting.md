@@ -18,7 +18,7 @@ The ACM General Meeting aims to expose students to the wide variety of ICS clubs
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/f22-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-general-meeting-f22/f22-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 
