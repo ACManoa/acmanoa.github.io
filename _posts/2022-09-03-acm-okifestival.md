@@ -4,13 +4,6 @@ title: "Okinawan Festival"
 featured-img: okifestival
 categories: [ACManoa]
 ---
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/okifestival.png" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-
-<br>
 
 ## Come Join us at the Okinawan Festival!
 
@@ -21,9 +14,21 @@ ACM is looking to support the Okinawan festival on Saturday September 3rd & Sund
 If you are interested in coming out to help, please fill out the google signup form by Wednesday AUG 31 @ 11:59PM: 
 https://forms.gle/2Vnyd2zwkWTy93uE6 
 
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/okifestival.png" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
+
+<br>
 
 We are looking forward to seeing you!
 
 Thanks!
 
 _ACManoa_  
+
+<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+<script src="//code.jquery.com/jquery-latest.js"></script>
+<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<style>
