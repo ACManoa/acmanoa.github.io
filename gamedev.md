@@ -6,7 +6,7 @@ permalink: /gamedev/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/GAMEDEV.png" title="Game Dev" alt="Game Dev Logo">
+	  <img height="300px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
 	</figure>
 </center>
 <br>
