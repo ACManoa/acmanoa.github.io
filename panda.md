@@ -107,7 +107,7 @@ If you don't have a discord account, you are welcome to email us at *uhmpanda@gm
   		</div>
   	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/jake.png" alt="Jake Hardy">
+		<img src="/assets/img/officers/hardy.png" alt="Jake Hardy">
 		<div class="info">
 			<h2>Jake Hardy</h2>
 			<br>
