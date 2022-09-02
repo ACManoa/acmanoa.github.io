@@ -1,33 +1,49 @@
 ---
 layout: post
 title: "ACM General Meeting 2022"
-featured-img: first-meeting
+featured-img: first-general-meeting-fall-2022
 categories: [ACManoa]
 ---
 
-## Welcome to Fall Semester Students! 
+## Welcome to Fall Semester 2022! 
 
-The Association of Computer Machinery (ACM) would like to extend an invitation to all ICS Students and individuals to our ACM General Meeting held at POST 127 on August 30th at 4:30PM - 6:00PM.
+The Association of Computer Machinery (ACM) held it's first ACM General Meeting to all ICS Students and individuals at POST 127 on August 30th at 4:30PM - 6:00PM.
 
 Here at the University of Hawaiʻi at Manoa, ACM connects students with professional networking opportunities, internships, researches, and collaborative resources. Some of our professional connections include Apple, Microsoft, Github, NSA, and many, many more.
 We represent a greater, national ACM, which may be known for awarding the ACM A.M Turing awards,  often regarded as the “Nobel Prize of Computing.”
 
-Learn more about these clubs and everything we offer on August 30th, in addition to free food provided.
-Attached is the link to our discord:
+## Available Opportunities
 
-https://discord.gg/u6VKn9yscD
+The ACM General Meeting aims to expose students to the wide variety of ICS clubs available to them. 
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/First-Meeting.png" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/f22-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 
+Clubs include:
+
+  SWITCH
+  GameDev
+  Grey Hats
+  PANDA
+  ICSpark
+
+Furthermore, upcoming events and opportunities were showcased in order to allow students to ultimately grow professional connections and better path their future.
+
+ACM is widely available to all students interested, and our Discord is as follows:
+
+https://discord.gg/u6VKn9yscD
+
+For anyone who has missed the presentation, the slides are available through the following link:
+https://docs.google.com/presentation/d/1nsRWGKBh3Rlh1E_QEwjUAr36YKH4KL3S_pjRM6CUkPM/edit?usp=sharing
+
 <br>
 
-We thank you for your support and are looking forward to seeing you!
+We thank you for your support and want to thank everyone who was able to particpate and congratulate every presenter for doing an amazing job.
 
-Thanks!
+Thank you!
 
 _ACManoa_
 
