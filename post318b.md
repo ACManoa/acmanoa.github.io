@@ -7,12 +7,12 @@ permalink: /icspace/
 <center>
 	<div class="row"> 
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace1.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/assets/img/icons/icspace2.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/icons/newicspace1.jpg" data-featherlight data-featherlight-target-attr="src">
+	  	<img src="/assets/img/icons/newicspace2.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-	    <img src="/assets/img/icons/icspace3.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/assets/img/icons/icspace4.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/icons/newicspace3.jpg" data-featherlight data-featherlight-target-attr="src">
+	  	<img src="/assets/img/icons/newicspace4.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 	<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
