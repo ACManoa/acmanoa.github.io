@@ -5,7 +5,7 @@ featured-img: okifestival
 categories: [ACManoa]
 ---
 
-## Come Join us at the Okinawan Festival!
+## ACM at the Okinawan Festival!
 
 Started in 1982 by the Hawaii United Okinawa Association, the Okinawan Festival celebrates all things Okinawan and brings together Okinawans and Okinawans-at-heart. Our theme of "Sharing Uchinanchu Aloha" is embedded in everything we do.  Join us for the ono food, beautiful performances, educational cultural exhibits and much more.
 
