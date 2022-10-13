@@ -142,7 +142,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
   <div class="officer">
     <img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
     <div class="info">
-      <h2>JAlyssia Chen</h2>
+      <h2>Alyssia Chen</h2>
       <br>
       <p>ACM Communications Officer</p>
     </div>
