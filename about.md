@@ -22,14 +22,13 @@ ACManoa has three goals -- to provide *social*, *professional*, and *technical* 
 **Want to see a new SIG focused on something you want?** Members in ACManoa are encouraged create Special Interest Groups (SIGs) and collaborate on their own events and projects. Contact <acmmanoa@hawaii.edu> if you want to get started!
 
 ## Where are we located?
-Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Science & Technology (POST) building in room POST 318b. We have monitors, whiteboards, a microwave, and refridgerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how, please contact us <acmmanoa@hawaii.edu>.
+Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Science & Technology (POST) building in room POST 318b. We have monitors, whiteboards, a microwave, and refrigerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how, please contact us <acmmanoa@hawaii.edu>.
 
 ## How can I become a member?
 Membership is and always will be free.
 
 ## What are the benefits of becoming an ACManoa member?
 - Privileges of fridge usage
-- Publicized membership on our website
 - Food at events
 - Eligibility to run for ACManoa officer positions
 
@@ -39,7 +38,10 @@ You can be more involved with ACManoa in the following ways.
 1. Simply by attending any of our events. Our events are and will always be open to everyone.
 2. Subscribing to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
 3. Joining our [Mailing List: http://eepurl.com/bOCcTP](http://eepurl.com/bOCcTP)
-4. And joining our [Discord server https://discord.gg/hUANusC](https://discord.gg/hUANusC).
+4. And joining our [Discord server https://discord.gg/hUANusC](https://discord.gg/FUqN3Rnc7S).
+
+## Questions, Comments, Concerns?
+Feel free to ask or suggest anything about the website/otherwise in our [feedback form](https://forms.gle/ftJDJ5BG2c5KiT6Y6)
 
 <center>
 	<h2>Officers</h2>
@@ -114,19 +116,11 @@ You can be more involved with ACManoa in the following ways.
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
-    <div class="info">
-      <h2>Chris Dang</h2>
-      <br>
-      <p>ACM Communications Officer</p>
-   </div>
-  </div>
-  <div class="officer">
     <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
     <div class="info">
       <h2>Hubert Liang</h2>
       <br>
-      <p>ACM Personel / Finance Officer</p>
+      <p>ACM Future Operations Officer</p>
     </div>
  </div>
   <div class="officer">
@@ -137,6 +131,30 @@ You can be more involved with ACManoa in the following ways.
       <p>ACM ICSpace / Supply Officer</p>
     </div>
   </div>
+  <div class="officer">
+    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
+    <div class="info">
+      <h2>Chris Dang</h2>
+      <br>
+      <p>ACM Communications Officer</p>
+   </div>
+  </div>
+  <div class="officer">
+    <img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
+    <div class="info">
+      <h2>JAlyssia Chen</h2>
+      <br>
+      <p>ACM Communications Officer</p>
+    </div>
+	</div>
+  <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Justin Loi">
+    <div class="info">
+      <h2>Justin Loi</h2>
+      <br>
+      <p>ACM Personnel and Finance Officer</p>
+    </div>
+	</div>
   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="	Jake Imanaka">
     <div class="info">
@@ -153,6 +171,11 @@ You can be more involved with ACManoa in the following ways.
 			<p>ACM Faculty Sponsor</p>
 		</div>
 	</div>
+  
+  <br><br>
+  <i>
+    Although the registered organization has members who are university students, the registered organization is independent of the university and does not represent the views of the university. The registered organization is responsible for its own contracts, acts, or omissions.
+  </i>
 </div>
 
 
