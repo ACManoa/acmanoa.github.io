@@ -21,9 +21,9 @@ We hold weekly meetings dedicated to solving algorithm problems similar to those
 The group is open to everyone!
 
 ## How to join?
-Our meetings are currently hosted on Zoom. Join the PANDA discord via [this link](https://discord.gg/8CV6bhq) to get the Zoom link. 
+Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/8CV6bhq) and tag along with us in the ICSpace on Wednesdays at 5:30PM to attend our meetings!
 
-If you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
+Also, if you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
 
 <br>
 
