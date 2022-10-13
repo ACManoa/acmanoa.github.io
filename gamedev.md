@@ -11,7 +11,7 @@ permalink: /gamedev/
 </center>
 <br>
 
-## What is GameDev ?
+## What is GameDev?
 
 We are a group dedicated to designing, building, and demoing video games using Unity and other various tools. 
 
