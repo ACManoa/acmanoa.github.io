@@ -22,7 +22,7 @@ ACManoa has three goals -- to provide *social*, *professional*, and *technical* 
 **Want to see a new SIG focused on something you want?** Members in ACManoa are encouraged create Special Interest Groups (SIGs) and collaborate on their own events and projects. Contact <acmmanoa@hawaii.edu> if you want to get started!
 
 ## Where are we located?
-Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Science & Technology (POST) building in room POST 318b. We have monitors, whiteboards, a microwave, and refrigerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how, please contact us <acmmanoa@hawaii.edu>.
+Our clubroom, **ICSpace**, is located on the third floor of the Pacific Ocean Science & Technology (POST) building in room POST 318B. We have monitors, whiteboards, a microwave, and refrigerators for club members to use. We are continuously looking for new ways to improve our room, so if you have a suggestion as to how, please contact us <acmmanoa@hawaii.edu>.
 
 ## How can I become a member?
 Membership is and always will be free.
@@ -38,7 +38,7 @@ You can be more involved with ACManoa in the following ways.
 1. Simply by attending any of our events. Our events are and will always be open to everyone.
 2. Subscribing to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
 3. Joining our [Mailing List: http://eepurl.com/bOCcTP](http://eepurl.com/bOCcTP)
-4. And joining our [Discord server https://discord.gg/hUANusC](https://discord.gg/FUqN3Rnc7S).
+4. And joining our [discord server:](https://discord.gg/FUqN3Rnc7S) [https://discord.gg/FUqN3Rnc7S](https://discord.gg/FUqN3Rnc7S).
 
 ## Questions, Comments, Concerns?
 Feel free to ask or suggest anything about the website/otherwise in our [feedback form](https://forms.gle/ftJDJ5BG2c5KiT6Y6)
