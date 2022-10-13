@@ -174,7 +174,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
   
   <br><br>
   <i>
-    Although the registered organization has members who are university students, the registered organization is independent of the university and does not represent the views of the university. The registered organization is responsible for its own contracts, acts, or omissions.
+    Although the registered organization has members who are university students, the registered organization is independent of the university and does not represent the views of the university. The registered organization is responsible for its own contracts, acts, or omissions. 
   </i>
 </div>
 
