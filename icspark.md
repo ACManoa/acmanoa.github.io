@@ -118,22 +118,6 @@ For more infomation regarding ICSpark come view our [website: https://icspark.gi
   		</div> 
    </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/joshua.png" alt="Joshua Galeria">
-  		<div class="info">
-  			<h2>Joshua Galeria</h2>
-  			<br>
-  			<p>ICSpark Lecturer</p>
-  		</div>
-        </div>
-		<div class="officer">
-  		 <img src="/assets/img/officers/hardy.png" alt="Jake Hardy">
-  		<div class="info">
-  			<h2>Jake Hardy</h2>
-  			<br>
-  			<p>ICSpark Board</p>
-  		</div>
-        </div>
-		<div class="officer">
   		 <img src="/assets/img/officers/michelle.png" alt="Michelle Leano">
   		<div class="info">
   			<h2>Michelle Leano</h2>
