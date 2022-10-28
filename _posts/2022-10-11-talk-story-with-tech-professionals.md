@@ -15,18 +15,18 @@ categories: [ACManoa, PACE, ThriveXHawaii]
 
 ## Talk Story with Tech Professionals
 
-On October 11th, 2022 at Kuykendall 101, ACM partnered with PACE and ThriveXHawaii to bring to you "Talk story with Tech Professionals.". 
+On October 11th, 2022 at Kuykendall 101, ACM partnered with PACE and ThriveXHawaii to bring to you "Talk Story with Tech Professionals."
  
 There were over 30 technology professionals in the fields of software engineering, company founders, product managers, and cybersecurity! Companies being represented included Google, Microsoft, Amazon, and more! 
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/thrivehi-fall-2022/thrive1.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/thrivehi-fall-2022/thrivehi1.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/thrivehi-fall-2022/thrive2.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/thrivehi-fall-2022/thrivehi2.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 
