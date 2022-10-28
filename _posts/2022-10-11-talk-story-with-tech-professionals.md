@@ -37,12 +37,12 @@ In the talk-story/networking portion, students were able to talk with these tech
 <center>
 	<div class="row"> 
 	  <div class="column">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive1.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive2.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive1.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive2.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
 	  </div>
 	  <div class="column">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive3.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive4.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive3.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive4.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
 	  </div> 
 	</div>
 </center>
