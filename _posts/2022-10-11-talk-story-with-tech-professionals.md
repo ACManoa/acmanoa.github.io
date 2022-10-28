@@ -30,19 +30,21 @@ There were over 30 technology professionals in the fields of software engineerin
 	    <img src="/assets/img/posts/thrivehi-fall-2022/thrivehi2.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
+<br>
 
+## What was covered?
 
 In the talk-story/networking portion, students were able to talk with these tech professionals and ask questions related to their careers. 
 
 <center>
-	<div class="row"> 
+	<div class="row" style="display: flex"> 
 	  <div class="column">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive1.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive2.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive1.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive2.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive3.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
-		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive4.jpg" data-featherlight data-featherlight-target-attr="src" style="display: flex">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive3.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/thrivehi-fall-2022/carthrive4.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 </center>
