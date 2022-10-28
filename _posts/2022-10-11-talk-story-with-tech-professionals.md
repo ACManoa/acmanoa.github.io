@@ -11,7 +11,8 @@ categories: [ACManoa, PACE, ThriveXHawaii]
 	    <img src="/assets/img/posts/thrivehi-fall-2022/ThriveHICover.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
-
+<br>
+<br>
 
 ## Talk Story with Tech Professionals
 
