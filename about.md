@@ -132,6 +132,14 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
      </div>
    </div>
   <div class="officer">
+    <img src="/assets/img/officers/jloi.jpg" alt="Justin Loi">
+    <div class="info">
+      <h2>Justin Loi</h2>
+      <br>
+      <p>ACM Personnel and Finance Officer</p>
+    </div>
+	</div>
+  <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
       <h2>Pauline Wu</h2>
@@ -139,14 +147,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <p>ACM ICSpace / Supply Officer</p>
     </div>
   </div>
-  <div class="officer">
-    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
-    <div class="info">
-      <h2>Chris Dang</h2>
-      <br>
-      <p>ACM Communications Officer</p>
-   </div>
-  </div>   
   <div class="officer">
     <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
     <div class="info">
@@ -172,13 +172,13 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
    </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/jloi.jpg" alt="Justin Loi">
+    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
     <div class="info">
-      <h2>Justin Loi</h2>
+      <h2>Chris Dang</h2>
       <br>
-      <p>ACM Personnel and Finance Officer</p>
-    </div>
-	</div>
+      <p>ACM Officer</p>
+   </div>
+  </div>   
 	<div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
