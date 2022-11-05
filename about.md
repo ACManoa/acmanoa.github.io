@@ -115,19 +115,21 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM Vice President / Chief Operations Officer</p>
 		</div>
 	</div>
-    <div class="officer">
+  <div class="officer">
     <img src="/assets/img/officers/minh.JPEG" alt="Minh Tran">
     <div class="info">
       <h2>Minh Tran</h2>
       <br>
       <p>ACM Assistant Operations Officer</p>
+    </div>
    </div>
-        <div class="officer">
+   <div class="officer">
     <img src="/assets/img/officers/eli.jpg" alt="Eli Nadamoto">
     <div class="info">
       <h2>Eli Nadamoto</h2>
       <br>
       <p>ACM Assistant Operations Officer</p>
+     </div>
    </div>
   <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
