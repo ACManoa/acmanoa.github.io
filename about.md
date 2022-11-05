@@ -112,17 +112,23 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Amanda Nitta</h2>
 			<br>
-			<p>ACM Vice President / Operations Officer</p>
+			<p>ACM Vice President / Chief Operations Officer</p>
 		</div>
 	</div>
-  <div class="officer">
-    <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
+    <div class="officer">
+    <img src="/assets/img/officers/minh.JPEG" alt="Minh Tran">
     <div class="info">
-      <h2>Hubert Liang</h2>
+      <h2>Minh Tran</h2>
       <br>
-      <p>ACM Future Operations Officer</p>
-    </div>
- </div>
+      <p>ACM Assistant Operations Officer</p>
+   </div>
+        <div class="officer">
+    <img src="/assets/img/officers/eli.jpg" alt="Eli Nadamoto">
+    <div class="info">
+      <h2>Eli Nadamoto</h2>
+      <br>
+      <p>ACM Assistant Operations Officer</p>
+   </div>
   <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
@@ -138,7 +144,15 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <br>
       <p>ACM Communications Officer</p>
    </div>
-  </div>
+  </div>   
+  <div class="officer">
+    <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
+    <div class="info">
+      <h2>Hubert Liang</h2>
+      <br>
+      <p>ACM Special Projects Officer</p>
+    </div>
+ </div>
   <div class="officer">
     <img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
     <div class="info">
@@ -148,19 +162,19 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     </div>
 	</div>
   <div class="officer">
+    <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
+    <div class="info">
+      <h2>Aris Carlos</h2>
+      <br>
+      <p>ACM Assistant Communications Officer</p>
+   </div>
+  </div>
+  <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Justin Loi">
     <div class="info">
       <h2>Justin Loi</h2>
       <br>
       <p>ACM Personnel and Finance Officer</p>
-    </div>
-	</div>
-  <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="	Jake Imanaka">
-    <div class="info">
-      <h2>Jake Imanaka</h2>
-      <br>
-      <p>ACM Assistant Operations Officer</p>
     </div>
 	</div>
 	<div class="officer">
