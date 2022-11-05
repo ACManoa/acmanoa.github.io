@@ -170,7 +170,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
    </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Justin Loi">
+    <img src="/assets/img/officers/jloi.jpg" alt="Justin Loi">
     <div class="info">
       <h2>Justin Loi</h2>
       <br>
