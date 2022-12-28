@@ -38,7 +38,7 @@ You can be more involved with ACManoa in the following ways.
 1. Simply by attending any of our events. Our events are and will always be open to everyone.
 2. Subscribing to our Google Calendar of Events [here: http://tinyurl.com/ycorgow4](http://tinyurl.com/ycorgow4)
 3. Joining our [Mailing List: http://eepurl.com/bOCcTP](http://eepurl.com/bOCcTP)
-4. And joining our [discord server:](https://discord.gg/FUqN3Rnc7S) [https://discord.gg/FUqN3Rnc7S](https://discord.gg/FUqN3Rnc7S).
+4. And joining our [discord server:](https://discord.gg/acmmanoa) [https://discord.gg/acmmanoa](https://discord.gg/acmmanoa).
 
 ## Questions, Comments, Concerns?
 Feel free to ask or suggest anything about the website/otherwise in our [feedback form](https://forms.gle/ftJDJ5BG2c5KiT6Y6)
@@ -112,7 +112,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Amanda Nitta</h2>
 			<br>
-			<p>ACM Vice President / Chief Operations Officer</p>
+			<p>ACM Vice President / Operations Officer</p>
 		</div>
 	</div>
   <div class="officer">
