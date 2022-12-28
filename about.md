@@ -148,14 +148,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
-    <div class="info">
-      <h2>Hubert Liang</h2>
-      <br>
-      <p>ACM Special Projects Officer</p>
-    </div>
- </div>
-  <div class="officer">
     <img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
     <div class="info">
       <h2>Alyssia Chen</h2>
@@ -170,15 +162,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <br>
       <p>ACM Assistant Communications Officer</p>
    </div>
-  </div>
-  <div class="officer">
-    <img src="/assets/img/officers/chris.png" alt="Chris Dang">
-    <div class="info">
-      <h2>Chris Dang</h2>
-      <br>
-      <p>ACM Officer</p>
-   </div>
-  </div>   
+  </div> 
 	<div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
