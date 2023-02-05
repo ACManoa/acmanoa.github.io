@@ -108,29 +108,13 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/amanda.png" alt="Amanda Nitta">
+		<img src="/assets/img/officers/kelly.png" alt="Kelly Hwang">
 		<div class="info">
-			<h2>Amanda Nitta</h2>
+			<h2>Kelly Hwang</h2>
 			<br>
-			<p>ACM Vice President / Operations Officer</p>
+			<p>ACM Vice President</p>
 		</div>
 	</div>
-  <div class="officer">
-    <img src="/assets/img/officers/minh.JPEG" alt="Minh Tran">
-    <div class="info">
-      <h2>Minh Tran</h2>
-      <br>
-      <p>ACM Assistant Operations Officer</p>
-    </div>
-   </div>
-   <div class="officer">
-    <img src="/assets/img/officers/eli.jpg" alt="Eli Nadamoto">
-    <div class="info">
-      <h2>Eli Nadamoto</h2>
-      <br>
-      <p>ACM Assistant Operations Officer</p>
-     </div>
-   </div>
   <div class="officer">
     <img src="/assets/img/officers/jloi.jpeg" alt="Justin Loi">
     <div class="info">
@@ -161,6 +145,28 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <h2>Aris Carlos</h2>
       <br>
       <p>ACM Assistant Communications Officer</p>
+   </div>
+  </div> 
+  <div class="officer">
+    <img src="/assets/img/officers/kobey.png" alt="Kobey Arai">
+    <div class="info">
+      <h2>Kobey Arai</h2>
+      <br>
+      <p>ACM Software Officer</p>
+   </div>
+    <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Mateo Maramara">
+    <div class="info">
+      <h2>Mateo Maramara</h2>
+      <br>
+      <p>ACM Security Officer</p>
+   </div>
+    <div class="officer">
+    <img src="/assets/img/officers/placehold.png" alt="Kyla Lee">
+    <div class="info">
+      <h2>Kyla Lee</h2>
+      <br>
+      <p>ACM Officer</p>
    </div>
   </div> 
 	<div class="officer">
