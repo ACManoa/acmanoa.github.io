@@ -78,17 +78,17 @@ For more infomation regarding ICSpark come view our [website: https://icspark.gi
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/preston.png" alt="Preston Garcia">
+		<img src="/assets/img/officers/tim.png" alt="Timothy Huo">
 		<div class="info">
-			<h2>Preston Garcia</h2>
+			<h2>Timothy Huo</h2>
 			<br/>
 			<p>ICSpark President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/tim.png" alt="Timothy Huo">
+		<img src="/assets/img/officers/michelle.png" alt="Michelle Leano">
 		<div class="info">
-			<h2>Timothy Huo</h2>
+			<h2>Michelle Leano</h2>
 			<br>
 			<p>ICSpark Vice-President</p>
 		</div>
@@ -98,7 +98,7 @@ For more infomation regarding ICSpark come view our [website: https://icspark.gi
   		<div class="info">
   			<h2>Marissa Halim</h2>
   			<br>
-  			<p>ICSpark Treasure</p>
+  			<p>ICSpark Board</p>
   		</div>  
   </div>
 		<div class="officer">
@@ -106,23 +106,7 @@ For more infomation regarding ICSpark come view our [website: https://icspark.gi
   		<div class="info">
   			<h2>Sydnee You</h2>
   			<br>
-  			<p>ICSpark Communication Officer</p>
-  		</div>
-   </div>
-		<div class="officer">
-  		 <img src="/assets/img/officers/amanda.png" alt="Amanda Nitta">
-  		<div class="info">
-  			<h2>Amanda Nitta</h2>
-  			<br>
-  			<p>ICSpark Marketing Officer</p>
-  		</div> 
-   </div>
-		<div class="officer">
-  		 <img src="/assets/img/officers/michelle.png" alt="Michelle Leano">
-  		<div class="info">
-  			<h2>Michelle Leano</h2>
-  			<br>
   			<p>ICSpark Board</p>
   		</div>
-  	</div>
+   </div>
 </div>
