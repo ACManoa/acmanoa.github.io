@@ -99,22 +99,30 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
     </div>
    </div>
 <div class="officer">
-    <img src="/assets/img/officers/tony.png" alt="Tony Puchai">
+    <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
     <div class="info">
-     	<h2>Tony Puchai</h2>
+     	<h2>Aris Carlos</h2>
      	<br>
      	<p>Grey Hats Board Member</p>
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/KanaiGooding.jpg" alt="Kana'i Gooding">
+		<img src="/assets/img/officers/placehold.png" alt="Will Evers-Hood">
 		<div class="info">
-			<h2>Kana'i Gooding</h2>
+			<h2>Will Evers-Hood</h2>
 			<br>
 			<p>Grey Hats Board Member</p>
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Kyla Lee">
+		<div class="info">
+			<h2>Kyla Lee</h2>
+			<br>
+			<p>Grey Hats Board Member</p>
+    </div>
+	</div>
+  <div class="officer">
 		<img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
 		<div class="info">
 			<h2>Hubert Liang</h2>
