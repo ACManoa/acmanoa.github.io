@@ -67,7 +67,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		margin-top: 35px;
 		font-weight: 600;
 		display: inline-block;
-		font-size: 1.3em;
+		font-size: 1.2em;
 		line-height: 1.8em;
 		/* Font-Family Missing */
 	}
