@@ -134,6 +134,14 @@ Come join us in our [discord:](https://discord.gg/ksxdKeZBxP) [https://discord.g
 			<br>
 			<p>SWITCH Board Member</p>
   	</div>
-</div>
+  </div>
+  <div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Kayla Yanos">
+		<div class="info">
+			<h2>Kayla Yanos</h2>
+			<br>
+			<p>SWITCH Board Member</p>
+  	</div>
+  </div>
 </div>
 
