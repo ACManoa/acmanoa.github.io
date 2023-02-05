@@ -74,43 +74,43 @@ We are a group dedicated to designing, building, and demoing video games using U
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/hurbert.png" alt="Hubert Liang">
+		<img src="/assets/img/officers/brandi.png" alt="Brandi Wakashige">
 		<div class="info">
-			<h2>Hubert Liang</h2>
+			<h2>Brandi Wakashige</h2>
 			<br>
-			<p>General Officer</p>
+			<p>President</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/benny.png" alt="Benny Trieu">
+		<img src="/assets/img/officers/placehold.png" alt="Coen Bracilano">
 		<div class="info">
-			<h2>Benny Trieu</h2>
-			<br>
-			<p>General Officer</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/justin.png" alt="Justin Yip">
-		<div class="info">
-			<h2>Justin Yip</h2>
+			<h2>Coen Bracilano</h2>
 			<br>
 			<p>Coding Officer</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/brandi.png" alt="Brandi Wakashige">
+		<img src="/assets/img/officers/placehold.png" alt="Caleb Hardee">
 		<div class="info">
-			<h2>Brandi Wakashige</h2>
+			<h2>Caleb Hardee</h2>
 			<br>
 			<p>Art Officer</p>
 		</div>
 	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/kelsy.png" alt="Kelsy Padilla">
+  <div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="Don Maddock">
 		<div class="info">
-			<h2>Kelsy Padillau</h2>
+			<h2>Don Maddock</h2>
 			<br>
-			<p>Art Officer</p>
+			<p>Coding Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/placehold.png" alt="TJ Magofna">
+		<div class="info">
+			<h2>TJ Magofna</h2>
+			<br>
+			<p>Communication Officer</p>
 		</div>
 	</div>
 </div>
