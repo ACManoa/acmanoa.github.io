@@ -153,23 +153,25 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <h2>Kobey Arai</h2>
       <br>
       <p>ACM Software Officer</p>
+    </div>
    </div>
-    <div class="officer">
+   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Mateo Maramara">
     <div class="info">
       <h2>Mateo Maramara</h2>
       <br>
       <p>ACM Security Officer</p>
+    </div>
    </div>
-    <div class="officer">
+   <div class="officer">
     <img src="/assets/img/officers/placehold.png" alt="Kyla Lee">
     <div class="info">
       <h2>Kyla Lee</h2>
       <br>
       <p>ACM Officer</p>
+    </div>
    </div>
-  </div> 
-	<div class="officer">
+	 <div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
 			<h2>Peter Sadowski</h2>
