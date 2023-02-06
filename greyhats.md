@@ -25,6 +25,9 @@ Everyone is welcome to join, regardless of skill level.
 
 We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitions. Two of the main competitions we participate in are National Cyber League and the National Collegiate Cyber Defense Competition.
 
+## How to join?
+Our meetings are currently hosted in the ICSpace (POST 318B) and over Zoom on Tuesdays, 4:30pm-5:30pm. Join the Grey Hats discord via [this link](https://discord.gg/r9xm9ZCVU3) for more details.
+
 <br>
 
 <center>
