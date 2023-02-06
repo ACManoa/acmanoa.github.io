@@ -82,7 +82,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/CoenBracilano.png" alt="Coen Bracilano">
+		<img src="/assets/img/officers/CoenBracilano.jpeg" alt="Coen Bracilano">
 		<div class="info">
 			<h2>Coen Bracilano</h2>
 			<br>
@@ -98,7 +98,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/DonMaddock.png" alt="Don Maddock">
+		<img src="/assets/img/officers/DonMaddock.jpeg" alt="Don Maddock">
 		<div class="info">
 			<h2>Don Maddock</h2>
 			<br>
@@ -106,7 +106,7 @@ We are a group dedicated to designing, building, and demoing video games using U
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/TJMagofna.png" alt="TJ Magofna">
+		<img src="/assets/img/officers/TJMagofna.jpeg" alt="TJ Magofna">
 		<div class="info">
 			<h2>TJ Magofna</h2>
 			<br>
