@@ -83,7 +83,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Jake Imanaka">
+		<img src="/assets/img/officers/JakeImanaka.png" alt="Jake Imanaka">
   	<div class="info">
   		<h2>Jake Imanaka</h2>
   		<br>
@@ -107,7 +107,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Will Evers-Hood">
+		<img src="/assets/img/officers/WillEversHood.png" alt="Will Evers-Hood">
 		<div class="info">
 			<h2>Will Evers-Hood</h2>
 			<br>
@@ -115,7 +115,7 @@ We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitio
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Kyla Lee">
+		<img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
 		<div class="info">
 			<h2>Kyla Lee</h2>
 			<br>
