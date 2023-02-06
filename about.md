@@ -156,7 +156,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     </div>
    </div>
    <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Mateo Maramara">
+    <img src="/assets/img/officers/MateoMaramara.png" alt="Mateo Maramara">
     <div class="info">
       <h2>Mateo Maramara</h2>
       <br>
@@ -164,7 +164,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     </div>
    </div>
    <div class="officer">
-    <img src="/assets/img/officers/placehold.png" alt="Kyla Lee">
+    <img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
     <div class="info">
       <h2>Kyla Lee</h2>
       <br>
