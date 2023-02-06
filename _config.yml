@@ -21,11 +21,11 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'SWITCH', link: '/switch'}
   - {name: 'Game Dev', link: '/gamedev'}
   - {name: 'Grey Hats', link: '/greyhats'}
-  - {name: 'PANDA', link: '/panda'}
   - {name: 'ICSpark', link: '/icspark'}
+  - {name: 'PANDA', link: '/panda'}
+  - {name: 'SWITCH', link: '/switch'}
   - {name: 'ICSpace', link: '/icspace'}
   - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'Contact', link: '/contact'}
