@@ -115,7 +115,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/BrennanLincoln.png" alt="Brennan Lincoln">
+		<img src="/assets/img/officers/BrennanLincoln.jpeg" alt="Brennan Lincoln">
 		<div class="info">
 			<h2>Brennan Lincoln</h2>
 			<br>
