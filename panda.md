@@ -115,7 +115,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Brennan Lincoln">
+		<img src="/assets/img/officers/BrennanLincoln.png" alt="Brennan Lincoln">
 		<div class="info">
 			<h2>Brennan Lincoln</h2>
 			<br>
@@ -123,7 +123,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Yong-Sung Masuda">
+		<img src="/assets/img/officers/YongSungMasuda.png" alt="Yong-Sung Masuda">
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
 			<br>
@@ -131,7 +131,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Rob Godfrey">
+		<img src="/assets/img/officers/RobGodfrey.png" alt="Rob Godfrey">
 		<div class="info">
 			<h2>Rob Godfrey</h2>
 			<br>
