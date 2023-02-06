@@ -21,6 +21,9 @@ We are a group dedicated to designing, building, and demoing video games using U
 - Programing & Game Engines: Coding with Unity/Unreal and create/control mechanics and interfaces
 - Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart 
 
+## How to join?
+Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)! We meet every week on Thursdays from 7pm to 8pm.
+
 
 <style>
 	#officers-container {
