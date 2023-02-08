@@ -93,7 +93,7 @@ Our meetings are currently hosted in our discord server that you can join via [t
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Caleb Hardee">
+		<img src="/assets/img/officers/CalebHardee.jpg" alt="Caleb Hardee">
 		<div class="info">
 			<h2>Caleb Hardee</h2>
 			<br>
