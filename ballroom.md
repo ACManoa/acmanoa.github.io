@@ -88,7 +88,7 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 
 <div id="officers-container">
 	<div class="officer">
-  		 <img src="/assets/img/officers/placehold.png" alt="Ravi Narayan">
+  		 <img src="/assets/img/officers/RaviNarayan.png" alt="Ravi Narayan">
   		<div class="info">
   			<h2>Ravi Narayan</h2>
   			<br>
