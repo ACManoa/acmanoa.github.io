@@ -15,6 +15,7 @@ permalink: /ballroom/
 Ballroom is a fun physical activity that provides stress relief and allows you to build relationships and friends with other members. You can improve your posture, build confidence and add this to your resume.  You might be surprised that most of the top Adult Amateur ballroom dancers in the US are Computer Science or Engineering majors/graduates and you might even have one of them interview you for your next job!
 
 Here are links to some of our performances:
+ - [Holiday Performance](https://www.youtube.com/watch?v=9s1qy7VYDQ4)
 
 ## What do we do?
 Each week we learn the basics of various ballroom dances like Waltz, Cha-cha, Tango, Rumba, Samba, Swing, etc.  We have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions that are held twice a year in the State of Hawaii.
@@ -25,7 +26,8 @@ Currently we meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at Un
 The Ballroom Dance Club encourages non-dancers and beginners to join and learn how to ballroom dance.  No dance experience is required to join the club. 
 
 ## How to join?
-Besides showing up on Tuesdays at practice, you can also join the acm server and give yourself the ballroom dance role in the #roles channel. In the future, we may create a ballroom dance discord server.
+Besides showing up on Tuesdays at practice, you can also join the [acm server](https://discord.gg/acmmanoa
+) and give yourself the ballroom dance role in the #roles channel. In the future, we may create a ballroom dance discord server.
 
 
 <br>
@@ -94,9 +96,9 @@ Besides showing up on Tuesdays at practice, you can also join the acm server and
   		</div>
   	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Epsilon">
+		<img src="/assets/img/officers/EpsilonAustin.png" alt="Epsilon Austin">
 		<div class="info">
-			<h2>Epsilon Arai</h2>
+			<h2>Epsilon Austin</h2>
 			<br>
 			<p>BDCUHM Vice-President</p>
 		</div>
@@ -114,21 +116,21 @@ Besides showing up on Tuesdays at practice, you can also join the acm server and
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
 			<br>
-			<p>BDCUHM Officer</p>
+			<p>BDCUHM Treasurer</p>
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.png" alt="Isabelle">
+		<img src="/assets/img/officers/IsabelleHu.png" alt="Isabelle Hu">
 		<div class="info">
-			<h2>Isabelle</h2>
+			<h2>Isabelle Hu</h2>
 			<br>
 			<p>BDCUHM Officer</p>
 		</div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/placehold.jpeg" alt="Matthew">
+		<img src="/assets/img/officers/MatthewYamamoto.ong" alt="Matthew Yamamoto">
 		<div class="info">
-			<h2>Matthew</h2>
+			<h2>Matthew Yamamoto</h2>
 			<br>
 			<p>BDCUHM Officer</p>
 		</div>
