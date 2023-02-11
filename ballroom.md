@@ -11,7 +11,7 @@ permalink: /ballroom/
 </center>
 <br>
 
-## What is BallroomDanceClub? [WIP]
+## What is BallroomDanceClub?
 Ballroom is a fun physical activity that provides stress relief and allows you to build relationships and friends with other members. You can improve your posture, build confidence and add this to your resume.  You might be surprised that most of the top Adult Amateur ballroom dancers in the US are Computer Science or Engineering majors/graduates and you might even have one of them interview you for your next job!
 
 Here are links to some of our performances:
@@ -128,7 +128,7 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 		</div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/MatthewYamamoto.ong" alt="Matthew Yamamoto">
+		<img src="/assets/img/officers/MatthewYamamoto.png" alt="Matthew Yamamoto">
 		<div class="info">
 			<h2>Matthew Yamamoto</h2>
 			<br>
