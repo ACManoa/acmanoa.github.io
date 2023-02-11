@@ -21,6 +21,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Ballroom', link: '/ballroom'}
   - {name: 'Game Dev', link: '/gamedev'}
   - {name: 'Grey Hats', link: '/greyhats'}
   - {name: 'ICSpark', link: '/icspark'}
