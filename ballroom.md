@@ -136,27 +136,3 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 		</div>
 	</div>
 </div>
-
-<br>
-
-<center>
-	<style>
-		.column {
-			float: left;
-			width: 50%;
-		}
-		.row:after {
-			content: "";
-			display: table;
-			clear: both;
-		}
-	</style>
-	<div class="row">
-		<div class="column">
-			<img height="300px" width="300px" src="/assets/img/logos/icpc.png" title="ICPC Logo" alt="ICPC Logo">
-		</div>
-		<div class="column">
-			<img height="300px" width="300px" src="/assets/img/logos/google-codejam.jpg" title="Google Codejam Logo" alt="Google Codejam Logo">
-		</div>
-	</div>
-</center>
