@@ -1,31 +1,31 @@
 ---
 layout: post
-title: "Talk Story with Tech Professionals Spring 2023"
-featured-img: 232.jpg
-categories: [ACManoa, PACE, ThriveXHawaii]
+title: "Tech & Intelligence Career Fair Spring 2023"
+featured-img: 264.jpg
+categories: [ACManoa]
 ---
 
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/232.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/264.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
 <br>
 
-## Talk Story with Tech Professionals
+## ACM Manoa Hosts Successful UH Manoa Tech & Intelligence Career Fair
+The University of Hawaii at Manoa's Association for Computing Machinery (ACM) student club hosted the UH Manoa Tech & Intelligence Career Fair on March 31st, 2023 at the Campus Center Ballroom. The event was the final event of the #HawaiiTechDaysOfSpring and was a resounding success.
 
-On March 21st, 2023, University Laboratory School hosted "Talk Story with Tech Professionals" in partnership with ACM, PACE, ThriveXHawaii, BuilderVC, and the CIO Council, aimed at helping students explore different sectors in technology and providing a platform for them to network with local and international technology professionals.
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/216.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/264.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/232.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/279.jpg" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
@@ -40,16 +40,15 @@ The event was open to UH students of all majors and campuses and to students of 
 
 Overall, "Talk Story with Tech Professionals" was a great opportunity for students interested in pursuing a career in technology to connect with professionals, learn about different sectors in the industry, and network with like-minded individuals.
 
-
 <center>
 	<div class="row" style="display: flex"> 
 	  <div class="column">
-		<img src="/assets/img/posts/talkstory-sp23/242.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/talkstory-sp23/238.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/343.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/297.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-		<img src="/assets/img/posts/talkstory-sp23/236.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/talkstory-sp23/202.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/338.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/317.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 </center>
@@ -61,6 +60,16 @@ Thank you to everyone that participated!
 Hope to see you next year!
 
 _ACManoa_  
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/acm-career-fair-s23/371.jpg" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
+<center>
+	<figure class="full">
+	    <img src="/assets/img/posts/acm-career-fair-s23/292.jpg" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
 
 <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 <script src="//code.jquery.com/jquery-latest.js"></script>
