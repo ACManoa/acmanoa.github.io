@@ -5,15 +5,6 @@ featured-img: S23_CareerFair
 categories: [ACManoa]
 ---
 
-
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/264.JPG" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-<br>
-<br>
-
 ## ACM Manoa Hosts Successful UH Manoa Tech & Intelligence Career Fair
 The University of Hawaii at Manoa's Association for Computing Machinery (ACM) student club hosted the UH Manoa Tech & Intelligence Career Fair on March 31st, 2023 at the Campus Center Ballroom. The event was the final event of the #HawaiiTechDaysOfSpring and was a resounding success.
 
@@ -43,7 +34,7 @@ Overall, "Talk Story with Tech Professionals" was a great opportunity for studen
 <center>
 	<div class="row" style="display: flex"> 
 	  <div class="column">
-		<img src="/assets/img/posts/acm-career-fair-s23/343.JPG" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/342.JPG" data-featherlight data-featherlight-target-attr="src">
 		<img src="/assets/img/posts/acm-career-fair-s23/297.JPG" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
