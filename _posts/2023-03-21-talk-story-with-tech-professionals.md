@@ -5,15 +5,6 @@ featured-img: 232.jpg
 categories: [ACManoa, PACE, ThriveXHawaii]
 ---
 
-
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/232.JPG" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-<br>
-<br>
-
 ## Talk Story with Tech Professionals
 
 On March 21st, 2023, University Laboratory School hosted "Talk Story with Tech Professionals" in partnership with ACM, PACE, ThriveXHawaii, BuilderVC, and the CIO Council, aimed at helping students explore different sectors in technology and providing a platform for them to network with local and international technology professionals.
