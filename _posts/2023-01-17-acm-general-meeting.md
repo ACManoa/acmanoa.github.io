@@ -5,16 +5,6 @@ featured-img: first-general-meeting-spring-2023
 categories: [ACManoa]
 ---
 
-
-<center>
-	<figure class="full">
-	    <img src="assets/img/posts/acm-general-meeting-s23/" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-<br>
-<br>
-
-
 ## Welcome to Spring Semester 2023! 
 
 The Association of Computer Machinery (ACM) held it's first ACM General Meeting to all ICS Students and individuals on January 17th, 2023.
@@ -29,7 +19,7 @@ The ACM General Meeting aims to expose students to the wide variety of ICS clubs
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-general-meeting-f22/f22-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-general-meeting-s23/s23-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 
