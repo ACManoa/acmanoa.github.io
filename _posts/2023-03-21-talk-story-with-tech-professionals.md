@@ -8,7 +8,7 @@ categories: [ACManoa, PACE, ThriveXHawaii]
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/232.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/talkstory-sp23/232.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
@@ -20,12 +20,12 @@ On March 21st, 2023, University Laboratory School hosted "Talk Story with Tech P
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/216.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/talkstory-sp23/216.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/talkstory-sp23/232.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/talkstory-sp23/232.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
@@ -40,16 +40,15 @@ The event was open to UH students of all majors and campuses and to students of 
 
 Overall, "Talk Story with Tech Professionals" was a great opportunity for students interested in pursuing a career in technology to connect with professionals, learn about different sectors in the industry, and network with like-minded individuals.
 
-
 <center>
 	<div class="row" style="display: flex"> 
 	  <div class="column">
-		<img src="/assets/img/posts/talkstory-sp23/242.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/talkstory-sp23/238.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/talkstory-sp23/242.JPG" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/talkstory-sp23/238.JPG" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-		<img src="/assets/img/posts/talkstory-sp23/236.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/talkstory-sp23/202.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/talkstory-sp23/236.JPG" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/talkstory-sp23/202.JPG" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 </center>

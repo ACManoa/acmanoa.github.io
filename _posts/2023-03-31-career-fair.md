@@ -8,7 +8,7 @@ categories: [ACManoa]
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/264.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/264.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
@@ -20,12 +20,12 @@ The University of Hawaii at Manoa's Association for Computing Machinery (ACM) st
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/264.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/264.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/279.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/279.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
@@ -43,12 +43,12 @@ Overall, "Talk Story with Tech Professionals" was a great opportunity for studen
 <center>
 	<div class="row" style="display: flex"> 
 	  <div class="column">
-		<img src="/assets/img/posts/acm-career-fair-s23/343.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/acm-career-fair-s23/297.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/343.JPG" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/297.JPG" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-		<img src="/assets/img/posts/acm-career-fair-s23/338.jpg" data-featherlight data-featherlight-target-attr="src">
-		<img src="/assets/img/posts/acm-career-fair-s23/317.jpg" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/338.JPG" data-featherlight data-featherlight-target-attr="src">
+		<img src="/assets/img/posts/acm-career-fair-s23/317.JPG" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 </center>
@@ -62,12 +62,12 @@ Hope to see you next year!
 _ACManoa_  
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/371.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/371.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/acm-career-fair-s23/292.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/acm-career-fair-s23/292.JPG" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 
