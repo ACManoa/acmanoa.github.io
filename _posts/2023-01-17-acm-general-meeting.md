@@ -19,6 +19,11 @@ The ACM General Meeting aims to expose students to the wide variety of ICS clubs
 
 <center>
 	<figure class="full">
+	    <img src="/assets/img/posts/acm-general-meeting-s23/first-general-meeting-spring-2023" data-featherlight data-featherlight-target-attr="src">
+	</figure>
+</center>
+<center>
+	<figure class="full">
 	    <img src="/assets/img/posts/acm-general-meeting-s23/s23-genmeeting-clubs.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
