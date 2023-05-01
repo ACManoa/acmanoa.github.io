@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talk Story with Tech Professionals Spring 2023"
-featured-img: 232.jpg
+featured-img: S23_TalkStoryTechPros
 categories: [ACManoa, PACE, ThriveXHawaii]
 ---
 
