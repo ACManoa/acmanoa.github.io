@@ -116,14 +116,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-    <img src="/assets/img/officers/jloi.jpeg" alt="Justin Loi">
-    <div class="info">
-      <h2>Justin Loi</h2>
-      <br>
-      <p>ACM Personnel and Finance Officer</p>
-    </div>
-	</div>
-  <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
       <h2>Pauline Wu</h2>
@@ -132,37 +124,13 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     </div>
   </div>
   <div class="officer">
-    <img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
-    <div class="info">
-      <h2>Alyssia Chen</h2>
-      <br>
-      <p>ACM Communications Officer</p>
-    </div>
-	</div>
-  <div class="officer">
     <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
     <div class="info">
       <h2>Aris Carlos</h2>
       <br>
       <p>ACM Assistant Communications Officer</p>
    </div>
-  </div> 
-  <div class="officer">
-    <img src="/assets/img/officers/kobey.png" alt="Kobey Arai">
-    <div class="info">
-      <h2>Kobey Arai</h2>
-      <br>
-      <p>ACM Software Officer</p>
-    </div>
-   </div>
-   <div class="officer">
-    <img src="/assets/img/officers/MateoMaramara.png" alt="Mateo Maramara">
-    <div class="info">
-      <h2>Mateo Maramara</h2>
-      <br>
-      <p>ACM Security Officer</p>
-    </div>
-   </div>
+  </div>
    <div class="officer">
     <img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
     <div class="info">
