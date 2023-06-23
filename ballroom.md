@@ -16,6 +16,7 @@ Ballroom is a fun physical activity that provides stress relief and allows you t
 
 Here are links to some of our performances:
  - [Holiday Performance](https://www.youtube.com/watch?v=9s1qy7VYDQ4)
+ - [Spring Dance 2023](https://drive.google.com/file/d/1v1uZlxPLP1H6X2zB3BTPDV1w0jDcEInh/view?usp=sharing)
 
 ## What do we do?
 Each week we learn the basics of various ballroom dances like Waltz, Cha-cha, Tango, Rumba, Samba, Swing, etc.  We have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions that are held twice a year in the State of Hawaii.
