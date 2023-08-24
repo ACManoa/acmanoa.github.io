@@ -107,14 +107,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM President</p>
 		</div>
 	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/kelly.png" alt="Kelly Hwang">
-		<div class="info">
-			<h2>Kelly Hwang</h2>
-			<br>
-			<p>ACM Vice President</p>
-		</div>
-	</div>
   <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
@@ -123,23 +115,31 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <p>ACM ICSpace / Supply Officer</p>
     </div>
   </div>
-  <div class="officer">
-    <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
-    <div class="info">
-      <h2>Aris Carlos</h2>
-      <br>
-      <p>ACM Assistant Communications Officer</p>
-   </div>
-  </div>
    <div class="officer">
     <img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
     <div class="info">
       <h2>Kyla Lee</h2>
       <br>
-      <p>ACM Officer</p>
+      <p>ACM Operations Officer</p>
     </div>
    </div>
-	 <div class="officer">
+  <div class="officer">
+		<img src="/assets/img/officers/prayag.jpg" alt="Prayag Das">
+		<div class="info">
+			<h2>Prayag Das</h2>
+			<br>
+			<p>ACM Technology and Innovation Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/honggun.jpg" alt="Honggun Jeon">
+		<div class="info">
+			<h2>Honggun Jeon</h2>
+			<br>
+			<p>ACM Server Administrator/Webmaster</p>
+		</div>
+	</div>
+  <div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
 			<h2>Peter Sadowski</h2>
@@ -153,5 +153,3 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     Although the registered organization has members who are university students, the registered organization is independent of the university and does not represent the views of the university. The registered organization is responsible for its own contracts, acts, or omissions. 
   </i>
 </div>
-
-
