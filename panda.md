@@ -83,35 +83,11 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 
 <div id="officers-container">
 	<div class="officer">
-  		 <img src="/assets/img/officers/kelly.png" alt="Kelly Hwang">
-  		<div class="info">
-  			<h2>Kelly Hwang</h2>
-  			<br>
-  			<p>PANDA President</p>
-  		</div>
-  	</div>
-	<div class="officer">
 		<img src="/assets/img/officers/alyssia.png" alt="Alyssia Chen">
 		<div class="info">
 			<h2>Alyssia Chen</h2>
 			<br>
-			<p>PANDA Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/kobey.png" alt="Kobey Arai">
-		<div class="info">
-			<h2>Kobey Arai</h2>
-			<br>
-			<p>PANDA Head Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/hardy.png" alt="Jake Hardy">
-		<div class="info">
-			<h2>Jake Hardy</h2>
-			<br>
-			<p>PANDA Head Officer</p>
+			<p>PANDA President</p>
 		</div>
 	</div>
   <div class="officer">
@@ -119,7 +95,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		<div class="info">
 			<h2>Brennan Lincoln</h2>
 			<br>
-			<p>PANDA Officer</p>
+			<p>PANDA Head Officer</p>
 		</div>
 	</div>
   <div class="officer">
@@ -127,13 +103,45 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
 			<br>
-			<p>PANDA Officer</p>
+			<p>PANDA Head Officer</p>
 		</div>
 	</div>
   <div class="officer">
 		<img src="/assets/img/officers/RobGodfrey.png" alt="Rob Godfrey">
 		<div class="info">
 			<h2>Rob Godfrey</h2>
+			<br>
+			<p>PANDA Head Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/vincent.jpg" alt="Vincent Chan">
+		<div class="info">
+			<h2>Vincent Chan</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/ethan.png" alt="Ethan Chung">
+		<div class="info">
+			<h2>Ethan Chung</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/anson.jpg" alt="Anson Leung">
+		<div class="info">
+			<h2>Anson Leung</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/brian.png" alt="Brian Shu">
+		<div class="info">
+			<h2>Brian Shu</h2>
 			<br>
 			<p>PANDA Officer</p>
 		</div>
