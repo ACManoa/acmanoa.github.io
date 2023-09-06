@@ -140,6 +140,23 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
+		<img src="/assets/img/officers/mahie.jpeg" alt="Mahie Crabbe">
+		<div class="info">
+			<h2>Mahie Crabbe</h2>
+			<br>
+			<p>ACM Public Relations Coordinator</p>
+		</div>
+	</div>
+  
+  <br><br>
+</div>
+
+<center>
+	<h2>Faculty Sponsors</h2>
+</center>
+
+<div id="officers-container">
+  <div class="officer">
 		<img src="/assets/img/officers/petersadowski.jpg" alt="Peter Sadowski">
 		<div class="info">
 			<h2>Peter Sadowski</h2>
@@ -153,3 +170,5 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     Although the registered organization has members who are university students, the registered organization is independent of the university and does not represent the views of the university. The registered organization is responsible for its own contracts, acts, or omissions. 
   </i>
 </div>
+
+
