@@ -123,7 +123,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/ethan.png" alt="Ethan Chung">
+		<img src="/assets/img/officers/ethan.jpg" alt="Ethan Chung">
 		<div class="info">
 			<h2>Ethan Chung</h2>
 			<br>
