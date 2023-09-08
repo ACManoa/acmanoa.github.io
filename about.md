@@ -147,7 +147,70 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM Public Relations Coordinator</p>
 		</div>
 	</div>
-  
+ <div class="officer">
+		<img src="/assets/img/officers/liliana_royer.JPG" alt="Liliana Royer">
+		<div class="info">
+			<h2>Liliana Royer</h2>
+			<br>
+			<p>ACM Event Coordinator</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/david_rickards.jpg" alt="David Rickards">
+		<div class="info">
+			<h2>David Rickards</h2>
+			<br>
+			<p>ACM Event Coordinator</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/seri_nakamura.png" alt="Seri Nakamura">
+		<div class="info">
+			<h2>Seri Nakamura</h2>
+			<br>
+			<p>ACM Event Coordinator</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/erick_oro.JPEG" alt="Erick Orozco-Ciprian">
+		<div class="info">
+			<h2>Erick Orozco-Ciprian</h2>
+			<br>
+			<p>ACM Event Coordinator</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/jarren_seson.jpg" alt="Jarren Seson">
+		<div class="info">
+			<h2>Jarren Seson</h2>
+			<br>
+			<p>ACM Administration, and Finance Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/claire_sorge.png" alt="Claire Sorge">
+		<div class="info">
+			<h2>Claire Sorge</h2>
+			<br>
+			<p>ACM Marketing Manager</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/vincent_grillo.jpg" alt="Vincent Grillo">
+		<div class="info">
+			<h2>Vincent Grillo</h2>
+			<br>
+			<p>ACM Marketing Manager</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/yong-sung_masuda.jpg" alt="Yong-Sung Masuda">
+		<div class="info">
+			<h2>Yong-Sung Masuda</h2>
+			<br>
+			<p>ACM Logistics, Facilities & Security Officer</p>
+		</div>
+	</div>
   <br><br>
 </div>
 
