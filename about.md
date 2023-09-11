@@ -172,7 +172,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/erick_oro.JPEG" alt="Erick Orozco-Ciprian">
+		<img src="/assets/img/officers/eric_oro.JPEG" alt="Erick Orozco-Ciprian">
 		<div class="info">
 			<h2>Erick Orozco-Ciprian</h2>
 			<br>
