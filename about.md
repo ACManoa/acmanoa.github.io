@@ -204,7 +204,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/yong-sung_masuda.jpg" alt="Yong-Sung Masuda">
+		<img src="/assets/img/officers/YongSungMasuda.png" alt="Yong-Sung Masuda">
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
 			<br>
