@@ -97,9 +97,9 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
   		</div>
   	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/EpsilonAustin.png" alt="Epsilon Austin">
+		<img src="/assets/img/officers/GregorySnyder.png" alt="Gregory Snyder">
 		<div class="info">
-			<h2>Epsilon Austin</h2>
+			<h2>Gregory Snyder</h2>
 			<br>
 			<p>BDCUHM Vice-President</p>
 		</div>
@@ -109,7 +109,7 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 		<div class="info">
 			<h2>Alyssia Chen</h2>
 			<br>
-			<p>BDCUHM Secretary</p>
+			<p>BDCUHM Marketing Officer</p>
 		</div>
 	</div>
   <div class="officer">
@@ -121,19 +121,19 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/IsabelleHu.png" alt="Isabelle Hu">
+		<img src="/assets/img/officers/SydneyKim.jpg" alt="Sydney Kim">
 		<div class="info">
-			<h2>Isabelle Hu</h2>
+			<h2>Sydney Kim</h2>
 			<br>
-			<p>BDCUHM Officer</p>
+			<p>BDCUHM Secretary</p>
 		</div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/MatthewYamamoto.png" alt="Matthew Yamamoto">
+		<img src="/assets/img/officers/MichaellaVillanueva.jpeg" alt="Michaella Villanueva">
 		<div class="info">
-			<h2>Matthew Yamamoto</h2>
+			<h2>Michaella Villanueva</h2>
 			<br>
-			<p>BDCUHM Officer</p>
+			<p>BDCUHM Communications Officer</p>
 		</div>
 	</div>
 </div>
