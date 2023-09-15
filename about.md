@@ -227,6 +227,22 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM Faculty Sponsor</p>
 		</div>
 	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/KennyQuibilan.png" alt="Kenny Quibilan">
+		<div class="info">
+			<h2>Kenny Quibilan</h2>
+			<br>
+			<p>ACM Faculty Sponsor</p>
+		</div>
+	</div>
+  <div class="officer">
+  		<img src="/assets/img/officers/MarilouMatsuura.jpeg" alt="Marilou Matsuura">
+  		<div class="info">
+  			<h2>Marilou Matsuura</h2>
+  			<br>
+  			<p>ACM Faculty Sponsor</p>
+  		</div>
+  </div>
   
   <br><br>
   <i>
