@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grey Hats
-permalink: /_clubs/greyhats/
+permalink: /pages/clubs/greyhats/
 ---
 
 <center>

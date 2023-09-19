@@ -20,15 +20,15 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Ballroom', link: '/ballroom'}
-  - {name: 'Game Dev', link: '/gamedev'}
-  - {name: 'Grey Hats', link: '/greyhats'}
-  - {name: 'ICSpark', link: '/icspark'}
-  - {name: 'PANDA', link: '/panda'}
-  - {name: 'SWITCH', link: '/switch'}
-  - {name: 'ICSpace', link: '/icspace'}
-  - {name: 'Sponsors', link: '/sponsors'}
+  - {name: 'About', link: '/pages/about'}
+  - {name: 'Ballroom', link: '/pages/clubs/ballroom'}
+  - {name: 'Game Dev', link: '/pages/clubs/gamedev'}
+  - {name: 'Grey Hats', link: '/pages/clubs/greyhats'}
+  - {name: 'ICSpark', link: '/pages/clubs/icspark'}
+  - {name: 'PANDA', link: '/pages/clubs/panda'}
+  - {name: 'SWITCH', link: '/pages/clubs/switch'}
+  - {name: 'ICSpace', link: '/pages/icspace'}
+  - {name: 'Sponsors', link: '/pages/about'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >

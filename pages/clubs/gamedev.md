@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Dev
-permalink: /_clubs/gamedev/
+permalink: /pages/clubs/gamedev/
 ---
 
 <center>
