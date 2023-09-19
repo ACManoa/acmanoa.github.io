@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ICSpark
-permalink: /icspark/
+permalink: /_clubs/icspark/
 ---
 
 <center>

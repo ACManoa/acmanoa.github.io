@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ballroom
-permalink: /ballroom/
+permalink: /_clubs/ballroom/
 ---
 
 <center>

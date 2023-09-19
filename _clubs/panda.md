@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PANDA
-permalink: /panda/
+permalink: /_clubs/panda/
 ---
 
 <center>

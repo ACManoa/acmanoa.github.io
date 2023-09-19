@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-permalink: /sponsors/
+permalink: /pages/sponsors/
 ---
 
 <center>

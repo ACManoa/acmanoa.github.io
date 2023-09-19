@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ICSpace
-permalink: /icspace/
+permalink: /pages/icspace/
 ---
 
 <center>
