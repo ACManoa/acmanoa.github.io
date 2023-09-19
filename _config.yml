@@ -28,8 +28,8 @@ navigation: # Navigation links
   - {name: 'PANDA', link: '/pages/clubs/panda'}
   - {name: 'SWITCH', link: '/pages/clubs/switch'}
   - {name: 'ICSpace', link: '/pages/icspace'}
-  - {name: 'Sponsors', link: '/pages/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Sponsors', link: '/pages/sponsors'}
+  - {name: 'Contact', link: '/pages/contact'}
 
 tagline: >
   The Association for Computing Machinery at the University of Hawaii at Manoa
