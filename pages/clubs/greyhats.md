@@ -93,14 +93,6 @@ Our meetings are currently hosted in the ICSpace (POST 318B) and over Zoom on Tu
   		<p>Grey Hats Chairperson</p>
 		</div>
 	</div>
-  <div class="officer">
-    <img src="/assets/img/officers/amanda.png" alt="Amanda Nitta">
-    <div class="info">
-    	<h2>Amanda Nitta</h2>
-    	<br>
-    	<p>Grey Hats Vice Chairperson</p>
-    </div>
-   </div>
 <div class="officer">
     <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
     <div class="info">
