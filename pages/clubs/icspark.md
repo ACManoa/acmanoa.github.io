@@ -6,7 +6,7 @@ permalink: /pages/clubs/icspark/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
+	  <img height="200px" src="/assets/img/logos/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
 	</figure>
 </center>
 <br>

@@ -6,7 +6,7 @@ permalink: /pages/clubs/gamedev/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
+	  <img height="250px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
 	</figure>
 </center>
 <br>

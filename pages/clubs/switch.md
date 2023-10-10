@@ -6,7 +6,7 @@ permalink: /pages/clubs/switch/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
+	  <img height="250px" src="/assets/img/logos/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
 	</figure>
 </center>
 <br>

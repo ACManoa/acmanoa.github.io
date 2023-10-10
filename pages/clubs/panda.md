@@ -6,7 +6,7 @@ permalink: /pages/clubs/panda/
 
 <center>
 	<figure class="full">
-	  <img height="300px" src="/assets/img/logos/Panda.png" title="Panda Logo" alt="Panda Logo">
+	  <img height="230px" src="/assets/img/logos/Panda.png" title="Panda Logo" alt="Panda Logo">
 	</figure>
 </center>
 <br>

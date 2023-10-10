@@ -6,7 +6,7 @@ permalink: /pages/clubs/greyhats/
 
 <center>
 	<figure class="full">
-	  <img height="300px" width="300px" src="/assets/img/logos/greyhats.png" title="Grey Hats Logo" alt="Grey Hats Logo">
+	  <img height="250px" width="300px" src="/assets/img/logos/greyhats.png" title="Grey Hats Logo" alt="Grey Hats Logo">
 	</figure>
 </center>
 <br>
