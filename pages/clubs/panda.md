@@ -11,6 +11,13 @@ permalink: /pages/clubs/panda/
 </center>
 <br>
 
+<center>
+	<h2>PANDA's meeting time</h2>
+	<h4>Wednesdays 5:00-6:30 PM</h4>
+</center>
+
+<br>
+
 ## What is PANDA?
 PANDA (Programming AND Algorithms) is a special interest group of ACM Manoa dedicated to studying and applying algorithms. We aim to help students develop the algorithmic problem solving skills needed to succeed in the field of computer science.
 
@@ -21,7 +28,7 @@ We hold weekly meetings dedicated to solving algorithm problems similar to those
 The group is open to everyone!
 
 ## How to join?
-Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/naDnBZ5) and tag along with us in the ICSpace on Thursdays at 4:30PM to attend our meetings!
+Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/naDnBZ5) and tag along with us in the ICSpace to attend our meetings!
 
 Also, if you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
 
