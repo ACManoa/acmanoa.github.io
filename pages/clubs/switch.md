@@ -13,25 +13,25 @@ permalink: /pages/clubs/switch/
 
 ## What is SWITCH?
 
-SWITCH (Supporting Women in Technology Computing Hawaii) is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department.
+SWITCH (Supporting Women in Technology Computing Hawaii) is a dynamic community of students, faculty, and professionals committed to driving social change within the ICS department.
 
-Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development.
+Established in Fall 2019, we proudly hold the titles of a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. Our mission is to provide valuable resources from these organizations to enhance your professional, technical, and personal development.
 
 For more infomation check out our [webpage:](https://switch-uhm.github.io/) [https://switch-uhm.github.io/](https://switch-uhm.github.io/)
 
 ## What do we do?
 
-We are a group a community where you can:
+At SWITCH, we offer a supportive environment where you can:
 
 - Foster Professional & Personal Growth
-- Hear from Industry Professionals
-- Explore different CS Industries
-- Learn about Opportunities in Tech for women
+- Learn from Industry Professionals
+- Explore Various CS Industries
+- Discover Opportunities in Tech for Women
 
-## Who is welcome?
+## Everyone Is Welcome
 
-The group is open to all majors and genders!
-Come join us in our [discord:](https://discord.gg/ksxdKeZBxP) [https://discord.gg/ksxdKeZBxP](https://discord.gg/ksxdKeZBxP)
+Our group is inclusive and welcomes members of all majors and genders.
+Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 
 <br>
 
