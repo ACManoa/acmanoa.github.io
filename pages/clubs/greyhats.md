@@ -10,6 +10,10 @@ permalink: /pages/clubs/greyhats/
 	</figure>
 </center>
 <br>
+<center>
+	<h2>Grey Hats meeting time</h2>
+	<h4>Tuesdays 4:30-5:30 PM</h4>
+</center>
 
 The Grey Hats are a group focused towards cybersecurity at the University of Hawaii at Manoa.
 
@@ -17,17 +21,17 @@ The Grey Hats are a group focused towards cybersecurity at the University of Haw
 
 The Grey Hats is a student-led, extracurricular organization focused on real-world training for cyber defense. Membership gives students an outstanding opportunity to learn and apply critical skills, attack and defend systems, and to network with others interested in modern security issues.
 
-### Who is welcome?
+## Everyone is Welcome
 
-Everyone is welcome to join, regardless of skill level.
+All individuals, regardless of skill level, are welcome to join.
 
-### What do we do?
+## What do we do?
 
-We mainly compete in Capture the Flags (CTFs) & Cybersecurity focused competitions. Two of the main competitions we participate in are National Cyber League and the National Collegiate Cyber Defense Competition.
+Our primary activities include participating in Capture the Flag (CTF) competitions and cybersecurity-focused contests. We actively compete in the National Cyber League (NCL) and the National Collegiate Cyber Defense Competition (CCDC).
 
-## How to join?
+## How to Join
 
-Our meetings are currently hosted in the ICSpace (POST 318B) and over Zoom on Tuesdays, 4:30pm-5:30pm. Join the Grey Hats discord via [this link](https://discord.gg/r9xm9ZCVU3) for more details.
+Our meetings take place in the ICSpace (POST 318B) and are also accessible via Zoom on Tuesdays from 4:30 pm to 5:30 pm. Join the Grey Hats Discord server through [this link](https://discord.gg/r9xm9ZCVU3) for more details.
 
 <br>
 
