@@ -19,7 +19,7 @@ Information and Computer Science, Computer Engineering, and Management Informati
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/2023-10-12-Career-Fair/279.JPG" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/2023-10-12-Career-Fair-employer.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>
