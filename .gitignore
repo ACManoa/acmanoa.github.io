@@ -10,3 +10,5 @@ node_modules
 Gemfile.lock
 *.draft
 *.icloud
+.idea/misc.xml
+.idea/workspace.xml

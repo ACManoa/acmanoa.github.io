@@ -6,18 +6,21 @@ permalink: /pages/clubs/icspark/
 
 <center>
 	<figure class="full">
-	  <img height="200px" src="/assets/img/logos/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
+	  <img height="100px" src="/assets/img/logos/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
 	</figure>
 </center>
 <br>
 
 ## What is ICSpark?
+
 ICSpark is a Registered Independent Organization (RIO) at the University of Hawaii. We are a group of students who offer free coding classes every Saturday for students through the 6th - 12th grade.
 
 ## Who is welcome?
+
 The group is open to everyone!
 
 ## How to join?
+
 For more infomation regarding ICSpark come view our [website: https://icspark.github.io/index.html](https://icspark.github.io/index.html)
 
 <br>
