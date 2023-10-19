@@ -12,7 +12,7 @@ permalink: /pages/clubs/panda/
 <br>
 
 <center>
-	<h2>PANDA's meeting time</h2>
+	<h2>Meeting Times</h2>
 	<h4>Wednesdays 5:00-6:30 PM</h4>
 </center>
 
@@ -20,7 +20,9 @@ permalink: /pages/clubs/panda/
 
 ## What is PANDA?
 
-PANDA (Programming AND Algorithms) is a special interest group of ACM Manoa dedicated to studying and applying algorithms. We aim to help students develop the algorithmic problem solving skills needed to succeed in the field of computer science.
+PANDA (Programming AND Algorithms) is a special interest group of ACM Mānoa dedicated to studying and applying algorithms. We aim to help students develop the algorithmic problem-solving skills needed to succeed in the field of computer science.
+
+We hold weekly meetings that involves our mentors (Big Pandas) guiding students at various levels of programming experience to solve algorithmic problems similar to ones given in technical interviews. Additionally, we hold presentations aimed to educate students about career-related topics such as resumes, internships, and more!
 
 ## What do we do?
 
@@ -33,6 +35,9 @@ The group is open to everyone!
 ## How to join?
 
 Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/naDnBZ5) and tag along with us in the ICSpace to attend our meetings!
+
+## Who is welcome?
+The group is open to everyone!
 
 Also, if you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
 
@@ -102,14 +107,6 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/BrennanLincoln.jpeg" alt="Brennan Lincoln">
-		<div class="info">
-			<h2>Brennan Lincoln</h2>
-			<br>
-			<p>PANDA Head Officer</p>
-		</div>
-	</div>
-  <div class="officer">
 		<img src="/assets/img/officers/YongSungMasuda.png" alt="Yong-Sung Masuda">
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
@@ -155,6 +152,22 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 			<h2>Brian Shu</h2>
 			<br>
 			<p>PANDA Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/michael_nakagawa.png" alt="Michael Nakagawa">
+		<div class="info">
+			<h2>Michael Nakagawa</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/Elijah.png" alt="Elijah Saloma">
+		<div class="info">
+			<h2>Elijah Saloma</h2>
+			<br>
+			<p>PANDA Seasonal Officer</p>
 		</div>
 	</div>
 </div>
