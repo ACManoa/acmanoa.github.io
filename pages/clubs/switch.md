@@ -6,29 +6,32 @@ permalink: /pages/clubs/switch/
 
 <center>
 	<figure class="full">
-	  <img height="250px" src="/assets/img/logos/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
+	  <img height="100px" src="/assets/img/logos/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
 	</figure>
 </center>
 <br>
 
 ## What is SWITCH?
-SWITCH (Supporting Women in Technology Computing Hawaii) is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department.
 
-Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development.
+SWITCH (Supporting Women in Technology Computing Hawaii) is a dynamic community of students, faculty, and professionals committed to driving social change within the ICS department.
+
+Established in Fall 2019, we proudly hold the titles of a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. Our mission is to provide valuable resources from these organizations to enhance your professional, technical, and personal development.
 
 For more infomation check out our [webpage:](https://switch-uhm.github.io/) [https://switch-uhm.github.io/](https://switch-uhm.github.io/)
 
 ## What do we do?
-We are a group a community where you can:
+
+At SWITCH, we offer a supportive environment where you can:
 
 - Foster Professional & Personal Growth
-- Hear from Industry Professionals
-- Explore different CS Industries
-- Learn about Opportunities in Tech for women
+- Learn from Industry Professionals
+- Explore Various CS Industries
+- Discover Opportunities in Tech for Women
 
-## Who is welcome?
-The group is open to all majors and genders!
-Come join us in our [discord:](https://discord.gg/ksxdKeZBxP) [https://discord.gg/ksxdKeZBxP](https://discord.gg/ksxdKeZBxP)
+## Everyone Is Welcome
+
+Our group is inclusive and welcomes members of all majors and genders.
+Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 
 <br>
 
@@ -144,4 +147,3 @@ Come join us in our [discord:](https://discord.gg/ksxdKeZBxP) [https://discord.g
   	</div>
   </div>
 </div>
-

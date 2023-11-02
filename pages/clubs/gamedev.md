@@ -6,24 +6,28 @@ permalink: /pages/clubs/gamedev/
 
 <center>
 	<figure class="full">
-	  <img height="250px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
+	  <img height="100px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
 	</figure>
 </center>
 <br>
+<center>
+	<h2>Game Dev's meeting time</h2>
+	<h4>Thursday 7:00-8:00 PM</h4>
+</center>
 
 ## What is GameDev?
 
-We are a group dedicated to designing, building, and demoing video games using Unity and other various tools. 
+We are a passionate group dedicated to designing, building, and showcasing video games using Unity and various other tools.
 
 ## What can you learn?
 
 - Designing : Stories, Characters, Levels and Game Mechanics
 - Programing & Game Engines: Coding with Unity/Unreal and create/control mechanics and interfaces
-- Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart 
+- Art: Pixel Art + Animation, 3D Modeling in Maya, and Coverart
 
 ## How to join?
-Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)! We meet every week on Thursdays from 7pm to 8pm.
 
+Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)!
 
 <style>
 	#officers-container {
@@ -119,4 +123,3 @@ Our meetings are currently hosted in our discord server that you can join via [t
 </div>
 
 <br>
-

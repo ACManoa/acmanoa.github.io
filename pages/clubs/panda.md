@@ -6,26 +6,34 @@ permalink: /pages/clubs/panda/
 
 <center>
 	<figure class="full">
-	  <img height="230px" src="/assets/img/logos/Panda.png" title="Panda Logo" alt="Panda Logo">
+	  <img height="100px" src="/assets/img/logos/Panda.png" title="Panda Logo" alt="Panda Logo">
 	</figure>
 </center>
 <br>
 
 <center>
-	<h2>PANDA's meeting time</h2>
+	<h2>Meeting Times</h2>
 	<h4>Wednesdays 5:00-6:30 PM</h4>
 </center>
 
 <br>
 
-## What do we do?
+## What is PANDA?
+
 PANDA (Programming AND Algorithms) is a special interest group of ACM Mānoa dedicated to studying and applying algorithms. We aim to help students develop the algorithmic problem-solving skills needed to succeed in the field of computer science.
 
 We hold weekly meetings that involves our mentors (Big Pandas) guiding students at various levels of programming experience to solve algorithmic problems similar to ones given in technical interviews. Additionally, we hold presentations aimed to educate students about career-related topics such as resumes, internships, and more!
 
-Currently, we have anywhere from 25-45 students attending our meetings and the PANDA club intends to start a competitive programming team soon!
+## What do we do?
+
+We hold weekly meetings dedicated to solving algorithm problems similar to those that are used in technical job interviews. We also host events aimed to educate students about computer science resumes, internships, and careers.
+
+## Who is welcome?
+
+The group is open to everyone!
 
 ## How to join?
+
 Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/naDnBZ5) and tag along with us in the ICSpace to attend our meetings!
 
 ## Who is welcome?
