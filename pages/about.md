@@ -134,7 +134,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
   <div class="officer">
 		<img src="/assets/img/officers/honggun.jpg" alt="Honggun Jeon">
 		<div class="info">
-			<h2>Honggun Jeon</h2>
+			<h2>Eddie Jeon</h2>
 			<br>
 			<p>ACM Server Administrator/Webmaster</p>
 		</div>
