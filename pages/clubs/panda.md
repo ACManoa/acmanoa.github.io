@@ -154,6 +154,14 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 			<p>PANDA Officer</p>
 		</div>
 	</div>
+  <div class="officer">
+		<img src="/assets/img/officers/honggun.jpg" alt="Eddie Jeon">
+		<div class="info">
+			<h2>Eddie Jeon</h2>
+			<br>
+			<p>PANDA Officer</p>
+		</div>
+	</div>
 	<div class="officer">
 		<img src="/assets/img/officers/michael_nakagawa.png" alt="Michael Nakagawa">
 		<div class="info">
@@ -167,7 +175,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		<div class="info">
 			<h2>Elijah Saloma</h2>
 			<br>
-			<p>PANDA Seasonal Officer</p>
+			<p>PANDA Officer</p>
 		</div>
 	</div>
 </div>
