@@ -27,7 +27,7 @@ We are a passionate group dedicated to designing, building, and showcasing video
 
 ## How to join?
 
-Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)!
+Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)! You can also check out our official website [here.](https://uhmgamedev.wixsite.com/my-site)
 
 <style>
 	#officers-container {
@@ -93,7 +93,7 @@ Our meetings are currently hosted in our discord server that you can join via [t
 		<div class="info">
 			<h2>Coen Bracilano</h2>
 			<br>
-			<p>Coding Officer</p>
+			<p>Music Officer</p>
 		</div>
 	</div>
 	<div class="officer">
@@ -118,6 +118,22 @@ Our meetings are currently hosted in our discord server that you can join via [t
 			<h2>TJ Magofna</h2>
 			<br>
 			<p>Communication Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/logos//assets/img/officers/Jiahui.jpg" alt="Jiahui Liao">
+		<div class="info">
+			<h2>Jiahui Liao</h2>
+			<br>
+			<p>Coding Officer</p>
+		</div>
+	</div>
+  <div class="officer">
+		<img src="/assets/img/logos/gamedev.png" alt="Zoey Nadolski">
+		<div class="info">
+			<h2>Zoey Nadolski</h2>
+			<br>
+			<p>Art Officer</p>
 		</div>
 	</div>
 </div>
