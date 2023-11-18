@@ -121,7 +121,7 @@ Our meetings are currently hosted in our discord server that you can join via [t
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/jiahui.png" alt="Jiahui Liao">
+		<img src="/assets/img/logos/gamedev.png" alt="Jiahui Liao">
 		<div class="info">
 			<h2>Jiahui Liao</h2>
 			<br>
