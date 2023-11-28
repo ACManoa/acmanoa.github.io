@@ -107,6 +107,14 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
+		<img src="/assets/img/officers/vincent.jpg" alt="Vincent Chan">
+		<div class="info">
+			<h2>Vincent Chan</h2>
+			<br>
+			<p>PANDA Vice President</p>
+		</div>
+	</div>
+  <div class="officer">
 		<img src="/assets/img/officers/YongSungMasuda.png" alt="Yong-Sung Masuda">
 		<div class="info">
 			<h2>Yong-Sung Masuda</h2>
@@ -120,14 +128,6 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 			<h2>Rob Godfrey</h2>
 			<br>
 			<p>PANDA Head Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/vincent.jpg" alt="Vincent Chan">
-		<div class="info">
-			<h2>Vincent Chan</h2>
-			<br>
-			<p>PANDA Officer</p>
 		</div>
 	</div>
   <div class="officer">
