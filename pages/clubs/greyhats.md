@@ -91,7 +91,7 @@ Our meetings take place in the ICSpace (POST 318B) and are also accessible via Z
 
 <div id="officers-container">
 	<div class="officer">
-		<img src="/assets/img/officers/JakeImanaka.png" alt="Jake Imanaka">
+		<img src="/assets/img/logos/greyhats.png" alt="Jake Imanaka">
   	<div class="info">
   		<h2>Jake Imanaka</h2>
   		<br>
