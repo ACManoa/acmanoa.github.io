@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kanehekili Datathon"
-featured-img: ACM_Logo
+featured-img: SPR_2024_Datathon_Logo
 categories: [ACManoa]
 ---
 
@@ -21,13 +21,6 @@ Students of all levels of Data Science knowledge are encouraged to participate. 
 |       | End: March 10 2024                                   |
 | Where | UH Manoa POST 318, 319                               |
 
-## What Is Kanehekili?
 
-Kanehekili is the name of the demi-god of thunder in Hawaiian culture. 
-The first kahu who observed the kapus of these gods was named Hekili (Thunder). He lived at Papaʻaea in Hamakualoa, Maui. The land of Papaʻaea where this man was born is a place where thunder claps very loudly, with double claps, and there come flashes of lightning that smash to pieces the forest of ʻOʻopuloa.
-
-<https://www.kuialuaopuna.com/post/k%C4%81nehekili-a-tradition-of-the-p%C4%81pa%CA%BBa%CA%BBeake%CA%BBanae-region>
-
-This competition is a collaborative effort between the Association of Computing and Machinery at Manoa, the National Security Agency, the Information and Computer Science Department at the University of Hawaiʻi at Manoa, and the College of Natural Sciences at the University of Hawaiʻi at Manoa.
 
 # We will have more information about the event and registration available to you shortly!
