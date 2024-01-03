@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Kanehekili Datathon"
+type: post
 featured-img: F23_CareerFair
+title: "Kanehekili Datathon"
+# All dates must be YYYY-MM-DD format!
+date: 2024-03-09
+published: true
 categories: [ACManoa]
 ---
 
