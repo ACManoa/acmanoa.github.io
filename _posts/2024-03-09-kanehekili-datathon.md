@@ -1,11 +1,7 @@
 ---
 layout: post
-type: post
-featured-img: F23_CareerFair
 title: "Kanehekili Datathon"
-# All dates must be YYYY-MM-DD format!
-date: 2024-03-09
-published: true
+featured-img: F23_CareerFair
 categories: [ACManoa]
 ---
 
@@ -28,3 +24,8 @@ Students of all levels of Data Science knowledge are encouraged to participate. 
 
 
 # We will have more information about the event and registration available to you shortly!
+
+<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+<script src="//code.jquery.com/jquery-latest.js"></script>
+<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<style>
