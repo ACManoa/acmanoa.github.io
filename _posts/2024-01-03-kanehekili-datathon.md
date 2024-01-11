@@ -5,12 +5,12 @@ featured-img: S24_Datathon_Logo
 categories: [ACManoa]
 ---
 
-REGISTRATION OPEN!
+# REGISTRATION OPEN!
 Datathon competition is open to students of all skill levels of Data Science.
 
-Step 1: Register yourself for the competition at https://forms.gle/74eHk3ZWGekb7BfN7 
+**Step 1:** Register yourself for the competition at https://forms.gle/74eHk3ZWGekb7BfN7 
 
-Step 2: Form a team! Then register your team at https://forms.gle/L3P55WFz9Ux8kyvD6
+**Step 2:** Form a team! Then register your team at https://forms.gle/L3P55WFz9Ux8kyvD6
 
 ## What is Datathon?
 
