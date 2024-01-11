@@ -5,6 +5,13 @@ featured-img: S24_Datathon_Logo
 categories: [ACManoa]
 ---
 
+REGISTRATION OPEN!
+Datathon competition is open to students of all skill levels of Data Science.
+
+Step 1: Register yourself for the competition at https://forms.gle/74eHk3ZWGekb7BfN7 
+
+Step 2: Form a team! Then register your team at https://forms.gle/L3P55WFz9Ux8kyvD6
+
 ## What is Datathon?
 
 Datathon, similar to a hackathon, is a weekend-long competition where students collaborate in teams to develop a data science project that solves a problem announced at the event.
@@ -23,7 +30,6 @@ Students of all levels of Data Science knowledge are encouraged to participate. 
 
 
 
-# We will have more information about the event and registration available to you shortly!
 
 <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 <script src="//code.jquery.com/jquery-latest.js"></script>
