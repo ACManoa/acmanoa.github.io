@@ -13,7 +13,7 @@ permalink: /pages/clubs/panda/
 
 <center>
 	<h2>Meeting Times</h2>
-	<h4>Wednesdays 5:00-6:30 PM</h4>
+	<h4>Thursday 4:30-6:00 PM</h4>
 </center>
 
 <br>
@@ -35,9 +35,6 @@ The group is open to everyone!
 ## How to join?
 
 Our meetings are currently hosted in person in the ICSpace located in POST 318B. Join the PANDA discord via [this link](https://discord.gg/naDnBZ5) and tag along with us in the ICSpace to attend our meetings!
-
-## Who is welcome?
-The group is open to everyone!
 
 Also, if you don't have a discord account, you are welcome to email us at *uhmpanda@gmail.com*.
 
