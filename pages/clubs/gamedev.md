@@ -89,6 +89,14 @@ Our meetings are currently hosted in our discord server that you can join via [t
 		</div>
 	</div>
 	<div class="officer">
+		<img src="/assets/img/logos/gamedev.png" alt="zoe n">
+		<div class="info">
+			<h2>Zoe n</h2>
+			<br>
+			<p>Vice President</p>
+		</div>
+	</div>
+	<div class="officer">
 		<img src="/assets/img/officers/CoenBracilano.jpeg" alt="Coen Bracilano">
 		<div class="info">
 			<h2>Coen Bracilano</h2>
@@ -96,26 +104,10 @@ Our meetings are currently hosted in our discord server that you can join via [t
 			<p>Music Officer</p>
 		</div>
 	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/CalebHardee.jpg" alt="Caleb Hardee">
-		<div class="info">
-			<h2>Caleb Hardee</h2>
-			<br>
-			<p>Art Officer</p>
-		</div>
-	</div>
   <div class="officer">
-		<img src="/assets/img/officers/DonMaddock.jpeg" alt="Don Maddock">
+		<img src="/assets/img/logos/gamedev.png" alt="Christopher Oki">
 		<div class="info">
-			<h2>Don Maddock</h2>
-			<br>
-			<p>Coding Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/officers/TJMagofna.jpeg" alt="TJ Magofna">
-		<div class="info">
-			<h2>TJ Magofna</h2>
+			<h2>Christopher Oki</h2>
 			<br>
 			<p>Communication Officer</p>
 		</div>
@@ -129,9 +121,9 @@ Our meetings are currently hosted in our discord server that you can join via [t
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/logos/gamedev.png" alt="Zoey Nadolski">
+		<img src="/assets/img/logos/gamedev.png" alt="Anne Di Martino">
 		<div class="info">
-			<h2>Zoey Nadolski</h2>
+			<h2>Anne Di Martino</h2>
 			<br>
 			<p>Art Officer</p>
 		</div>
