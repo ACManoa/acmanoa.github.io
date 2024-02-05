@@ -112,7 +112,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     <div class="info">
       <h2>Pauline Wu</h2>
       <br>
-      <p>ACM ICSpace / Supply Officer</p>
+      <p>Outreach Program Manager</p>
     </div>
   </div>
    <div class="officer">
@@ -139,20 +139,44 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM Server Administrator/Webmaster</p>
 		</div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="James Haku Yamada">
+		<div class="info">
+			<h2>James Haku Yamada</h2>
+			<br>
+			<p>Technical Project Manager</p>
+		</div>
+	</div>
   <div class="officer">
 		<img src="/assets/img/officers/mahie.jpeg" alt="Mahie Crabbe">
 		<div class="info">
 			<h2>Mahie Crabbe</h2>
 			<br>
-			<p>ACM Public Relations Coordinator</p>
+			<p>Public Relations Director</p>
 		</div>
 	</div>
- <div class="officer">
-		<img src="/assets/img/officers/liliana_royer.JPG" alt="Liliana Royer">
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Jiahui Liao">
 		<div class="info">
-			<h2>Liliana Royer</h2>
+			<h2>Jiahui Liao</h2>
 			<br>
-			<p>ACM Event Coordinator</p>
+			<p>Marketing Manager</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Roma Malasarte">
+		<div class="info">
+			<h2>Roma Malasarte</h2>
+			<br>
+			<p>Marketing Manager</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="William Evers-Hood">
+		<div class="info">
+			<h2>William Evers-Hood</h2>
+			<br>
+			<p>Operations Director</p>
 		</div>
 	</div>
   <div class="officer">
@@ -160,7 +184,15 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>David Rickards</h2>
 			<br>
-			<p>ACM Event Coordinator</p>
+			<p>Operations Coordinator</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Timothy Lum">
+		<div class="info">
+			<h2>Timothy Lum</h2>
+			<br>
+			<p>Operations Coordinator</p>
 		</div>
 	</div>
   <div class="officer">
@@ -172,19 +204,11 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/eric_oro.JPEG" alt="Erick Orozco-Ciprian">
-		<div class="info">
-			<h2>Erick Orozco-Ciprian</h2>
-			<br>
-			<p>ACM Event Coordinator</p>
-		</div>
-	</div>
-  <div class="officer">
 		<img src="/assets/img/officers/jarren_seson.jpg" alt="Jarren Seson">
 		<div class="info">
 			<h2>Jarren Seson</h2>
 			<br>
-			<p>ACM Administration, and Finance Officer</p>
+			<p>Sr. Operations Coordinator</p>
 		</div>
 	</div>
   <div class="officer">
@@ -200,7 +224,15 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Vincent Grillo</h2>
 			<br>
-			<p>ACM Marketing Manager</p>
+			<p>Personnel, Administration and Finance Director</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Shade Matsumoto">
+		<div class="info">
+			<h2>Shade Matsumoto</h2>
+			<br>
+			<p>Personnel, Administration and Finance Director</p>
 		</div>
 	</div>
   <div class="officer">
@@ -208,7 +240,23 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Katelynn Crouch</h2>
 			<br>
-			<p>ACM Logistics, Facilities & Security Officer</p>
+			<p>Sr. Operations Coordinator</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Ace Reyes">
+		<div class="info">
+			<h2>Ace Reyes</h2>
+			<br>
+			<p>Logistics, Facilities & Security Director</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/YongSungMasuda.png" alt="Yong-Sung Masuda">
+		<div class="info">
+			<h2>Yong-Sung Masuda</h2>
+			<br>
+			<p>Logistics, Facilities & Security Director</p>
 		</div>
 	</div>
   <br><br>

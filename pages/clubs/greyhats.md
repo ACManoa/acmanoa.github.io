@@ -98,6 +98,14 @@ Our meetings take place in the ICSpace (POST 318B) and are also accessible via Z
   		<p>Grey Hats Chairperson</p>
 		</div>
 	</div>
+	<div class="officer">
+		<img src="/assets/img/logos/ethan.jpg" alt="Ethan Morrell">
+  	<div class="info">
+  		<h2>Ethan Morrell</h2>
+  		<br>
+  		<p>Grey Hats Vice Chairperson</p>
+		</div>
+	</div>
 <div class="officer">
     <img src="/assets/img/officers/aris.jpeg" alt="Aris Carlos">
     <div class="info">
@@ -107,17 +115,41 @@ Our meetings take place in the ICSpace (POST 318B) and are also accessible via Z
    </div>
   </div>
   <div class="officer">
-		<img src="/assets/img/officers/WillEversHood.png" alt="Will Evers-Hood">
+		<img src="/assets/img/officers/default.png" alt="Wilson Tran">
 		<div class="info">
-			<h2>Will Evers-Hood</h2>
+			<h2>Wilson Tran</h2>
 			<br>
 			<p>Grey Hats Board Member</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
+		<img src="/assets/img/officers/default.png" alt="Aaron Lander Ancheta">
 		<div class="info">
-			<h2>Kyla Lee</h2>
+			<h2>Aaron Lander Ancheta</h2>
+			<br>
+			<p>Grey Hats Board Member</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Jordan Tyler Calanto">
+		<div class="info">
+			<h2>Jordan Tyler Calanto</h2>
+			<br>
+			<p>Grey Hats Board Member</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/seri_nakamura.png" alt="Seri Nakamura">
+		<div class="info">
+			<h2>Seri Nakamura</h2>
+			<br>
+			<p>Grey Hats Board Member</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/default.png" alt="Lily Enanoria">
+		<div class="info">
+			<h2>Lily Enanoria</h2>
 			<br>
 			<p>Grey Hats Board Member</p>
     </div>

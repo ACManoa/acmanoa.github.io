@@ -107,17 +107,17 @@ Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
     </div>
    </div>
   <div class="officer">
-    <img src="/assets/img/officers/jeraldine.png" alt="Jeraldine Milla">
+    <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
-    	<h2>Jeraldine Milla</h2>
+    	<h2>Pauline Wu</h2>
     	<br>
     	<p>SWITCH Vice-President of External Affairs</p>
     </div>
    </div>
 <div class="officer">
-    <img src="/assets/img/officers/tracy.png" alt="Tracy Bui">
+    <img src="/assets/img/officers/default.png" alt="Roma Amor Malasarte">
     <div class="info">
-     	<h2>Tracy Bui</h2>
+     	<h2>Roma Amor Malasarte</h2>
      	<br>
      	<p>SWITCH Vice President of Marketing</p>
    </div>
@@ -131,9 +131,17 @@ Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/ana.png" alt="Ana Araujo">
+		<img src="/assets/img/officers/default.png" alt="Tammy Guo">
 		<div class="info">
-			<h2>Ana Araujo</h2>
+			<h2>Tammy Guo</h2>
+			<br>
+			<p>Events Chair</p>
+		</div>
+	</div>
+	<div class="officer">
+		<img src="/assets/img/officers/seri_nakamura.png" alt="Seri Nakamura">
+		<div class="info">
+			<h2>Seri Nakamura</h2>
 			<br>
 			<p>SWITCH Board Member</p>
   	</div>
@@ -143,7 +151,7 @@ Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 		<div class="info">
 			<h2>Kayla Yanos</h2>
 			<br>
-			<p>SWITCH Board Member</p>
+			<p>Fundraising Director</p>
   	</div>
   </div>
 </div>

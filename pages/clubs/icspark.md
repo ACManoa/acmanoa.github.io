@@ -89,27 +89,36 @@ For more information about ICSpark, please visit our [website](https://icspark.g
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/michelle.png" alt="Michelle Leano">
+		<img src="/assets/img/officers/default.png" alt="Xavier Burt">
 		<div class="info">
-			<h2>Michelle Leano</h2>
+			<h2>Xavier Burt</h2>
 			<br>
 			<p>ICSpark Vice-President</p>
 		</div>
     </div>
 		<div class="officer">
-  		 <img src="/assets/img/officers/marissa.png" alt="Marissa Halim">
+  		 <img src="/assets/img/officers/default.png" alt="Marissa Halim">
   		<div class="info">
-  			<h2>Marissa Halim</h2>
+  			<h2>Briana Lee</h2>
   			<br>
-  			<p>ICSpark Board</p>
+  			<p>Marketing Officer</p>
   		</div>  
-  </div>
+  	</div>
+	</div>
+		<div class="officer">
+  		 <img src="/assets/img/officers/default.png" alt="Michael Jake Sumaylo">
+  		<div class="info">
+  			<h2>Michael Jake Sumaylo</h2>
+  			<br>
+  			<p>Lecturer</p>
+  		</div>  
+  	</div>
 		<div class="officer">
   		 <img src="/assets/img/officers/sydnee.png" alt="Sydnee You">
   		<div class="info">
   			<h2>Sydnee You</h2>
   			<br>
-  			<p>ICSpark Board</p>
+  			<p>Communication Officer</p>
   		</div>
    </div>
 </div>
