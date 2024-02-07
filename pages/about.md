@@ -107,6 +107,14 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<p>ACM President</p>
 		</div>
 	</div>
+	<div class="officer">
+    <img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
+    <div class="info">
+      <h2>Kyla Lee</h2>
+      <br>
+      <p>ACM Vice President</p>
+    </div>
+   </div>
   <div class="officer">
     <img src="/assets/img/officers/pauline.png" alt="Pauline Wu">
     <div class="info">
@@ -115,14 +123,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
       <p>Outreach Program Manager</p>
     </div>
   </div>
-   <div class="officer">
-    <img src="/assets/img/officers/KylaLee.png" alt="Kyla Lee">
-    <div class="info">
-      <h2>Kyla Lee</h2>
-      <br>
-      <p>ACM Operations Officer</p>
-    </div>
-   </div>
   <div class="officer">
 		<img src="/assets/img/officers/prayag.jpg" alt="Prayag Das">
 		<div class="info">
