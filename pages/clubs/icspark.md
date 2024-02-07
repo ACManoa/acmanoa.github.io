@@ -104,7 +104,6 @@ For more information about ICSpark, please visit our [website](https://icspark.g
   			<p>Marketing Officer</p>
   		</div>  
   	</div>
-	</div>
 		<div class="officer">
   		 <img src="/assets/img/officers/default.png" alt="Michael Jake Sumaylo">
   		<div class="info">
