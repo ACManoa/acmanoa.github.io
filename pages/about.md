@@ -212,14 +212,6 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/claire_sorge.png" alt="Claire Sorge">
-		<div class="info">
-			<h2>Claire Sorge</h2>
-			<br>
-			<p>ACM Marketing Manager</p>
-		</div>
-	</div>
-  <div class="officer">
 		<img src="/assets/img/officers/vincent_grillo.jpg" alt="Vincent Grillo">
 		<div class="info">
 			<h2>Vincent Grillo</h2>
