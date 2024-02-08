@@ -112,7 +112,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
     <div class="info">
       <h2>Kyla Lee</h2>
       <br>
-      <p>ACM Vice President</p>
+      <p>ACM Vice President and Chief of Staff</p>
     </div>
    </div>
   <div class="officer">
@@ -128,19 +128,19 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Prayag Das</h2>
 			<br>
-			<p>ACM Technology and Innovation Officer</p>
+			<p>ACM Technology and Innovation Director</p>
 		</div>
 	</div>
   <div class="officer">
 		<img src="/assets/img/officers/honggun.jpg" alt="Honggun Jeon">
 		<div class="info">
-			<h2>Eddie Jeon</h2>
+			<h2>Eddy Jeon</h2>
 			<br>
-			<p>ACM Server Administrator/Webmaster</p>
+			<p>ACM Server Administrator & Webmaster</p>
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="James Haku Yamada">
+		<img src="/assets/img/officers/haku.jpg" alt="James Haku Yamada">
 		<div class="info">
 			<h2>James Haku Yamada</h2>
 			<br>
@@ -156,7 +156,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="Jiahui Liao">
+		<img src="/assets/img/officers/jiahui.png" alt="Jiahui Liao">
 		<div class="info">
 			<h2>Jiahui Liao</h2>
 			<br>
@@ -164,7 +164,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="Roma Malasarte">
+		<img src="/assets/img/officers/roma.jpg" alt="Roma Malasarte">
 		<div class="info">
 			<h2>Roma Malasarte</h2>
 			<br>
@@ -172,7 +172,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="William Evers-Hood">
+		<img src="/assets/img/officers/WillEversHood.png" alt="William Evers-Hood">
 		<div class="info">
 			<h2>William Evers-Hood</h2>
 			<br>
@@ -188,7 +188,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="Timothy Lum">
+		<img src="/assets/img/officers/timLum.jpg" alt="Timothy Lum">
 		<div class="info">
 			<h2>Timothy Lum</h2>
 			<br>
@@ -200,7 +200,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Seri Nakamura</h2>
 			<br>
-			<p>ACM Event Coordinator</p>
+			<p>Operations Coordinator</p>
 		</div>
 	</div>
   <div class="officer">
@@ -224,7 +224,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Shade Matsumoto</h2>
 			<br>
-			<p>Personnel, Administration and Finance Director</p>
+			<p>Personnel, Administration & Finance Specialist</p>
 		</div>
 	</div>
   <div class="officer">
@@ -236,7 +236,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
 	<div class="officer">
-		<img src="/assets/img/officers/default.png" alt="Ace Reyes">
+		<img src="/assets/img/officers/ace.png" alt="Ace Reyes">
 		<div class="info">
 			<h2>Ace Reyes</h2>
 			<br>
