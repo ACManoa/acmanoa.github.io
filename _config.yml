@@ -20,6 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Event', link: '/pages/event'}
   - {name: 'About', link: '/pages/about'}
   - {name: 'Ballroom', link: '/pages/clubs/ballroom'}
   - {name: 'Game Dev', link: '/pages/clubs/gamedev'}
