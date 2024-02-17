@@ -132,9 +132,9 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/honggun.jpg" alt="Honggun Jeon">
+		<img src="/assets/img/officers/brian.png" alt="Brian Shu">
 		<div class="info">
-			<h2>Eddy Jeon</h2>
+			<h2>Brian Shu</h2>
 			<br>
 			<p>ACM Server Administrator & Webmaster</p>
 		</div>
