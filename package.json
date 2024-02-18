@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.",
   "main": "gulpfile.js",
+  "type": "module",
   "dependencies": {
+    "breakpoint-sass": "^3.0.0",
+    "bulma": "^0.9.4",
     "fg-loadcss": "^3.1.0",
+    "gulp-load-plugins": "^2.0.8",
     "jquery": "^3.7.1",
     "lazysizes": "^5.3.2",
     "normalize.css": "^8.0.1",
     "picturefill": "^3.0.2",
+    "sass": "^1.71.0",
     "velocity-animate": "^1.5.2"
   },
   "devDependencies": {
@@ -40,7 +45,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gulp"
+    "start": "gulp",
+    "build": "gulp build",
+    "img": "gulp img"
   },
   "repository": {
     "type": "git",

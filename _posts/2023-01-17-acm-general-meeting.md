@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM General Meeting 2023"
-featured-img: S23_GenMeeting
+featured-img: /S23_GenMeeting/S23_GenMeeting
 categories: [ACManoa]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Okinawan Festival"
-featured-img: okifestival
+featured-img: okifestival/okifestival
 categories: [ACManoa]
 ---
 

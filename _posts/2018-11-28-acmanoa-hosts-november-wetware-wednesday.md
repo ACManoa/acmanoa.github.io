@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACManoa hosts November's WetWare Wednesday"
-featured-img: wetware-wednesday-november-2018
+featured-img: /wetware-wednesday/wetware-wednesday
 categories: [ACManoa, iLab]
 ---
 

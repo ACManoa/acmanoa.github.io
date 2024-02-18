@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech & Intelligence Career Fair Spring 2023"
-featured-img: S23_CareerFair
+featured-img: /S23_CareerFair/S23_CareerFair
 categories: [ACManoa]
 ---
 

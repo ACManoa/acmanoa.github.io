@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM Graduation Ceremony Fall 2018"
-featured-img: acm-graduation-ceremony-fall-2018-cover
+featured-img: /acm-graduation-ceremony-fall-2018/acm-graduation-ceremony-fall-2018
 categories: [ACManoa, ICSpace]
 ---
 

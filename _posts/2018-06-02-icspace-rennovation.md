@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICSpace's Rennovation"
-featured-img: icspace-ty
+featured-img: /icspace-ty/icspace-ty
 categories: [ACManoa, ICSpace]
 ---
 

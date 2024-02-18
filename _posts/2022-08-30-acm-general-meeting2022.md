@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM General Meeting 2022"
-featured-img: first-general-meeting-fall-2022
+featured-img: /F22_GenMeeting/F22_GenMeeting
 categories: [ACManoa]
 ---
 

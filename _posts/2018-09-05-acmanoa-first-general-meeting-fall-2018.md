@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fall 2018 First General Meeting"
-featured-img: first-general-meeting-fall-2018
+featured-img: F18_GenMeeting/F18_GenMeeting
 categories: [ACManoa, POST 126]
 ---
 

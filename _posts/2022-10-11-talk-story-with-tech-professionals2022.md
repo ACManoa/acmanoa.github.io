@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talk Story with Tech Professionals Fall 2022"
-featured-img: ThriveHICover
+featured-img: /ThriveHICover_thumb/ThriveHICover_thumb
 categories: [ACManoa, PACE, ThriveXHawaii]
 ---
 

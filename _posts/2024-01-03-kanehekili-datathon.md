@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kanehekili Datathon"
-featured-img: S24_Datathon_Logo
+featured-img: /S24_Datathon_Logo/S24_Datathon_Logo
 categories: [ACManoa]
 ---
 

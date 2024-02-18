@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Careers in Tech Fair Fall 2023"
-featured-img: F23_CareerFair
+featured-img: /F23_CareerFair/F23_CareerFair
 categories: [ACManoa]
 ---
 
@@ -19,7 +19,7 @@ Information and Computer Science, Computer Engineering, and Management Informati
 
 <center>
 	<figure class="full">
-	    <img src="/assets/img/posts/2023-10-12-Career-Fair-employer.png" data-featherlight data-featherlight-target-attr="src">
+	    <img src="/assets/img/posts/F23_CareerFair/2023-10-12-Career-Fair-employer.png" data-featherlight data-featherlight-target-attr="src">
 	</figure>
 </center>
 <br>

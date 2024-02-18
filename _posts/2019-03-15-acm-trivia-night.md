@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM Trivia Night 3/5/19"
-featured-img: acm-trivia-night-3-15-19-cover
+featured-img: /acm-trivia-night/acm-trivia-night
 categories: [ACManoa, ICSpace]
 ---
 

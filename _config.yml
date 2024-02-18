@@ -20,8 +20,12 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Event', link: '/pages/event'}
+  - {name: 'Events', link: '/pages/event'}
   - {name: 'About', link: '/pages/about'}
+  - {name: 'Sponsors', link: '/pages/sponsors'}
+  - {name: 'Contact', link: '/pages/contact'}
+
+SIGS:
   - {name: 'Ballroom', link: '/pages/clubs/ballroom'}
   - {name: 'Game Dev', link: '/pages/clubs/gamedev'}
   - {name: 'Grey Hats', link: '/pages/clubs/greyhats'}
@@ -29,13 +33,10 @@ navigation: # Navigation links
   - {name: 'PANDA', link: '/pages/clubs/panda'}
   - {name: 'SWITCH', link: '/pages/clubs/switch'}
   - {name: 'ICSpace', link: '/pages/icspace'}
-  - {name: 'Sponsors', link: '/pages/sponsors'}
-  - {name: 'Contact', link: '/pages/contact'}
-
 tagline: >
   The Association for Computing Machinery at the University of Hawaii at Manoa
 
-hero_img: posts/post.JPG # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: post.JPG # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: acmmanoa@hawaii.edu # email for form submission
 
