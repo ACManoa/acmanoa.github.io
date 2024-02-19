@@ -24,17 +24,16 @@ import {generate} from 'critical';
 import sw from 'sw-precache';
 
 // Image Generation
-import responsive from 'gulp-responsive';
 import gulpLoadPlugins from 'gulp-load-plugins'; 
 import rename from 'gulp-rename';
 import imagemin from 'gulp-imagemin';
-import { count } from 'console';
 
 const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 const { series } = gulp;
 const messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
+
 const sass = gulpSass(dartSass);
 
 const $ = gulpLoadPlugins({
@@ -61,14 +60,14 @@ function handleErrors() {
 };
 
 // Build the Jekyll Site
-function jekyllBuild(done) {
+gulp.task ("jekyllBuild", function jekyllBuild(done) {
   browserSync.notify(messages.jekyllBuild);
   return cp.spawn(jekyll, ['build'], { stdio: 'inherit' })
       .on('close', done);
-};
+});
 
 // SASS
-function sassTask() {
+gulp.task ("sass", function sassTask() {
   return gulp.src(src.css)
       .pipe(sourcemaps.init())
       .pipe(sass({
@@ -84,10 +83,10 @@ function sassTask() {
       .pipe(gulp.dest(dist.css))
       .pipe(browserSync.reload({ stream: true }))
       .pipe(gulp.dest('assets/css'));
-};
+});
 
 //  JS
-function jsTask() {
+gulp.task('js', function jsTask() {
   return browserify(src.js, { debug: true, extensions: ['es6'] })
       .transform('babelify', { presets: ['es2015'] })
       .bundle()
@@ -101,9 +100,9 @@ function jsTask() {
       .pipe(gulp.dest(dist.js))
       .pipe(browserSync.reload({ stream: true }))
       .pipe(gulp.dest('assets/js'));
-};
+});
 
-function criticalTask (cb) {
+gulp.task("critical", function criticalTask (cb) {
   generate({
     base: '_site/',
     src: 'index.html',
@@ -123,15 +122,15 @@ function criticalTask (cb) {
     extract: false,
     ignore: ['@font-face']
   });
-};
+});
 
-function watchTask() {
+gulp.task('watch', function watchTask() {
   gulp.watch('_sass/**/*.scss', ['sass']);
   gulp.watch(['*.html', '_layouts/*.html', '_includes/*.html', '_posts/*.md',  'pages_/*.md', '_include/*html'], ['rebuild']);
   gulp.watch(src.js, ['js']);
-};
+});
 
-function swTask() {
+gulp.task('sw', function swTask() {
   const rootDir ='./';
   const distDir = './_site';
 
@@ -139,8 +138,7 @@ function swTask() {
     staticFileGlobs: [distDir + '/**/*.{js,html,css,png,jpg,svg}'],
     stripPrefix: distDir
   });
-
-};
+});
 
 gulp.task('img', function imgTask() {
   var dirpath = [];
@@ -199,19 +197,7 @@ gulp.task('img', function imgTask() {
       counter++;
     }))
     .pipe(gulp.dest('./'));
-  });
-
-gulp.task('jekyll-build', jekyllBuild);
-
-gulp.task('deploy', gulp.series(jekyllBuild, function deploy() {
-  return gulp.src('./_site/**/*')
-      .pipe(deploy());
-}));
-
-gulp.task('rebuild', gulp.series(jekyllBuild, function (done) {
-  browserSync.reload();
-  done();
-}));
+});
 
 gulp.task('html', function htmlTask() {
   gulp.src('./_site/index.html')
@@ -222,15 +208,15 @@ gulp.task('html', function htmlTask() {
     .pipe(gulp.dest('./_site/./'))
 });
 
-gulp.task('browser-sync', gulp.series(sassTask, jsTask, swTask, jekyllBuild, function browserSyncTask() {
-  browserSync({
-      server: {
-          baseDir: '_site'
-      }
-  })
+gulp.task('deploy', gulp.series('jekyllBuild', function deploy() {
+  return gulp.src('./_site/**/*')
+      .pipe(deploy());
 }));
 
-gulp.task('default', gulp.series('browser-sync', watchTask));
+gulp.task('rebuild', gulp.series('jekyllBuild', function (done) {
+  browserSync.reload();
+  done();
+}));
 
 gulp.task('clean', function cleanTask() {
   return gulp.src('_site', {read: false})
@@ -245,4 +231,14 @@ gulp.task('serve', function serveTask() {
   });
 });
 
-gulp.task('build', gulp.series(sassTask, jsTask, jekyllBuild, swTask));
+gulp.task('browser-sync', gulp.series('sass', 'js', 'sw', 'jekyllBuild', function browserSyncTask() {
+  browserSync({
+      server: {
+          baseDir: '_site'
+      }
+  })
+}));
+
+
+gulp.task('build', gulp.series('sass', 'js', 'jekyllBuild', 'sw'));
+gulp.task('default', gulp.series('browser-sync', 'watch'));

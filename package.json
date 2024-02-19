@@ -47,7 +47,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp",
     "build": "gulp build",
-    "img": "gulp img"
+    "img" : "gulp img"
   },
   "repository": {
     "type": "git",
