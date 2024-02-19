@@ -132,7 +132,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/brian.png" alt="Brian Shu">
+		<img src="/assets/img/officers/brian.jpg" alt="Brian Shu">
 		<div class="info">
 			<h2>Brian Shu</h2>
 			<br>
@@ -254,9 +254,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
   <br><br>
 </div>
 
-<center>
-	<h2>Faculty Sponsors</h2>
-</center>
+<h2 style="margin: 1rem; text-align: center;">Faculty Sponsors</h2>
 
 <div id="officers-container">
   <div class="officer">
