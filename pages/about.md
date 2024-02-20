@@ -218,6 +218,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 			<br>
 			<p>Personnel, Administration and Finance Director</p>
 		</div>
+  </div>
   <div class="officer">
 		<img src="/assets/img/officers/Alana_Wesly.jpg" alt="Alana Wesly">
 		<div class="info">
