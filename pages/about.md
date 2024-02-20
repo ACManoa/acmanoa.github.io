@@ -232,7 +232,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 		<div class="info">
 			<h2>Alana Wesly</h2>
 			<br>
-			<p>Personnel, Administration and Finance Director</p>
+			<p>Personnel, Administration & Finance Specialist</p>
 	  </div>
   	</div>
 	<div class="officer">
