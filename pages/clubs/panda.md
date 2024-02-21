@@ -144,7 +144,7 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 		</div>
 	</div>
   <div class="officer">
-		<img src="/assets/img/officers/brian.png" alt="Brian Shu">
+		<img src="/assets/img/officers/brian.jpg" alt="Brian Shu">
 		<div class="info">
 			<h2>Brian Shu</h2>
 			<br>
