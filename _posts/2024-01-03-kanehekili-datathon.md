@@ -22,7 +22,6 @@ ACM at University of Hawaii at Manoa is proud to announce their first Datathon!
 
 Students of all levels of Data Science knowledge are encouraged to participate. There will be three levels in which teams can compete in: beginner, intermediate, and advanced, and workshops will be available for participants to attend throughout the event to supplement your data science skills. In teams of 4, participants will analyze and interpret data and present your project after 24 hours of creation and our panel of graders will select winners who will be awarded at the closing ceremony. 
 
-|       |                                                      |
 | ----- | ---------------------------------------------------- |
 | When  | Start: TBD                                           |
 |       | End: TBD                                             |
