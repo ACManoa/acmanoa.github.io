@@ -22,6 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Events', link: '/pages/event'}
   - {name: 'About', link: '/pages/about'}
+  - {name: 'ICSpace', link: '/pages/icspace'}
   - {name: 'Sponsors', link: '/pages/sponsors'}
 
 SIGS:
@@ -31,7 +32,7 @@ SIGS:
   - {name: 'ICSpark', link: '/pages/clubs/icspark'}
   - {name: 'PANDA', link: '/pages/clubs/panda'}
   - {name: 'SWITCH', link: '/pages/clubs/switch'}
-  - {name: 'ICSpace', link: '/pages/icspace'}
+
 tagline: >
   The Association for Computing Machinery at the University of Hawaii at Manoa
 
