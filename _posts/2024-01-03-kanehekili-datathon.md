@@ -18,14 +18,14 @@ Datathon, similar to a hackathon, is a weekend-long competition where students c
 
 ## Event Information
 
-ACM at University of Hawaii at Manoa is proud to announce their first Datathon that will take place from **March 9** of 2024 to **March 10**. Registrations will open on **January 12**.
+ACM at University of Hawaii at Manoa is proud to announce their first Datathon!
 
 Students of all levels of Data Science knowledge are encouraged to participate. There will be three levels in which teams can compete in: beginner, intermediate, and advanced, and workshops will be available for participants to attend throughout the event to supplement your data science skills. In teams of 4, participants will analyze and interpret data and present your project after 24 hours of creation and our panel of graders will select winners who will be awarded at the closing ceremony. 
 
 |       |                                                      |
 | ----- | ---------------------------------------------------- |
-| When  | Start: March 9 2024                                  |
-|       | End: March 10 2024                                   |
+| When  | Start: TBD                                           |
+|       | End: TBD                                             |
 | Where | UH Manoa POST 318, 319                               |
 
 
