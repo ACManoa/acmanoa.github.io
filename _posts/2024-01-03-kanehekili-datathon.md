@@ -5,6 +5,12 @@ featured-img: /S24_Datathon_Logo/S24_Datathon_Logo
 categories: [ACManoa]
 ---
 
+The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun! Students form teams to tackle questions of importance to Hawaii using data science and submit their solutions at the end of the weekend for a chance to win prizes.
+
+Students can also attend workshops held before the events, mini-events (during the datathon), and socials, and network with our industry partners! Attendance is FREE and all meals, snacks, and drinks are provided. We welcome participants from all disciplines, backgrounds, and technical levels!
+
+For more information, visit our Datathon website: datathon.acmmanoa.org
+
 # REGISTRATION OPEN!
 Datathon competition is open to students of all skill levels of Data Science.
 
@@ -12,15 +18,7 @@ Datathon competition is open to students of all skill levels of Data Science.
 
 **Step 2:** Form a team! Then register your team [here.](https://forms.gle/L3P55WFz9Ux8kyvD6)
 
-## What is Datathon?
-
-Datathon, similar to a hackathon, is a weekend-long competition where students collaborate in teams to develop a data science project that solves a problem announced at the event.
-
-## Event Information
-
-ACM at University of Hawaii at Manoa is proud to announce their first Datathon!
-
-Students of all levels of Data Science knowledge are encouraged to participate. There will be three levels in which teams can compete in: beginner, intermediate, and advanced, and workshops will be available for participants to attend throughout the event to supplement your data science skills. In teams of 4, participants will analyze and interpret data and present your project after 24 hours of creation and our panel of graders will select winners who will be awarded at the closing ceremony. 
+The Kanehekili Datathon is organized in collaboration with ACM Hawaii, the NSA, First Hawaiian Bank, and Pacific Air Forces (PACAF).
 
 |       |                                                      |
 | ----- | ---------------------------------------------------- |
