@@ -5,14 +5,16 @@ featured-img: /S24_Datathon_Logo/S24_Datathon_Logo
 categories: [ACManoa]
 ---
 
+# Kanehekili Datathon
 The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun! Students form teams to tackle questions of importance to Hawaii using data science and submit their solutions at the end of the weekend for a chance to win prizes.
 
 Students can also attend workshops held before the events, mini-events (during the datathon), and socials, and network with our industry partners! Attendance is FREE and all meals, snacks, and drinks are provided. We welcome participants from all disciplines, backgrounds, and technical levels!
 
-For more information, visit our Datathon website: datathon.acmmanoa.org
+The Kanehekili Datathon is organized in collaboration with ACM Hawaii, the NSA, First Hawaiian Bank, and Pacific Air Forces (PACAF).
+
+For more information, visit our Datathon website: [datathon.acmmanoa.org](https://datathon.acmmanoa.org)
 
 # REGISTRATION OPEN!
-Datathon competition is open to students of all skill levels of Data Science.
 
 **Step 1:** Register yourself for the competition [here.](https://forms.gle/74eHk3ZWGekb7BfN7) 
 
