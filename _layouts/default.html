@@ -1,62 +1,11 @@
----
-layout: compress
----
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-
+<html lang="en" data-dark="false">
   {% include head.html %}
-
-  <body class="site">
-
-    {% if site.google_tag_manager %}
-
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-
-    {% endif %}
-
+  <body>
     {% include header.html %}
-
-    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ site.title | escape }}</h1>
-        <p class="hero__meta">{{ site.tagline }}</p>
-      </div>
-    </div>
-
-    <main class="site__content">
- <!--      <br>
-      <center>
-        <iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=acmmanoa%40hawaii.edu&amp;color=%2329527A&amp;ctz=Pacific%2FHonolulu" style="border-width:0" width="1000" height="700" frameborder="0" scrolling="no"></iframe>
-      </center> -->
-       
-      <section class="blog">
-        <div class="container">
-          <h1  class="post-title" style="text-align: center;">Event Articles</h1>
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-       
-            {% for post in site.posts limit: 10 %}
-              {% include card.html %}
-            {% endfor %}
-
-            <!-- {% include pagination.html %} -->
-          </div>
-        </div>
-      </section>
+    <main>
+      {% include content.html content=content %}
     </main>
-
     {% include footer.html %}
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120243010-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-120243010-1');
-  </script>
-  <script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI"></script>
   </body>
-
 </html>

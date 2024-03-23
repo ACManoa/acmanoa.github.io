@@ -1,0 +1,29 @@
+- title: Kanehekili Datathon
+  subtitle: 03 Jan 2024
+  group: featured
+  image: images/photo.jpg
+  link: /2024/01/03/kanehekili-datathon.html
+  description: The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun!
+  repo: greenelab/lab-website-template
+  tags:
+    - datathon
+
+- title: Careers in Tech Fair Fall 2023
+  subtitle: 12 Oct 2023
+  group: featured
+  image: images/photo.jpg
+  link: /2023/10/12/Career-Fair.html
+  description: The University of Hawaii at Manoa’s Association for Computing Machinery (ACM) student club hosted the UH Manoa Tech & Intelligence Career Fair on March 31st, 2023 at the Campus Center Ballroom.
+  repo: greenelab/lab-website-template
+  tags:
+    - Careers Fair
+
+- title: Tech & Intelligence Career Fair Spring 2023
+  subtitle: 31 Mar 2023
+  group: featured
+  image: images/photo.jpg
+  link: /2023/03/31/career-fair.html
+  description: The University of Hawaii at Manoa’s Association for Computing Machinery (ACM) student club hosted the UH Manoa Tech & Intelligence Career Fair on March 31st, 2023 at the Campus Center Ballroom.
+  repo: greenelab/lab-website-template
+  tags:
+    - Careers Fair

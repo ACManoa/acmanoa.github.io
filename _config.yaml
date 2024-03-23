@@ -1,0 +1,96 @@
+# site properties and page defaults
+title: ACM@MANOA
+subtitle: The Association for Computing Machinery at the University of Hawaii at Manoa
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+header: images/background.jpg
+footer: images/background.jpg
+proofer: false
+
+# site social media and other links
+links:
+  email: communications@acmmanoa.org
+  instagram: https://www.instagram.com/uhm_ics/
+  github: https://github.com/ACManoa
+
+  
+carousels:
+  - images: 
+    - image: ../images/S24gen/IMG_4420.jpg
+    - image: ../images/S24gen/IMG_4421.jpg
+    - image: ../images/S24gen/IMG_4422.jpg
+    - image: ../images/S24gen/IMG_4423.jpg
+    - image: ../images/S24gen/IMG_4424.jpg
+    - image: ../images/S24gen/IMG_4425.jpg
+  - images: 
+    - image: ../images/S24CF/DSC02284.jpg
+    - image: ../images/S24CF/DSC02288.jpg
+    - image: ../images/S24CF/DSC02294.jpg
+    - image: ../images/S24CF/DSC02298.jpg
+    - image: ../images/S24CF/DSC02325.jpg
+    - image: ../images/S24CF/DSC02332.jpg
+    - image: ../images/S24CF/DSC02337.jpg
+    - image: ../images/S24CF/DSC02349.jpg
+    - image: ../images/S24CF/DSC02354.jpg
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+  # markdown files in /_clubs
+  - scope:
+      type: "clubs"
+    values:
+      layout: post
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+  clubs:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff

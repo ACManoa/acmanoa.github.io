@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Careers in Tech Fair Fall 2023"
-featured-img: /F23_CareerFair/F23_CareerFair
-categories: [ACManoa]
+title: Tech & Intelligence Career Fair Fall 2023
+image: images/post/F23_CareerFair/F23_CareerFair.jpg
+description:  The University of Hawaii at Manoa's Association for Computing Machinery (ACM) student club will host a Tech & Intelligence Career Fair on October 13rd, 2023 at the Campus Center Ballroom. 
+tags: career-fair
 ---
 
 ## Tech & Intelligence Career Fair
@@ -17,14 +17,7 @@ Information and Computer Science, Computer Engineering, and Management Informati
 
 ## MORE THAN 20 PARTICIPATING EMPLOYERS
 
-<center>
-	<figure class="full">
-	    <img src="/assets/img/posts/F23_CareerFair/2023-10-12-Career-Fair-employer.png" data-featherlight data-featherlight-target-attr="src">
-	</figure>
-</center>
-<br>
-
-More information can be found at this link: https://sites.google.com/hawaii.edu/uh-it-career-fair/student?authuser=0
+More information can be found at this link: <https://sites.google.com/hawaii.edu/uh-it-career-fair/student?authuser=0>
 
 <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 <script src="//code.jquery.com/jquery-latest.js"></script>

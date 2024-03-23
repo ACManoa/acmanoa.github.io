@@ -1,16 +1,16 @@
-<div class="dropdown is-hoverable">
-    <a class="header__link dropdown-trigger">
-      Clubs
-    </a>
-    <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+<div class="dropdown is-right is-hoverable">
+    <a class="dropdown-trigger">Clubs</a>
+    <div class="dropdown-menu" role="menu">
       <div class="dropdown-content">
-        <div class="dropdown-item">
-          {% for item in site.SIGS %}
-          <a class="header__link" href="{{ item.link | relative_url }}" itemprop="url">
-            <span itemprop="name">{{ item.name }}</span>
+        <div>
+          {% for item in site.clubs %}
+          <a class="dropdown-item" href="{{ item.url | relative_url }}" itemprop="url">
+            <span  href="{{ item.url | relative_url }}" itemprop="url" itemprop="name">{{ item.title }}</span>
           </a>
         {% endfor %}
         </div>
       </div>
     </div>
 </div>
+
+
