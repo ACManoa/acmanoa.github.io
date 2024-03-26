@@ -94,3 +94,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+webrick:
+  headers:
+    Cache-Control: no-cache
