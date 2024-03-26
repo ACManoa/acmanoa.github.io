@@ -7,5 +7,29 @@
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.getRegistrations().then(function(registrations) {
+                    if (registrations.length === 0) {
+                        console.log('No service workers registered.');
+                    } else {
+                        registrations.forEach(function(registration) {
+                            // Check if the service worker scope matches the current URL
+                            if (registration.scope === window.location.origin + '/') {
+                                registration.unregister().then(function(success) {
+                                    console.log('Service worker unregistered:', success);
+                                }).catch(function(error) {
+                                    console.error('Failed to unregister service worker:', error);
+                                });
+                            }
+                        });
+                    }
+                });
+            });
+        } else {
+            console.log('Service workers are not supported in this browser.');
+        }
+    </script>
   </body>
 </html>
