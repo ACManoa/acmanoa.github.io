@@ -40,7 +40,7 @@
 {% assign updated = page.last_modified_at | date_to_xmlschema %}
 
 {% assign feed = "feed.xml" | absolute_url %}
-
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>{{ fulltitle }}</title>
