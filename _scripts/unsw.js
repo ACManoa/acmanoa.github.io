@@ -12,3 +12,7 @@ if ('serviceWorker' in navigator) {
         });
     });
 }
+
+else {
+    console.log("no sw.js found");
+}
