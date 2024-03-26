@@ -5,14 +5,14 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
-
+service_worker: false
 # site social media and other links
 links:
   email: communications@acmmanoa.org
   instagram: uhm_ics
   github: ACManoa
 
-  
+
 carousels:
   - images: 
     - image: ../images/S24gen/IMG_4420.jpg
