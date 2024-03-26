@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: communications@acmmanoa.org
-  instagram: https://www.instagram.com/uhm_ics/
-  github: https://github.com/ACManoa
+  instagram: uhm_ics
+  github: ACManoa
 
   
 carousels:
