@@ -1,2 +1,4 @@
-/*
-Cache-Control: no-cache, no-store, must-revalidate
+cache_control:
+  headers:
+    Cache-Control: "no-cache, must-revalidate"
+    Expires: "Sat, 26 Jul 1997 05:00:00 GMT"    
