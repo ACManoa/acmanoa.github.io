@@ -5,6 +5,7 @@ description:
   default:
   ACMweb: ACM Server Administrator & Webmaster
   pandastaff: PANDA Officer
+  softdevstaff: Webmaster
 aliases:
   - J. Smith
   - J Smith

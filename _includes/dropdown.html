@@ -4,9 +4,11 @@
       <div class="dropdown-content">
         <div>
           {% for item in site.clubs %}
+            {% if item.status != "unpublished" %}
           <a class="dropdown-item" href="{{ item.url | relative_url }}" itemprop="url">
             <span  href="{{ item.url | relative_url }}" itemprop="url" itemprop="name">{{ item.title }}</span>
           </a>
+          {% endif %}
         {% endfor %}
         </div>
       </div>
