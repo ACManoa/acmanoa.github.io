@@ -1,6 +1,6 @@
 ---
 name: Naydel Espiritu
-image: images/officer/naydel.jpg
+image: images/softwaredev/naydel.jpg
 description:
   default:
   softdevstaff: Member
