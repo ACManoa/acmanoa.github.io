@@ -1,6 +1,6 @@
 ---
 name: Joline Law
-image: images/officer/joline.jpg
+image: images/officer/joline.png
 description:
   default:
   softdevstaff: Member
