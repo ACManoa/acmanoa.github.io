@@ -9,6 +9,9 @@ status: unpublished
 </center>
 
 <br>
+## Why
+
+Joining a software development team offers a valuable chance to enhance skills, build connections, and gain practical experience. It provides opportunities to collaborate on projects, refine problem-solving abilities, and adhere to deadlines, fostering discipline and professionalism. Additionally, involvement in such a team not only enriches one's resume but also enables the sharing of knowledge, contributing to personal and collective growth within the field.
 
 ## Officers
 
