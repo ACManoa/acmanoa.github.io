@@ -1,5 +1,5 @@
 ---
-name: Joline
+name: Joline Law
 image: images/officer/joline.jpg
 description:
   default:
