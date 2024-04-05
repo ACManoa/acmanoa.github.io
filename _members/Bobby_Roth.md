@@ -1,6 +1,6 @@
 ---
 name: Bobby Roth
-image: images/officer/bobby.jpg
+image: images/softwaredev/bobby.jpg
 description:
   default:
   softdevstaff: Member
