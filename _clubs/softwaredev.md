@@ -2,7 +2,11 @@
 title: Software Dev
 status: unpublished
 ---
-
+<center>
+	<figure class="full">
+	  <img src="../images/icon.png" title="Panda Logo" alt="Panda Logo">
+	</figure>
+</center>
 <center>
 	<h2>Meeting Times</h2>
 	<h4>Thursday 5:00-7:00 PM</h4>
