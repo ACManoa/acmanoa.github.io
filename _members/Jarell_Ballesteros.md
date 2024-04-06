@@ -1,6 +1,6 @@
 ---
 name: Jarell Ballesteros
-image: images/softwaredev/jarell.png
+image: images/softwaredev/jarell.jpg
 description:
   default:
   softdevstaff:
