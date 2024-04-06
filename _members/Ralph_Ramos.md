@@ -1,6 +1,6 @@
 ---
 name: Ralph Ramos
-image: images/officer/ralph.jpg
+image: images/softwaredev/ralph.jpg
 description:
   default:
   softdevstaff:
