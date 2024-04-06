@@ -4,6 +4,7 @@ image: images/officer/haku.jpg
 description:
   default:
   ACMmngr: Technical Project Manager
+  softdevstaff: Technical Project Manager
 aliases:
   - J. Smith
   - J Smith
