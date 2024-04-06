@@ -1,6 +1,6 @@
 ---
 name: Ruhi Pirnia
-image: images/officer/ruhi.png
+image: images/softwaredev/ruhi.png
 description:
   default:
   softdevstaff:
