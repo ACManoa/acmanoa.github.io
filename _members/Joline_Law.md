@@ -3,7 +3,7 @@ name: Joline Law
 image: images/softwaredev/joline.png
 description:
   default:
-  softdevstaff: Member
+  softdevstaff:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
