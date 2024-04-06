@@ -4,6 +4,7 @@ image: images/officer/katelynn.jpg
 description:
   default:
   ACMdirec: Operations Director
+  softdevstaff:
 aliases:
   - J. Smith
   - J Smith
