@@ -2,8 +2,8 @@
 name: Bobby Roth
 image: images/softwaredev/bobby.jpg
 description:
-  default: ACM Technical Project Manager
-  softdevstaff: ACM Technical Project Manager
+  default: Technical Project Manager
+  softdevstaff: Technical Project Manager
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
