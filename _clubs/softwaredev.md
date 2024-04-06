@@ -1,6 +1,5 @@
 ---
 title: ACM Software Development
-status: unpublished
 ---
 <center>
 	<figure class="full">
