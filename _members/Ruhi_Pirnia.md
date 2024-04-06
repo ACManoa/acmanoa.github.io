@@ -3,7 +3,7 @@ name: Ruhi Pirnia
 image: images/officer/ruhi.png
 description:
   default:
-  softwaredevstaff: Member
+  softdevstaff:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
