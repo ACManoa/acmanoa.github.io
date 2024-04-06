@@ -8,19 +8,20 @@ status: unpublished
 	</figure>
 </center>
 <center>
-	<h2>Meeting Times</h2>
+	<h2>Meeting Times/Locations</h2>
 	<h4>Thursday 5:00-7:00 PM</h4>
+	<h4>POST303G</h4>
 </center>
 
 <br>
 
 ## What do we do?
 
-We design functional applications and websites for ACM through collaborative group work using React (a popular Javascript Library). This club aims to familiarize students with using Integrated Development Environments (IDEs) such as IntelliJ IDEA and VSCode. 
+This club aims to familiarize students with using Integrated Development Environments (IDEs) such as IntelliJ IDEA and VSCode to build websites and web-based applications for ACM through collaborative group work using React (a popular Javascript Library). 
 
-## Why
+## Our Mission
 
-Joining a software development team offers a valuable chance to enhance skills, build connections, and gain practical experience. It provides opportunities to collaborate on projects, refine problem-solving abilities, and adhere to deadlines, fostering discipline and professionalism. Additionally, involvement in such a team not only enriches one's resume but also enables the sharing of knowledge, contributing to personal and collective growth within the field.
+ACM Manoa Software Development offers a valuable chance to enhance web development skills, build connections with peers, and gain practical experience. It provides opportunities to collaborate on application building while strengthening problem-solving skills, communication, and punctuality.
 
 ## Officers
 
