@@ -8,9 +8,10 @@ status: unpublished
 	</figure>
 </center>
 <center>
-	<h2>Meeting Times/Locations</h2>
+	<h2>Meeting Times</h2>
 	<h4>Thursday 5:00-7:00 PM</h4>
-	<h4>POST303G</h4>
+	<h2>Location</h2>
+	<h4>POST Building, Room 303G</h4>
 </center>
 
 <br>
