@@ -3,7 +3,7 @@ name: Naydel Espiritu
 image: images/softwaredev/naydel.jpg
 description:
   default:
-  softdevstaff: Member
+  softdevstaff: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
