@@ -12,7 +12,7 @@ ACManoa has three goals -- to provide _social_, _professional_, and _technical_ 
 
 
 {% include section.html %}
-## Events Articles
+## Event Articles
 {% capture content %}
 {% include list.html component="card" data="posts" %}
 {% endcapture %}
