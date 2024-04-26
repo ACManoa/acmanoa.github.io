@@ -4,6 +4,7 @@ image: images/officer/yongsung.png
 description:
   default:
   ACMspec: Logistics, Facilities & Security Specialist
+  pandastaff: PANDA Officer
   ballroomstaff: BDCUHM Treasurer
 aliases:
   - J. Smith
