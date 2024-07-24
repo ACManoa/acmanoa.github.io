@@ -1,7 +1,7 @@
 ---
 name: GreyHats
 type: SIG
-image: ..\images\grayhat\grayhats.png
+image: ../images/grayhat/grayhats.png
 order: 2
 ---
 

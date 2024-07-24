@@ -1,7 +1,7 @@
 ---
 name: GameDev
 type: SIG
-image: ..\images\gamedev\gamedev.png
+image: ../images/gamedev/gamedev.png
 order: 5
 ---
 
