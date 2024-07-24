@@ -31,6 +31,13 @@ carousels:
     - image: ../images/S24CF/DSC02337.jpg
     - image: ../images/S24CF/DSC02349.jpg
     - image: ../images/S24CF/DSC02354.jpg
+  - images:
+    - image: ../images/homepage/1.jpg
+    - image: ../images/homepage/2.jpg
+    - image: ../images/homepage/3.jpg
+    - image: ../images/homepage/4.jpg
+    - image: ../images/homepage/5.jpg
+    
 ### jekyll settings
 
 # front matter defaults
@@ -63,6 +70,7 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each club
   clubs:
     output: true
 

@@ -3,7 +3,7 @@ name: Alana Wesly
 image: images/officer/alana.jpg
 description: 
   default: 
-  ACMstaff: Personnel, Administration & Finance Specialist
+  ACMcoord: Finance Coordinator
 aliases:
   - J. Smith
   - J Smith

@@ -3,7 +3,6 @@ name: Jiahui Liao
 image: images/officer/jiahui.png
 description:
   default:
-  ACMmngr: Marketing Manager
   gamedevstaff: Coding Officer
 aliases:
   - J. Smith

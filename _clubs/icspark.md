@@ -1,5 +1,8 @@
 ---
-title: ICSpark
+name: ICSpark
+type: SIG
+image: images\icspark\ICSpark_Logo.png
+order: 4
 ---
 
 <center>

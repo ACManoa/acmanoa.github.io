@@ -3,43 +3,35 @@ title: ICSpace
 nav:
   order: 4
 ---
+# ICSpace at the University of Hawaii at Manoa
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}What is the ICSpace?
+Welcome to **ICSpace**, an interactive classroom dedicated to the Information and Computer Sciences (ICS) community at the University of Hawaii at Manoa. Located in **POST 318B**, this facility is designed exclusively for ICS undergraduate majors, graduate students, faculty, and staff. It fosters an environment of learning and collaboration. Guests are also welcome, provided they are accompanied by an ICS community member, ensuring a broad exchange of ideas and knowledge.
 
-POST 318B (ICSpace), is an interactive classroom intended for the use of the ICS Community, which is defined as: ICS undergraduate majors, ICS graduate students, ICS faculty, and ICS staff.  Guests are welcome as long as they are accompanied by an ICS Community member.
+## A Hub for Innovation and Learning
 
-<a href="http://www.ics.hawaii.edu/community/post-318b/" target="_blank">Read more on the ICS Department's goals for ICSpace here!</a>
+**ICSpace** is essential for advancing the educational and professional goals of the ICS community. It serves as a central hub where:
 
-Anyone is welcome to use this space, as long as the following rules are followed:
+- **Students and faculty** can engage in innovative projects
+- **Cutting-edge research** can be conducted
+- **Interactive learning sessions** can be held
 
-1. <strong>Respect others who are using the space for work.</strong>
-Keep the room in a quiet and reasonable volume.
+The space is equipped with **advanced technology and resources** that are crucial for preparing students for the demands of the tech industry. It enhances hands-on learning experiences and research capabilities, bridging the gap between academic knowledge and real-world applications.
 
-2. <strong>Keep the room clean and tidy</strong>
-The ICSpace is not visited by the school custodians. If you have garbage you'd like to throw out, there is a convenient garbage/recycling can located outside of the room.
+## Enhancing Academic Excellence
 
-<center>
-	<div class="row"> 
-	  <div class="column">
-	    <img src="../images/icspace/newicspace1.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="../images/icspace/newicspace2.jpg" data-featherlight data-featherlight-target-attr="src">
-	  </div>
-	  <div class="column">
-	    <img src="../images/icspace/newicspace3.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="../images/icspace/newicspace4.jpg" data-featherlight data-featherlight-target-attr="src">
-	  </div> 
-	</div>
-	<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
-	<script src="//code.jquery.com/jquery-latest.js"></script>
-	<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-	<style>
-		.row {
-		  display: flex;
-		  flex-wrap: wrap;
-		  padding: 0 4px;
-		}
-	</style>
-</center>
-<br>
+The presence of **ICSpace** not only enhances the academic experience but also significantly boosts the attractiveness of the ICS program to prospective students and faculty. By investing in **ICSpace**, sponsors can play a pivotal role in shaping the next generation of tech leaders and innovators.
 
+Funding for **ICSpace** represents a strategic opportunity to contribute to:
+
+- **The development of a skilled workforce**
+- **Tackling future technological challenges**
+- **Driving technological advancement**
+
+## Support ICSpace
+
+Want to help us enhance **ICSpace**? Your donations can make a significant impact. Contribute to the future of technology education by donating at ________venmo.
+By investing in **ICSpace**, you are supporting a vibrant community dedicated to innovation, collaboration, and excellence in Information and Computer Sciences.
+
+
+{% include carousel.html height="50" unit="%" duration="6" number="1" %}
 

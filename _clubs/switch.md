@@ -1,5 +1,8 @@
 ---
-title: SWITCH
+name: SWITCH
+type: SIG
+image: images\switch\switchlogo.png
+order: 3
 ---
 
 <center>

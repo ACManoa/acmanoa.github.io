@@ -1,5 +1,8 @@
 ---
-title: Game Dev
+name: GameDev
+type: SIG
+image: images\gamedev\gamedev.png
+order: 5
 ---
 
 <center>

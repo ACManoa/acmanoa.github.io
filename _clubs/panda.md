@@ -1,5 +1,9 @@
 ---
-title: PANDA
+name: PANDA
+type: SIG
+image: images\panda\Panda.png
+link: https://panda.acmmanoa.org/
+order: 1
 ---
 
 <center>

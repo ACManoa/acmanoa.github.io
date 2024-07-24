@@ -1,5 +1,8 @@
 ---
-title: Grey Hats
+name: GreyHats
+type: SIG
+image: images\grayhat\grayhats.png
+order: 2
 ---
 
 <center>

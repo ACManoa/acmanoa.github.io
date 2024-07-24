@@ -1,23 +1,39 @@
 ---
 ---
 
-# Our Goals and Mission Statement
+{% include carousel.html height="70" unit="%" duration="6" number="3" %}
+
+{% include section.html %}
  <strong style = "font-size: 1.2rem"><center> "ACManoa creates opportunities at UH Manoa to forge connections between students and Hawaii's burgeoning IT industry."</center></strong>
 
-ACManoa has three goals -- to provide _social_, _professional_, and _technical_ enrichment for our members. We provide events of all three kinds to meet our three goals.
-- We hold social events for our members to develop and strengthen their interpersonal relationships as well as to have fun.
-- We hold professional development events to connect our members to professionals in the industry within the local community as well as abroad
-- We also hold technical workshops and other types of technical enrichment events.
+
+{% include section.html %}
+## Our Programs
+
+{% include list.html data="clubs" component="portrait" filters="order:1" %}
+{% include list.html data="clubs" component="portrait" filters="order:2" %}
+{% include list.html data="clubs" component="portrait" filters="order:3" %}
+{% include list.html data="clubs" component="portrait" filters="order:4" %}
+{% include list.html data="clubs" component="portrait" filters="order:5" %}
+{% include list.html data="clubs" component="portrait" filters="order:6" %}
+
+{% include section.html %}
+## Upcoming Events
+
+{% include list.html component="card" data="posts" %}
+
+## Join the discord to hear more about the events !! 
+<center>
+<figure class="full">
+	<img src="../images/general/discord.png" title="Discord Logo" alt="Discord Logo">
+</figure>
+</center>
+
+<h1><a href="https://discord.gg/acmanoa-438617987701014528"><b>Link</b></a></h1>
 
 
 
 {% include section.html %}
-## Event Articles
-{% capture content %}
-{% include list.html component="card" data="posts" %}
-{% endcapture %}
 
-{%
-  include grid.html
-  content=content
-%}
+## News
+

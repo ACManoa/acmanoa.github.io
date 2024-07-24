@@ -3,7 +3,7 @@ name: William Evers-Hood
 image: images/officer/will.png
 description:
   default:
-  ACMcos: Chief of Staff
+  ACMvp: ACM Vice President
 aliases:
   - J. Smith
   - J Smith

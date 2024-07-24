@@ -3,6 +3,7 @@ name: Elijah Saloma
 image: images/officer/elijah.png
 description:
   default:
+  ACMdirec: Director of Membership
   pandastaff: PANDA Officer
 aliases:
   - J. Smith

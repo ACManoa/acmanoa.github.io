@@ -3,7 +3,7 @@ name: Seri Nakamura
 image: images/officer/seri.png
 description:
   default:
-  ACMcoord: Operations Coordinator
+  ACMcoord: Marketing Manager
   grayhatstaff: Grey Hats Board Member
   switchvp: Vice President of External Affairs
 aliases:
