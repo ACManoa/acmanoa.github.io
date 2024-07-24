@@ -2,7 +2,7 @@
 name: Ballroom
 order: 6
 type: SIG
-image: images\ballroom\BDC_Logo_Black.png
+image: ..\images\ballroom\BDC_Logo_Black.png
 ---
 
 <center>

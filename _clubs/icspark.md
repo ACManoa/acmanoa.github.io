@@ -1,7 +1,7 @@
 ---
 name: ICSpark
 type: SIG
-image: images\icspark\ICSpark_Logo.png
+image: ..\images\icspark\ICSpark_Logo.png
 order: 4
 ---
 
