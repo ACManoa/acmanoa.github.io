@@ -1,30 +1,60 @@
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">Association for Computing Machinery At Manoa</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
+<img height="200" src="./images/logo/ACMLogo_Big.png" alt="Association for Computing Machinery">
 </p>
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
+This repository contains the source code for the Association for Computing Machinery At Manoa. The website provides information about various student clubs, their activities, meeting times, and how to join them.
 
-👇👇 **Get Started** 👇👇
+Credit: This website is based on the [Lab Website Template](https://github.com/greenelab/lab-website-template) by the Greene Lab.
 
-[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+## How to Run Locally
 
-## Key Features
+To start a test server for the website, use the following command:
 
-- 🤖 Based on Git, GitHub, and Jekyll.
-- 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
-- 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
-  - Formatted tables, code blocks, figures, and other basic elements.
-  - Citations with thumbnails and other rich details.
-  - List large sets of data with flexible filters and components.
-  - ...many more
-- 👁️ Automatic pull request previews.
-- ⚙️ Easy and automated configuration.
-- 👥 Team member pages with bios, roles, and social media links.
-- 🖋️ Blog posts with tags and rich content.
-- 📱 Works and looks good on desktop and mobile.
-- 🤝 Great documentation and support (if we do say so ourselves).
-- ... and much more!
+```sh
+bundle exec jekyll serve
+```
 
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+## Repo Structure
+
+```
+├── _clubs/                 # Markdown files for each club
+│   ├── ballroom.md
+│   ├── gamedev.md
+│   ├── greyhats.md
+│   ├── icspark.md
+│   └── ...
+├── _data/                  # YAML files for data configuration
+│   └── types.yaml
+├── _includes/              # HTML includes for Jekyll
+│   ├── carousel.html
+│   ├── cols.html
+│   ├── figure.html
+│   ├── list.html
+│   ├── search-box.html
+│   ├── search-info.html
+│   ├── section.html
+│   └── site-search.html
+├── _layouts/               # Layout files for Jekyll
+│   ├── default.html
+│   └── post.html
+├── _posts/                 # Blog posts
+│   └── ...
+├── _scripts/               # JavaScript files for additional functionality
+│   └── dark-mode.js
+├── _styles/                # SCSS files for styling
+│   └── ...
+├── images/                 # Image assets
+│   ├── ballroom/
+│   ├── gamedev/
+│   ├── greyhats/
+│   ├── icspark/
+│   ├── logo/
+│   └── ...
+├── SIGS                    # Special Interest Groups index
+├── _config.yaml            # Jekyll configuration file
+├── Gemfile                 # Gemfile for Ruby dependencies
+├── Gemfile.lock            # Lock file for Ruby dependencies
+├── README.md               # This README file
+└── ...
+```

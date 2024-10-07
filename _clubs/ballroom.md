@@ -6,34 +6,59 @@ image: ../images/ballroom/BDC_Logo_Black.png
 ---
 
 <center>
-	<figure class="full">
-	  <img src="../images/ballroom/BDC_Logo_White.png" title="Ballroom Logo" alt="Ballroom Logo">
-	</figure>
+    <figure class="full">
+      <img src="../images/ballroom/BDC_Logo_White.png" title="Ballroom Logo" alt="Ballroom Logo">
+    </figure>
 </center>
 <br>
 
-## What is BallroomDanceClub?
+## What is Ballroom Dance Club?
 
-Ballroom is a fun physical activity that provides stress relief and allows you to build relationships and friends with other members. You can improve your posture, build confidence and add this to your resume. You might be surprised that most of the top Adult Amateur ballroom dancers in the US are Computer Science or Engineering majors/graduates and you might even have one of them interview you for your next job!
+Ballroom dancing is a fun and engaging physical activity that offers stress relief and opportunities to build friendships with other members. It can help improve your posture, boost your confidence, and even enhance your resume. Interestingly, many of the top Adult Amateur ballroom dancers in the US are Computer Science or Engineering majors and graduates — you might even have one of them interview you for your next job!
 
 Here are links to some of our performances:
 
-- [Holiday Performance](https://www.youtube.com/watch?v=9s1qy7VYDQ4)
-- [Spring Dance 2023](https://drive.google.com/file/d/1v1uZlxPLP1H6X2zB3BTPDV1w0jDcEInh/view?usp=sharing)
+<div style="display: flex; justify-content: space-around;">
+    <div style="flex: 1; text-align: center;">
+        <img src="../images/ballroom/photo1.png" alt="Photo 1" style="width: 500px; height: 300px;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="../images/ballroom/photo2.jpg" alt="Photo 2" style="width: 500px; height: 300px;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="../images/ballroom/photo3.jpg" alt="Photo 3" style="width: 500px; height: 300px;">
+    </div>
+</div>
 
-## What do we do?
+## What We Do
 
-Each week we learn the basics of various ballroom dances like Waltz, Cha-cha, Tango, Rumba, Samba, Swing, etc. We have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions that are held twice a year in the State of Hawaii.
+Each semester, we learn the basics of various ballroom dances, including the Waltz, Cha-cha, Tango, Rumba, Foxtrot, and Swing. Beyond our general meetings, we have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions held twice a year in the state, and in 2024, we had the chance to compete nationally at the DanceSport Championships. Typically, we have at least one performance and one competition each semester.
 
-Currently we meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa. From 6:00pm to 7:30pm, we learn basic steps and will continue to review them and build upon them in the following weeks. From 7:30 pm to 9:00 pm, we work on technique as well as training students for future performances and competitions. Make sure to bring shoes!
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 32%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9s1qy7VYDQ4?si=KXgOkvtbzspI9ZZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 
-## Who is welcome?
+  <div style="width: 32%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9s1qy7VYDQ4?si=KXgOkvtbzspI9ZZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
-The Ballroom Dance Club encourages non-dancers and beginners to join and learn how to ballroom dance. No dance experience is required to join the club.
+For more videos you can check out our youtube channel: Ballroom Bytes. You can also keep active on our instagram @bdcuhm.
 
-## How to join?
+## Everyone is Welcome
 
-Besides showing up on Tuesdays at practice, you can also join the [acm server](https://discord.gg/acmmanoa) and give yourself the ballroom dance role in the #roles channel. In the future, we may create a ballroom dance discord server.
+The Ballroom Dance Club encourages non-dancers and beginners to join and learn how to ballroom dance. No dance experience is required to join the club!
+
+<p style="font-size: 1.5	rem; font-weight: bold;">
+  We meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa.
+</p>
+
+Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of several styles. We continue to build upon them throughout the semester. Our advanced session is 7:30 pm to 9:00 pm, that’s when we work on technique as well as training students for future performances and competitions. Make sure to wear shoes!
+
+## Membership
+
+You can also join the acm server and give yourself the ballroom dance role in the #roles channel. We also have our own ballroom dance club discord server that you can join with the following link.
 
 {% include section.html %}
 
