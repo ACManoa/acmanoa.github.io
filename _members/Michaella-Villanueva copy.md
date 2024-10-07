@@ -1,7 +1,9 @@
 ---
-name: Yong-Sung Masuda
-image: images/officer/yongsung.png
+name: Michaella Villanueva
+image: images/officer/michaella.jpeg
 description:
+  default:
+  ballroomstaff: Treasurer
 aliases:
   - J. Smith
   - J Smith
@@ -17,4 +19,3 @@ Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
 Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
-

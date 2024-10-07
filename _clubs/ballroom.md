@@ -36,11 +36,14 @@ Each semester, we learn the basics of various ballroom dances, including the Wal
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 32%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9s1qy7VYDQ4?si=KXgOkvtbzspI9ZZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9s1qy7VYDQ4?si=KXgOkvtbzspI9ZZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="width: 32%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FCrCOw0V7J8?si=1X-GXa8VOD6tT0aS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
   <div style="width: 32%;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9s1qy7VYDQ4?si=KXgOkvtbzspI9ZZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sw2X1j38hYs?si=vpRZFJ1zXA_KsGqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -55,6 +58,8 @@ The Ballroom Dance Club encourages non-dancers and beginners to join and learn h
 </p>
 
 Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of several styles. We continue to build upon them throughout the semester. Our advanced session is 7:30 pm to 9:00 pm, that’s when we work on technique as well as training students for future performances and competitions. Make sure to wear shoes!
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.4215024069053!2d-157.82118238886684!3d21.294354980340692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006d9bc892b8f3%3A0xfc75af20eb90849!2sUniversity%20of%20Hawai%CA%BBi%20at%20M%C4%81noa%20Athletic%20Complex%20Studios!5e0!3m2!1sen!2sus!4v1728308956017!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Membership
 

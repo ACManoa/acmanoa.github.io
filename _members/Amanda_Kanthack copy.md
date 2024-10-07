@@ -1,9 +1,9 @@
 ---
-name: Michaella Villanueva
-image: images/officer/michaella.jpeg
+name: Amanda Kanthack
+image: images/officer/default.png
 description:
   default:
-  ballroomstaff: BDCUHM Communications Officer
+  ballroomstaff: Secretary
 aliases:
   - J. Smith
   - J Smith
