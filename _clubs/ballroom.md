@@ -20,13 +20,13 @@ Here are links to some of our performances:
 
 <div style="display: flex; justify-content: space-around;">
     <div style="flex: 1; text-align: center;">
-        <img src="../images/ballroom/photo1.png" alt="Photo 1" style="width: 500px; height: 300px;">
+        <img src="../images/ballroom/photo1.PNG" alt="Photo 1" style="width: 500px; height: 300px;">
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="../images/ballroom/photo2.jpg" alt="Photo 2" style="width: 500px; height: 300px;">
+        <img src="../images/ballroom/photo2.JPG" alt="Photo 2" style="width: 500px; height: 300px;">
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="../images/ballroom/photo3.jpg" alt="Photo 3" style="width: 500px; height: 300px;">
+        <img src="../images/ballroom/photo3.JPG" alt="Photo 3" style="width: 500px; height: 300px;">
     </div>
 </div>
 
