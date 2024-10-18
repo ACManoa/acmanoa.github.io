@@ -15,7 +15,7 @@ order: 1
 
 <center>
 	<h2>Meeting Times</h2>
-	<h4>Thursday 4:30-6:00 PM</h4>
+	<h4>Wednesday 4:30-6:00 PM</h4>
 </center>
 
 <br>
