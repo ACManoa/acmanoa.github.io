@@ -37,6 +37,19 @@ carousels:
     - image: ../images/homepage/3.jpg
     - image: ../images/homepage/4.jpg
     - image: ../images/homepage/5.jpg
+  - images:
+    - image: ../images/ballroom/landscape_1.jpg
+    - image: ../images/ballroom/landscape_2.png
+    - image: ../images/ballroom/landscape_3.JPG
+    - image: ../images/ballroom/landscape_4.jpg
+    - image: ../images/ballroom/landscape_5.JPG
+    - image: ../images/ballroom/landscape_6.jpg
+    - image: ../images/ballroom/landscape_7.jpg
+    - image: ../images/ballroom/landscape_8.jpg
+    - image: ../images/ballroom/landscape_9.jpg
+    - image: ../images/ballroom/landscape_10.jpg
+    - image: ../images/ballroom/landscape_11.PNG
+    - image: ../images/ballroom/landscape_12.JPG
     
 ### jekyll settings
 

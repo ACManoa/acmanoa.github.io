@@ -1,5 +1,5 @@
 ---
-name: Amanda Kanthack
+name: Alex Picken
 image: images/officer/default.png
 description:
   default:
