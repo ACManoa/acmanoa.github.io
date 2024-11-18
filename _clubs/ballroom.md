@@ -352,7 +352,8 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
       <br><br>
 
       <span class="yellow-text">Follows:</span>
-      <ul class="ul-style">
+      </p>
+      <ul id="section-text" class="ul-style">
         <li class="bullets">Cheapest Option: Amazon RoseMoli Women's Latin Dance Shoes
           <ul>
             <li class="sub-bullets">Select color Tan, 2.2 inch heels ~ $30</li>
@@ -360,16 +361,10 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
         
         </li>
       </ul>
-      <span class="ul-style" style="display: flex; justify-content: center; align-content: center">
+      <p id="section-text" class="ul-style" style="display: flex; justify-content: center; align-content: center; color: white; text-align: center">
         The following are more durable options, highly recommended, and can be used for practice and performance.
-      </span>
-      <ul class="ul-style">
-        <li class="bullets">Discount Dance Ladies Latin/Rhythm
-          <ul>
-            <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
-          </ul>
-        </li>
-
+      </p>
+      <ul id="section-text" class="ul-style">
         <li class="bullets">Discount Dance Ladies Latin/Rhythm
           <ul>
             <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
@@ -388,11 +383,11 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
           </ul>
         </li>
       </ul>
-      <span class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold">
+      <p id="section-text" class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold">
         NOTES: No Silver, Gold or White color
-      </span>
-      <ul class="ul-style">
-      <span class="yellow-text">Follows:</span>
+      </p>
+      <p id="section-text" class="yellow-text">Leads:</p>
+      <ul id="section-text" class="ul-style">
         <li class="bullets">Discount Dance Men’s Standard Ballroom Shoes
           <ul>
             <li class="sub-bullets">Select Black Leader ~ $70</li>
@@ -404,10 +399,10 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
           </ul>
         </li>
       </ul>
-      <br><br><br><br>
-      <span class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold">
+      <br>
+      <p id="section-text" class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold; text-align: center">
         In case you are interested in dance pants. Dance pants make a big difference in your ability to move and will improve your quality of dancing. They are more comfortable and easier to dance in than regular pants.
-      </span>
+      </p>
       <ul class="ul-style">
         <li class="bullets">StarDanceShop Dance Pants
           <ul>
@@ -415,7 +410,6 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
           </ul>
         </li>
       </ul>
-      </p>
 
       <h3 class="section-subheader" style="color: white">Hair & Makeup</h3>
       <p id="section-text" style="color: white">
@@ -426,13 +420,13 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
       <div style="display: flex; flex-direction: row; justify-content: space-between; margin: auto; width: 80%; height: 200px">
         <div style="width: 45%; height: 100%">
         <iframe width="100%" height="100%"
-        src="https://youtu.be/U73xhdQnRJc?si=OZYGW-HkLbkeGqx_">
+        src="https://www.youtube.com/embed/U73xhdQnRJc?si=OX-CxJZQ3hgk89pP">
         </iframe>
         </div>
 
         <div style="width: 45%; height: 100%">
         <iframe width="100%" height="100%"
-        src="https://youtu.be/lxI0On8ayAM?si=Q-pXfDHoNajmZane">
+        src="https://www.youtube.com/embed/lxI0On8ayAM?si=L7XApd24fFIDx-7D">
         </iframe>
         </div>
       </div>
