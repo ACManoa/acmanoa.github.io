@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% unless page.name == "Ballroom" %}
 {% include section.html background=page.image %}
 
 <h1 class="center">{{ page.title }}</h1>
@@ -14,6 +14,7 @@ layout: default
   updated=page.last_modified_at
   tags=page.tags
 %}
+{% endunless %}
 
 {% include section.html %}
 

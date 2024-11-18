@@ -5,6 +5,13 @@ type: SIG
 image: ../images/ballroom/BDC_Logo_Black.png
 ---
 <style>
+  html {
+    scroll-behavior: smooth;
+  }
+  .links {
+    color: black;
+    text-decoration: none;
+  }
   .blue-text {
     color: #042d62;
   }
@@ -33,8 +40,13 @@ image: ../images/ballroom/BDC_Logo_Black.png
     font-size: 55px;
     line-height: 100%;
   }
+  .section-subheader {
+    font-family: 'Poppins';
+    font-size: 45px;
+    line-height: 100%;
+  }
   #section-text {
-    font-family: 'Helvetica'; /*'Poppins';*/ 
+    font-family: 'Poppins'; /*'Poppins';*/ 
     font-size: 20px;
     font-weight: 500;
   }
@@ -58,12 +70,71 @@ image: ../images/ballroom/BDC_Logo_Black.png
     animation-delay: calc(var(--delay) * 0.1s);
   }
 
+  .nav-col {
+    background-color: #ffd166;
+    width: 20%;
+    margin: none;
+    padding: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ffe268;
+  }
+
+  .nav-bar {
+    background-color: #ffd166;
+    margin: none;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .nav-col:hover {
+    background-color: #dfb146;
+  }
+  
+  .nav-text {
+    margin: 30px auto 30px auto;
+  }
+
+  .divider {
+    height: 150px;
+    width: 100%;
+  }
+
+  .grey {
+    background-color: grey;
+    color: grey;
+  }
+
+  .bullets {
+    font-weight: bold;
+    font-family: 'Poppins';
+    font-size: 18px;
+  }
+
+  .sub-bullets {
+    font-weight: none;
+    font-family: 'Poppins';
+    font-size: 14px;
+  }
+
+  .ul-style {
+    color: white;
+  }
+
   @keyframes fadeIn {
     to {
       opacity: 1;
     }
   }
 </style>
+<div class="nav-bar">
+<a href="#about" class="links nav-col"><h3 class="nav-text">About</h3></a>
+<a href="#howtojoin" class="links nav-col"><h3 class="nav-text">How to Join</h3></a>
+<a href="#" class="links nav-col"><h3 class="nav-text">BDCUHM</h3></a>
+<a href="#news" class="links nav-col"><h3 class="nav-text">News</h3></a>
+<a href="#resources" class="links nav-col"><h3 class="nav-text">Resources</h3></a>
+</div>
 {% include carousel.html height="50" unit="%" duration="7" number="4" %}
 <script>
   document.addEventListener('scroll', function() {
@@ -79,7 +150,7 @@ image: ../images/ballroom/BDC_Logo_Black.png
     }
   });
 </script>
-<br>
+<br id="about">
 
 
 <div style="height: 506px">
@@ -132,7 +203,7 @@ image: ../images/ballroom/BDC_Logo_Black.png
 <div class="section-major" style="margin-top: 0px; border: 1px solid grey">
   <div style="width: 90%; padding: 20px; margin: auto">
     <div style="justify-content: center; align-content: center">
-      <h3 id="section-header" style="color: white; text-align: center">Everyone is Welcome</h3>
+      <h3 id="section-header" style="color: white; text-align: center">Everyone is Welcome!</h3>
     </div>
     <p id="section-text" style="color: white">
       The Ballroom Dance Club encourages
@@ -161,33 +232,35 @@ image: ../images/ballroom/BDC_Logo_Black.png
   </div>
 </div>
 
+
+<div class="section-major" style="background-color: white" id="howtojoin">
+  <div style="width: 90%; padding: 20px; margin: auto">
+    <h3 class="blue-text" id="section-header">How to Join</h3>
+    <p class="blue-text" id="section-text">
+    Join by simply 
+    <span class="yellow-text">showing up</span> and 
+    <span class="yellow-text">scanning the QR code</span> for our weekly attendance!
+
+    <br><br>
+    As part of 
+    <span class="yellow-text">ACMānoa</span>, you can join the ACM server and give yourself the 
+    <span class="yellow-text">ballroom dance</span> role in the #roles channel. We also have our own ballroom dance club discord server that you can join to connect with the ballroom community here!
+
+    <br><br>
+    Follow our instagram, 
+    <span class="yellow-text">@bdcuhm</span>, for more updates.
+    
+    </p>
+  </div>
+</div>
+
+<div class="divider grey"></div>
+
 <div class="section-major" style="background-color: white">
   <div style="width: 90%; padding: 20px; margin: auto">
     <h3 class="blue-text" id="section-header">Meet the Instructors!</h3>
   </div>
-  Note: Placeholder image
   <img src="../images/ballroom/photo5.JPG">
-</div>
-
-<div class="section-major">
-  <div style="width: 90%; padding: 20px; margin: auto">
-    <h3 id="section-header" style="color: white">Resources</h3>
-    <p id="section-text" style="color: white">
-    For the beginners session, you don't need dance shoes to participate. However, if you wanted to perform you would need to buy <span class="yellow-text">ballroom shoes</span>! Here is a quick guide to navigate through which shoes to get.
-    </p>
-  </div>
-  
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-</div>
-
-<div class="section-major" style="background-color: white">
-  <div style="width: 90%; padding: 20px; margin: auto">
-    <h3 class="blue-text" id="section-header">Membership</h3>
-    <p class="blue-text" id="section-text">
-  You can also join the acm server and give yourself the ballroom dance role in the #roles channel. We also have our own ballroom dance club discord server that you can join with the following link.
-    </p>
-  </div>
 </div>
 
 <!-- Video links
@@ -257,6 +330,141 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
   </div>
 </div>
 
+<div class="divider grey"></div>
+
+<div class="section-major" style="background-color: white" id="news">
+  <div style="width: 90%; padding: 20px; margin: auto">
+    <h3 class="blue-text" id="section-header">News Cycle</h3>
+  </div>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+
+<div class="divider grey"></div>
+
+<div class="section-major" id="resources">
+  <div style="width: 90%; padding: 20px; margin: auto">
+    <h3 id="section-header" style="color: white">Resources</h3>
+    <div style="padding: 10px">
+      <h3 class="section-subheader" style="color: white">Shoes</h3>
+      <p id="section-text" style="color: white; ">
+      For the beginners session, you don't need dance shoes to participate. However, if you wanted to perform you would need to buy <span class="yellow-text">ballroom shoes</span>! Here is a quick guide to navigate through which shoes to get.
+
+      <br><br>
+
+      <span class="yellow-text">Follows:</span>
+      <ul class="ul-style">
+        <li class="bullets">Cheapest Option: Amazon RoseMoli Women's Latin Dance Shoes
+          <ul>
+            <li class="sub-bullets">Select color Tan, 2.2 inch heels ~ $30</li>
+          </ul>
+        
+        </li>
+      </ul>
+      <span class="ul-style" style="display: flex; justify-content: center; align-content: center">
+        The following are more durable options, highly recommended, and can be used for practice and performance.
+      </span>
+      <ul class="ul-style">
+        <li class="bullets">Discount Dance Ladies Latin/Rhythm
+          <ul>
+            <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
+          </ul>
+        </li>
+
+        <li class="bullets">Discount Dance Ladies Latin/Rhythm
+          <ul>
+            <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
+          </ul>
+        </li>
+
+        <li class="bullets">Discount Dance Ladies Latin/Rhythm
+          <ul>
+            <li class="sub-bullets">Select color Brown Satin or Beige Brown ~ $60</li>
+          </ul>
+        </li>
+
+        <li class="bullets">Best Quality: StarDanceShopper Scorpio Latin/Rhythm Shoes
+          <ul>
+            <li class="sub-bullets">~ $80</li>
+          </ul>
+        </li>
+      </ul>
+      <span class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold">
+        NOTES: No Silver, Gold or White color
+      </span>
+      <ul class="ul-style">
+      <span class="yellow-text">Follows:</span>
+        <li class="bullets">Discount Dance Men’s Standard Ballroom Shoes
+          <ul>
+            <li class="sub-bullets">Select Black Leader ~ $70</li>
+          </ul>
+        </li>
+        <li class="bullets">StarDanceShop Smooth/Standard Ballroom Shoes
+          <ul>
+            <li class="sub-bullets">Select Black Leather ~ $100</li>
+          </ul>
+        </li>
+      </ul>
+      <br><br><br><br>
+      <span class="ul-style" style="display: flex; justify-content: center; align-content: center; font-weight: bold">
+        In case you are interested in dance pants. Dance pants make a big difference in your ability to move and will improve your quality of dancing. They are more comfortable and easier to dance in than regular pants.
+      </span>
+      <ul class="ul-style">
+        <li class="bullets">StarDanceShop Dance Pants
+          <ul>
+            <li class="sub-bullets">~ $90</li>
+          </ul>
+        </li>
+      </ul>
+      </p>
+
+      <h3 class="section-subheader" style="color: white">Hair & Makeup</h3>
+      <p id="section-text" style="color: white">
+      Ballroom requires a particular look, one very different from your day-to-day look! Here’s some tutorials to help guide you to your 
+      <span class="yellow-text">ballroom look</span>. Make sure to try it out on your own before your big day, and reach out to another member if you need help. 
+      </p>
+
+      <div style="display: flex; flex-direction: row; justify-content: space-between; margin: auto; width: 80%; height: 200px">
+        <div style="width: 45%; height: 100%">
+        <iframe width="100%" height="100%"
+        src="https://youtu.be/U73xhdQnRJc?si=OZYGW-HkLbkeGqx_">
+        </iframe>
+        </div>
+
+        <div style="width: 45%; height: 100%">
+        <iframe width="100%" height="100%"
+        src="https://youtu.be/lxI0On8ayAM?si=Q-pXfDHoNajmZane">
+        </iframe>
+        </div>
+      </div>
+
+      <p id="section-text" style="color: white;">
+      <span class="ul-style" style="display: flex; justify-content: center; align-content: center">
+      For individuals with super short hair, hair should be slicked back and neatly groomed.
+      </span>
+      <br><br>
+      Extra Tips:
+      <ul>
+        <li id="section-text" style="color: white">
+        For hair, generally you section out a piece of the front for styling and then use the rest of the hair to form the ponytail that eventually becomes the bun. For the front styling, you can also try  braiding it and then securing it to the back. It does not have to go over both sides either, it typically goes to your right side.
+        </li>
+      </ul>
+      </p>
+
+    </div>
+  </div>
+</div>
+
+<div class="section-major" style="background-color: #eec100">
+  <div style="width: 90%; padding: 20px; margin: auto">
+    <h3 class="blue-text" id="section-header">Competition Prep</h3>
+    <div class="container">
+      <p id="section-text" class="blue-text">
+        Each semester there is at least one local competition occuring, usually near the start of the semester. How do you prepare for it?
+      </p>
+    </div>
+  </div>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
 <!--
 
 <h2>Officers</h2>
