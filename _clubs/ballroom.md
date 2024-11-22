@@ -122,6 +122,20 @@ image: ../images/ballroom/BDC_Logo_Black.png
     color: white;
   }
 
+  .video-container {
+    width: 100%;
+    max-width: 300px;
+    aspect-ratio: 9 / 16;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
   @keyframes fadeIn {
     to {
       opacity: 1;
@@ -214,9 +228,14 @@ image: ../images/ballroom/BDC_Logo_Black.png
       <br><br>
     </p>
     
-    <p class="yellow-text" id="section-text" style="text-align: center; font-weight: bold;">We meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa.</p>
-    <div style="margin: auto">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <p class="yellow-text" id="section-text" style="text-align: center; font-weight: bold;">Beginner's sessions meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa.</p>
+    <div style="margin: 0 auto 0 auto">
+      <div style="width: 100%; display: flex; flex-direction: row">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="video-container" style="height: 450;">
+        <iframe src="https://drive.google.com/file/d/140lvfTjoQ-Ogm__YxoOyb340GfMdKKVS/preview" height="450" allow="autoplay"></iframe>
+        </div>
+      </div>
     </div>
     
     <p id="section-text" style="color: white">
