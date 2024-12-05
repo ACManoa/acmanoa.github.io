@@ -1,6 +1,7 @@
 ---
 name: GreyHats
 type: SIG
+link: https://uhmgreyhats.github.io
 image: ../images/grayhat/grayhats.png
 order: 2
 ---
