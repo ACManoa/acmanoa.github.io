@@ -18,7 +18,7 @@
   {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
 
   <section
-    class="background"
+    class="background" id="main-bg"
     data-size="{{ size }}"
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"

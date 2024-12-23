@@ -88,6 +88,56 @@ image: ../images/ballroom/BDC_Logo_Black.png
     flex-direction: row;
   }
 
+  .bdc-logo-figure {
+    width: 50%;
+    float: right;
+    height: auto;
+    padding: 0;
+    margin: 0;
+  }
+
+  .bdc-logo {
+    padding: 0; 
+    margin: auto; 
+    height: 100%;
+  }
+
+  .about-section {
+    width: 50%;
+  }
+  
+  .directions {
+    width: 100%; 
+    display: flex; 
+    flex-direction: row;
+  }
+
+  @media (max-width: 800px) {
+    .nav-col {
+      width: 100%;
+    }
+    .nav-bar {
+      flex-direction: column;
+    }
+    .bdc-logo-figure {
+      float: none;
+      margin: auto;
+      width: 100%;
+    }
+    .bdc-logo {
+      width: 100%;
+    }
+    #main-bg {
+      padding: 0;
+    }
+    .about-section {
+      width: 100%;
+    }
+    .directions {
+      flex-direction: column;
+    }
+  }
+
   .nav-col:hover {
     background-color: #dfb146;
   }
@@ -142,12 +192,14 @@ image: ../images/ballroom/BDC_Logo_Black.png
     }
   }
 </style>
+
+
 <div class="nav-bar">
-<a href="#about" class="links nav-col"><h3 class="nav-text">About</h3></a>
-<a href="#howtojoin" class="links nav-col"><h3 class="nav-text">How to Join</h3></a>
-<a href="#" class="links nav-col"><h3 class="nav-text">BDCUHM</h3></a>
-<a href="#news" class="links nav-col"><h3 class="nav-text">News</h3></a>
-<a href="#resources" class="links nav-col"><h3 class="nav-text">Resources</h3></a>
+  <a href="#about" class="links nav-col"><h3 class="nav-text">About</h3></a>
+  <a href="#howtojoin" class="links nav-col"><h3 class="nav-text">How to Join</h3></a>
+  <a href="#" class="links nav-col"><h3 class="nav-text">BDCUHM</h3></a>
+  <a href="#news" class="links nav-col"><h3 class="nav-text">News</h3></a>
+  <a href="#resources" class="links nav-col"><h3 class="nav-text">Resources</h3></a>
 </div>
 {% include carousel.html height="50" unit="%" duration="7" number="4" %}
 <script>
@@ -167,12 +219,12 @@ image: ../images/ballroom/BDC_Logo_Black.png
 <br id="about">
 
 
-<div style="height: 506px">
-  <figure style="width: 50%; float: right; height: auto; padding: 0; margin: 0">
-    <img src="../images/ballroom/BDCUHLogo-removebg-preview.png" title="Ballroom Logo" alt="Ballroom Logo" style="padding: 0; margin: auto; height: 100%">
+<div>
+  <figure class="bdc-logo-figure">
+    <img src="../images/ballroom/BDCUHLogo-removebg-preview.png" title="Ballroom Logo" alt="Ballroom Logo" class="bdc-logo">
   </figure>
 
-  <div style="width: 50%">
+  <div class="about-section">
     <h3 class="blue-text scroll-text" id="section-header">What is <span class="yellow-text">Ballroom Dance Club</span>?</h3>
 
     <p class="blue-text" id="section-text"><b>Ballroom dancing</b> is a fun and engaging physical activity that offers stress relief and opportunities to build friendships with other members. It can help improve your posture, boost your confidence, and even enhance your resume. Interestingly, many of the top Adult Amateur ballroom dancers in the US are <b>Computer Science</b> or <b>Engineering</b> majors and graduates — you might even have one of them interview you for your next job!</p>
@@ -230,8 +282,8 @@ image: ../images/ballroom/BDC_Logo_Black.png
     
     <p class="yellow-text" id="section-text" style="text-align: center; font-weight: bold;">Beginner's sessions meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa.</p>
     <div style="margin: 0 auto 0 auto">
-      <div style="width: 100%; display: flex; flex-direction: row">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <div class="directions">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="video-container" style="height: 450;">
         <iframe src="https://drive.google.com/file/d/140lvfTjoQ-Ogm__YxoOyb340GfMdKKVS/preview" height="450" allow="autoplay"></iframe>
         </div>
@@ -324,14 +376,14 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
         </div>
         <div class="col">
           <img src="../images/officer/michaella.jpeg" style="max-width: 150px; border-radius: 5px;">
-          <p class="blue-text" style="margin: 0"><b>MICHAELLA VILLANUEVA</b></p>
+          <p class="blue-text" style="margin: 0"><b>MICHAELLA\nVILLANUEVA</b></p>
           <p class="white-text" style="margin: 0">Treasurer</p>
         </div>
       </div>
       <div class="row">
         <div class="col">
           <img src="../images/officer/amanda.png" style="max-width: 150px; border-radius: 5px;">
-          <p class="blue-text" style="margin: 0"><b>AMANDA KANTHACK</b></p>
+          <p class="blue-text" style="margin: 0"><b>AMANDA\nKANTHACK</b></p>
           <p class="white-text" style="margin: 0">Secretary</p>
         </div>
         <div class="col">
