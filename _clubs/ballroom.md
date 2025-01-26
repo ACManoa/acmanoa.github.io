@@ -5,8 +5,16 @@ type: SIG
 image: ../images/ballroom/BDC_Logo_Black.png
 ---
 <style>
+  #map {
+    width: 600px;
+  }
+  a {
+    text-decoration: none;
+
+  }
   html {
     scroll-behavior: smooth;
+    scroll-padding-top: 100px;
   }
   .links {
     color: black;
@@ -79,6 +87,7 @@ image: ../images/ballroom/BDC_Logo_Black.png
     display: flex;
     flex-direction: column;
     border: 1px solid #ffe268;
+    z-index: 5000;
   }
 
   .nav-bar {
@@ -86,6 +95,11 @@ image: ../images/ballroom/BDC_Logo_Black.png
     margin: none;
     display: flex;
     flex-direction: row;
+    position: fixed;
+    z-index: 5000;
+    width: 100%;
+    top: 75px;
+    left: 0;
   }
 
   .bdc-logo-figure {
@@ -113,11 +127,15 @@ image: ../images/ballroom/BDC_Logo_Black.png
   }
 
   @media (max-width: 800px) {
+    #map {
+      width: auto;
+    }
     .nav-col {
       width: 100%;
     }
     .nav-bar {
       flex-direction: column;
+      top: 100px;
     }
     .bdc-logo-figure {
       float: none;
@@ -146,6 +164,12 @@ image: ../images/ballroom/BDC_Logo_Black.png
     margin: 30px auto 30px auto;
   }
 
+  .officer {
+    margin: 20px auto 20px auto;
+    width: 200px;
+    height: 200px;
+  }
+
   .divider {
     height: 150px;
     width: 100%;
@@ -154,6 +178,16 @@ image: ../images/ballroom/BDC_Logo_Black.png
   .grey {
     background-color: grey;
     color: grey;
+  }
+
+  .dark-blue {
+    background-color: #042d62;
+    color: #042d62;
+  }
+
+  .yellow {
+    background-color: #ffd200;
+    color: #ffd200;
   }
 
   .bullets {
@@ -198,9 +232,11 @@ image: ../images/ballroom/BDC_Logo_Black.png
   <a href="#about" class="links nav-col"><h3 class="nav-text">About</h3></a>
   <a href="#howtojoin" class="links nav-col"><h3 class="nav-text">How to Join</h3></a>
   <a href="#" class="links nav-col"><h3 class="nav-text">BDCUHM</h3></a>
-  <a href="#news" class="links nav-col"><h3 class="nav-text">News</h3></a>
+  <a href="#" class="links nav-col"><h3 class="nav-text">News</h3></a>
   <a href="#resources" class="links nav-col"><h3 class="nav-text">Resources</h3></a>
 </div>
+
+<br><br>
 {% include carousel.html height="50" unit="%" duration="7" number="4" %}
 <script>
   document.addEventListener('scroll', function() {
@@ -246,7 +282,7 @@ image: ../images/ballroom/BDC_Logo_Black.png
     
       <br><br>
 
-      Beyond our general meetings, we have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions held twice a year in the state, and in 2024, we had the chance to compete nationally at the DanceSport Championships. 
+      Beyond our classes, we have opportunities to perform for the ballroom dance community in Hawaii. We also participate in the ballroom dance competitions held twice a year in the state, and in 2024, we had the chance to compete nationally at the DanceSport Championships.
     
       <br><br>
     
@@ -283,8 +319,8 @@ image: ../images/ballroom/BDC_Logo_Black.png
     <p class="yellow-text" id="section-text" style="text-align: center; font-weight: bold;">Beginner's sessions meet every Tuesday at 6pm in Studio 2 of the Athletic Complex at University of Hawaii at Manoa.</p>
     <div style="margin: 0 auto 0 auto">
       <div class="directions">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <div class="video-container" style="height: 450;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d929.3582703804557!2d-157.81881117634862!3d21.293897099999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzM4LjciTiAxNTfCsDQ5JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1729291192865!5m2!1sen!2sus" id="map" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="video-container" style="height: 450; margin: auto;">
         <iframe src="https://drive.google.com/file/d/140lvfTjoQ-Ogm__YxoOyb340GfMdKKVS/preview" height="450" allow="autoplay"></iframe>
         </div>
       </div>
@@ -295,10 +331,8 @@ image: ../images/ballroom/BDC_Logo_Black.png
 
       Our 
       <span class="yellow-text"> beginners session</span> is 6:00pm to 7:30pm, during which we learn 
-      <span class="yellow-text"> basic steps</span> of several styles. We continue to build upon them throughout the semester. Our 
-      <span class="yellow-text"> advanced session</span> is 7:30 pm to 9:00 pm, that’s when we work on 
-      <span class="yellow-text"> technique</span> as well as training students for future performances and competitions. 
-      <span class="yellow-text"> Make sure to wear shoes!</span>
+      <span class="yellow-text"> basic steps</span> of several styles. We continue to build upon them throughout the semester.
+      <span class="yellow-text"> Make sure to bring water and wear shoes!</span>
     </p>
   </div>
 </div>
@@ -325,13 +359,28 @@ image: ../images/ballroom/BDC_Logo_Black.png
   </div>
 </div>
 
-<div class="divider grey"></div>
+<div class="divider dark-blue"></div>
 
-<div class="section-major" style="background-color: white">
-  <div style="width: 90%; padding: 20px; margin: auto">
-    <h3 class="blue-text" id="section-header">Meet the Instructors!</h3>
+<div style="display: flex; flex-direction: row">
+  <div style="display: flex; flex-direction: column">
+    <h3 class="yellow-text scroll-text" id="section-header">Meet the Instructors!</h3>
+
+    <p class="blue-text" id="section-text">
+    Our instructors, <span class="yellow-text">Ravi Narayan and Synthia Sumukti</span>, have been ballroom dancing for over 25 years.  They have represented Hawaii at the USA Dance Nationals Championships since 2015 and compete in all four styles of ballroom dance. They are also the President and Vice-President of the Honolulu Chapter of USA Dance, which is the Recognized Sport Organization for Dancesport under the United States Olympic & Paralympic Committee umbrella.
+    </p>
   </div>
-  <img src="../images/ballroom/photo5.JPG">
+  <div style="display: flex; flex-direction: column; padding: auto">
+    <div style="display: flex; flex-direction: row; margin: auto">
+      <figure class="bdc-logo-figure;" style="padding: auto; margin: auto">
+        <img src="../images/ballroom/photo5.JPG" title="Instructor Img 1" class="instructor-img" style="width: 80%; margin: auto; border: 2px solid; border-radius: 5px;">
+      </figure>
+      <!--
+      <figure class="bdc-logo-figure" style="padding:auto">
+        <img src="../images/ballroom/instructors_3.jpg" title="Instructor Img 2" class="instructor-img">
+      </figure>
+      -->
+    </div>
+  </div>
 </div>
 
 <!-- Video links
@@ -359,39 +408,39 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
 
 {% include section.html %}
 
-<div class="section-major" style="background-color: #eec100">
+<div class="section-major" style="background-color: #eec100; z-index: -1;">
   <div style="width: 90%; padding: 20px; margin: auto">
     <h3 class="blue-text" id="section-header">Meet the Officers!</h3>
     <div class="container" style="width: 60%; margin: auto">
       <div class="row">
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/ravi.png" style="max-width: 150px; border-radius: 5px;">
           <p class="blue-text" style="margin: 0"><b>RAVI NARAYAN</b></p>
           <p class="white-text" style="margin: 0">President</p>
         </div>
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/gregory.png" style="max-width: 150px; border-radius: 5px;">
           <p class="blue-text" style="margin: 0"><b>GERGORY SNYDER</b></p>
           <p class="white-text" style="margin: 0">Vice-President</p>
         </div>
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/michaella.jpeg" style="max-width: 150px; border-radius: 5px;">
-          <p class="blue-text" style="margin: 0"><b>MICHAELLA\nVILLANUEVA</b></p>
+          <p class="blue-text" style="margin: 0"><b>MICHAELLA VILLANUEVA</b></p>
           <p class="white-text" style="margin: 0">Treasurer</p>
         </div>
       </div>
       <div class="row">
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/amanda.png" style="max-width: 150px; border-radius: 5px;">
-          <p class="blue-text" style="margin: 0"><b>AMANDA\nKANTHACK</b></p>
+          <p class="blue-text" style="margin: 0"><b>AMANDA KANTHACK</b></p>
           <p class="white-text" style="margin: 0">Secretary</p>
         </div>
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/alyssia.png" style="max-width: 150px; border-radius: 5px;">
           <p class="blue-text" style="margin: 0"><b>ALYSSIA CHEN</b></p>
           <p class="white-text" style="margin: 0">Marketing Officer</p>
         </div>
-        <div class="col">
+        <div class="col officer">
           <img src="../images/officer/alex.png" style="max-width: 150px; border-radius: 5px;">
           <p class="blue-text" style="margin: 0"><b>ALEX PICKEN</b></p>
           <p class="white-text" style="margin: 0">Communications Officer</p>
@@ -401,7 +450,8 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
   </div>
 </div>
 
-<div class="divider grey"></div>
+<!--
+<div class="divider dark-blue"></div>
 
 <div class="section-major" style="background-color: white" id="news">
   <div style="width: 90%; padding: 20px; margin: auto">
@@ -409,8 +459,9 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
   </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
+-->
 
-<div class="divider grey"></div>
+<div class="divider" style="background-color: #555555; color: #555555"></div>
 
 <div class="section-major" id="resources">
   <div style="width: 90%; padding: 20px; margin: auto">
@@ -425,7 +476,9 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
       <span class="yellow-text">Follows:</span>
       </p>
       <ul id="section-text" class="ul-style">
-        <li class="bullets">Cheapest Option: Amazon RoseMoli Women's Latin Dance Shoes
+        <li class="bullets"><a href="https://www.amazon.com/dp/B07WLQQXFX?ref_=cm_sw_r_apan_dp_KAPEEWMA5R639N40BEXW&fbclid=IwAR1fMSqJhKmUkZVCx_T8uKUk7iYNfKID-Kkpcndk77fg4HLHMUea7s-uteQ">
+        Cheapest Option: Amazon RoseMoli Women's Latin Dance Shoes
+        </a>
           <ul>
             <li class="sub-bullets">Select color Tan, 2.2 inch heels ~ $30</li>
           </ul>
@@ -436,19 +489,29 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
         The following are more durable options, highly recommended, and can be used for practice and performance.
       </p>
       <ul id="section-text" class="ul-style">
-        <li class="bullets">Discount Dance Ladies Latin/Rhythm
+        <li class="bullets">
+        <a href="https://www.discountdance.com/dancewear/style_6005.html?fbclid=IwAR2GBzlxReCNBughgesLZ6AUn3WT0ifU7y9XZZP7u-oZo3oyFo_OmPP-6Kg">Discount Dance Ladies Latin/Rhythm</a>
           <ul>
             <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
           </ul>
         </li>
 
-        <li class="bullets">Discount Dance Ladies Latin/Rhythm
+        <li class="bullets">
+        <a href="https://www.discountdance.com/dancewear/style_1683.html?fbclid=IwAR0Jf-jriXXyep1_ouHLnsgDrnJ9HgMbV-8dFLiynMeWO4CJn_J5pOYTfu4">Discount Dance Ladies Latin/Rhythm</a>
+          <ul>
+            <li class="sub-bullets">Select color Brown Satin only ~ $60</li>
+          </ul>
+        </li>
+
+        <li class="bullets">
+        <a href="https://www.discountdance.com/dancewear/style_1692.html?fbclid=IwAR1fMSqJhKmUkZVCx_T8uKUk7iYNfKID-Kkpcndk77fg4HLHMUea7s-uteQ"> Discount Dance Ladies Latin/Rhythm</a>
           <ul>
             <li class="sub-bullets">Select color Brown Satin or Beige Brown ~ $60</li>
           </ul>
         </li>
 
-        <li class="bullets">Best Quality: StarDanceShopper Scorpio Latin/Rhythm Shoes
+        <li class="bullets">
+        <a href="https://www.stardanceshop.com/70820222.html?fbclid=IwAR14yZczVb5VkdOnb10gdsXQy3NR1CgKfg3jBPst8u0HT9yfIQRjI8ExMQM">Best Quality: StarDanceShopper Scorpio Latin/Rhythm Shoes</a>
           <ul>
             <li class="sub-bullets">~ $80</li>
           </ul>
@@ -459,12 +522,14 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
       </p>
       <p id="section-text" class="yellow-text">Leads:</p>
       <ul id="section-text" class="ul-style">
-        <li class="bullets">Discount Dance Men’s Standard Ballroom Shoes
+        <li class="bullets">
+        <a href="https://www.discountdance.com/dancewear/style_919101.html?fbclid=IwAR2orUhakE3SfTCYI9hmG5sesDoBfXorpu_5v5QMHNmPnF8A4_N-cTmXWfc">Discount Dance Men’s Standard Ballroom Shoes</a>
           <ul>
             <li class="sub-bullets">Select Black Leader ~ $70</li>
           </ul>
         </li>
-        <li class="bullets">StarDanceShop Smooth/Standard Ballroom Shoes
+        <li class="bullets">
+        <a href="https://www.stardanceshop.com/250302.html?fbclid=IwAR3l1BOfsYoXsax2yo4ZOnRw31xCUA3qd7nAcVr-3EYJHACUASpHSZLGISI">StarDanceShop Smooth/Standard Ballroom Shoes</a>
           <ul>
             <li class="sub-bullets">Select Black Leather ~ $100</li>
           </ul>
@@ -475,7 +540,8 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
         In case you are interested in dance pants. Dance pants make a big difference in your ability to move and will improve your quality of dancing. They are more comfortable and easier to dance in than regular pants.
       </p>
       <ul class="ul-style">
-        <li class="bullets">StarDanceShop Dance Pants
+        <li class="bullets">
+        <a href="https://www.stardanceshop.com/mp104.html?fbclid=IwAR2hl6EdtmdyLthi1eKw586q6uxuM4_izu9YWZFrnQhHawOewisoGUP5zYI">StarDanceShop Dance Pants</a>
           <ul>
             <li class="sub-bullets">~ $90</li>
           </ul>
@@ -519,6 +585,7 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
   </div>
 </div>
 
+<!--
 <div class="section-major" style="background-color: #eec100">
   <div style="width: 90%; padding: 20px; margin: auto">
     <h3 class="blue-text" id="section-header">Competition Prep</h3>
@@ -530,6 +597,7 @@ Our beginners session is 6:00pm to 7:30pm, during which we learn basic steps of 
   </div>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
+-->
 <!--
 
 <h2>Officers</h2>
