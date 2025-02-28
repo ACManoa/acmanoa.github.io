@@ -36,7 +36,7 @@ ACM Manoa has three goals – to provide social, professional, and technical enr
 
 At the University of Hawaii at Manoa, the Association for Computing Machinery (ACM) fosters a dynamic community through Special Interest Groups (SIGs). These groups cater to specific interests within the ACM umbrella, allowing members to independently plan events and activities aligned with their unique goals. While SIGs focus on particular topics, the events they organize are inclusive, welcoming not just SIG members, but all who are interested.
 
-Members of ACM Manoa are actively encouraged to spearhead new SIGs around topics they are passionate about. This initiative empowers members to lead and collaborate on events and projects that reflect their interests, thereby enhancing the vibrancy and diversity of our community.
+Members of ACM Manoa are actively encouraged to spearhead new SIGs around topics they are passionate about. This initiative empowers members to lead and collaborate on events and projects that reflect their interests, thereby enhancing the vibrancy of our community.
 
 If you have an idea for a new SIG or wish to start one, please reach out to [communications@acmmanoa.org](communications@acmmanoa.org) to begin your journey. This is a fantastic opportunity to contribute to and shape the ACM community at Manoa.
 
