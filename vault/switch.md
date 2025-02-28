@@ -1,4 +1,6 @@
----
+To re-add switch as a SIG, delete this message, uncomment the file, copy and paste file to _clubs and then uncomment last line in SIGS/index.md
+
+<!-- ---
 name: SWITCH
 type: SIG
 image: ../images/switch/switchlogo.png
@@ -42,4 +44,4 @@ Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 
 {% include list.html data="members" component="portrait" filters="description:switchpres" description="switchpres" %}
 {% include list.html data="members" component="portrait" filters="description:switchvp" description="switchvp" %}
-{% include list.html data="members" component="portrait" filters="description:switchstaff" description="switchstaff" %}
+{% include list.html data="members" component="portrait" filters="description:switchstaff" description="switchstaff" %} -->
