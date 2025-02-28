@@ -19,4 +19,4 @@ ACM Manoa caters to a wide array of interests, spanning programming, cybersecuri
 {% include list.html data="clubs" component="portrait" filters="order:3" %}
 {% include list.html data="clubs" component="portrait" filters="order:4" %}
 {% include list.html data="clubs" component="portrait" filters="order:5" %}
-{% include list.html data="clubs" component="portrait" filters="order:6" %}
+<!-- {% include list.html data="clubs" component="portrait" filters="order:6" %} -->

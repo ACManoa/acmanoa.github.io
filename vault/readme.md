@@ -1,0 +1,1 @@
+This directory contains files that have been removed temporarily from the site due to DEI compliance website restrictions outlined in issue https://github.com/ACManoa/acmanoa.github.io/issues/45
