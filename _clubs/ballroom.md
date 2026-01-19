@@ -92,13 +92,13 @@ image: ../images/ballroom/BDC_Logo_Black.png
 
   .nav-bar {
     background-color: #ffd166;
-    margin: none;
+    margin: 0px;
     display: flex;
     flex-direction: row;
-    position: fixed;
+    position: sticky;
     z-index: 5000;
     width: 100%;
-    top: 75px;
+    top: 80px;
     left: 0;
   }
 
@@ -126,35 +126,13 @@ image: ../images/ballroom/BDC_Logo_Black.png
     flex-direction: row;
   }
 
-  @media (max-width: 800px) {
-    #map {
-      width: auto;
-    }
-    .nav-col {
-      width: 100%;
-    }
+  @media (max-width: 1240px) {
     .nav-bar {
-      flex-direction: column;
-      top: 100px;
-    }
-    .bdc-logo-figure {
-      float: none;
-      margin: auto;
-      width: 100%;
-    }
-    .bdc-logo {
-      width: 100%;
-    }
-    #main-bg {
-      padding: 0;
-    }
-    .about-section {
-      width: 100%;
-    }
-    .directions {
-      flex-direction: column;
+      top: 122px;
     }
   }
+
+  
 
   .nav-col:hover {
     background-color: #dfb146;
@@ -204,6 +182,40 @@ image: ../images/ballroom/BDC_Logo_Black.png
 
   .ul-style {
     color: white;
+  }
+
+  @media (max-width: 800px) {
+    .nav-text {
+      margin: 10px auto 10px auto;
+    }
+    #map {
+      width: auto;
+    }
+    .nav-col {
+      width: 100%;
+    }
+    .nav-bar {
+      position: static;
+      flex-direction: column;
+      top: 145px;
+    }
+    .bdc-logo-figure {
+      float: none;
+      margin: auto;
+      width: 100%;
+    }
+    .bdc-logo {
+      width: 100%;
+    }
+    #main-bg {
+      padding: 0;
+    }
+    .about-section {
+      width: 100%;
+    }
+    .directions {
+      flex-direction: column;
+    }
   }
 
   .video-container {
